@@ -23,6 +23,4 @@ It does **not** sell products or services (which are handled by its commercial c
 ## Canonical Voice
 The public voice of UAC is direct, grounded, educated, and human. It strictly forbids emotional "rescue" language (e.g., "saved", "fur babies", "abandoned") and instead focuses on continuity, genetic stewardship, and quiet professionalism. (source: raw/operator-notes/UAC_BRAND_BIBLE.md)
 
-## Point-in-Time Demographics (as of 2026-02-10)
-*Note: Counts reflect historical document state, not current inventory.*
-- Operated the largest known herd of Arapawa goats (9 head out of roughly 295 in the US) as of February 2026.
+

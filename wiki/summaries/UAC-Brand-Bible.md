@@ -33,6 +33,4 @@ EDEN and all UAC communications must strictly avoid "rescue," "saved," "poor ani
 - **Terra Nova Roots LLC:** A commercial operating company focused on revenue, meat sales, CSA, and agritourism. Never fundraises.
 Both share the same core voice, but their operations are strictly separated.
 
-## Point-in-Time Data (as of 2026-02-10)
-*Note: The following metrics reflect the farm state on the document's publication date and do not assert current counts.*
-- UAC managed 9 Arapawa goats out of an estimated 295 in the United States as of 2026-02-10.
+
