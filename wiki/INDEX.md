@@ -11,3 +11,7 @@
 
 ## Concepts
 - [[concepts/UAC-Canonical-Voice]]
+
+## Syntheses
+- [[syntheses/Night-Ops-Report-July2]]
+- [[syntheses/S1-Full-Standup-Intel-Analysis]]
