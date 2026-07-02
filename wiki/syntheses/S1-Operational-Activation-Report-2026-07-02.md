@@ -42,6 +42,29 @@ On 2026-07-02 19:48 EDT, the S-1 loop processed live Gmail data from `operations
 - Latest verification report: `s1_operational/data/reports/s1_verification_20260702_194830.md`
 - Cron script: `.hermes/scripts/s1_inbound_shadow_loop.sh`
 - Cron job: `3e5d671ba286` — `S1-Inbound-Task-Governance-Shadow-Loop`, every 30 minutes, local delivery, no-agent script mode.
+- E2E verification harness: `s1_verification_harness/s1_e2e_verify.py`
+- Harness artifact from verified rerun: `eden-data/s1-verification/20260702T235043Z-1483b30e/S1_E2E_REPORT.md`
+
+## E2E harness verification
+
+After the live Gmail shadow loop was installed, a separate S-1 verification harness was present and rerun by EDEN:
+
+```bash
+cd /persist/eden/hermes/workspace && /persist/eden/hermes/workspace/.venv/bin/python s1_verification_harness/s1_e2e_verify.py
+```
+
+Actual rerun result: **PASS** for all required checks:
+
+- `task_schema`
+- `program_schema`
+- `governance_schema`
+- `fixture_inbound_route`
+- `booking_registration_route`
+
+Optional probes remained blocked/skipped:
+
+- `arcos_printers`: **SKIP** — `Permission denied (publickey,password)`.
+- `live_gmail_unread`: **SKIP** in this harness because it is designed around `himalaya`, which is not installed; live Gmail is separately verified through the Google Workspace Python fallback in the S-1 operational loop.
 
 ## Safety gates preserved
 
