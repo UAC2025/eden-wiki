@@ -16,3 +16,4 @@
 - [[syntheses/Night-Ops-Report-July2]]
 - [[syntheses/S1-Full-Standup-Intel-Analysis]]
 - [[syntheses/S1-Operational-Activation-Report-2026-07-02]]
+- [[syntheses/Farmbrite-Endpoint-Source-Truth-Alignment-2026-07-02]]
