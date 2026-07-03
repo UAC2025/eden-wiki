@@ -20,3 +20,4 @@
 ## [2026-07-03] governance-templates | Board formation/adoption templates | 10 pages affected
 ## [2026-07-03] operations-standard | S1-Final-Closeout-Standard | 1 page affected
 ## [2026-07-03] correction | S1 closeout requires real-world outputs before no-gap inspection | 1 page affected
+## [2026-07-03] task-ledger | S1-Action-Ledger + Accountant Request Packet | 3 pages affected

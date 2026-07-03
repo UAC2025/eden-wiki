@@ -73,11 +73,12 @@ S-1 closed the next governance loop: Google Drive governance documents were inde
 ## S-1 next deliverable order
 
 1. **IRS Annual Filing Matrix** — CREATED: [[IRS-Annual-Filing-Matrix]]. 2025 evidenced; 2016–2024 gap flagged.
-2. **PA Compliance Matrix** — CREATED: [[PA-Compliance-Matrix]]. PA entity evidence filed; BCO/charitable registration gap flagged.
-3. **Board Governance Packet** — INDEX CREATED: [[Board-Governance-Packet-Index]]. Bylaws/minutes/policies gap flagged.
-4. **Donation & Accounting Controls** — INDEX CREATED: [[Donation-and-Accounting-Controls-Index]]. Donation substantiation/accountant review gap flagged.
-5. **Contracts/Grants Packet** — NEXT after governance base: UWBC/QOLA/agreements and reporting obligations.
-6. **Commander Review Packet** — only gaps/gates requiring Chad.
+2. **PA Compliance Matrix** — CREATED: [[PA-Compliance-Matrix]]. PA entity evidence filed; BCO/charitable status missing.
+3. **Board Governance Packet Index** — CREATED: [[Board-Governance-Packet-Index]]. Bylaws/charter draft evidence filed; no real board/adoption yet.
+4. **Donation/Accounting Controls Index** — CREATED: [[Donation-and-Accounting-Controls-Index]]. Controls not yet evidenced.
+5. **S-1 Action Ledger** — CREATED: [[../S1-Action-Ledger-2026-07-03]]. TaskAI converted gaps to owned actions/status/gates.
+6. **Accountant/Commander Request Packet** — CREATED: [[UAC-Accountant-Request-Packet-2026-07-03]]. Ready for Commander review; not sent.
+7. **Contracts/Grants Packet** — NEXT after governance base: UWBC/QOLA/agreements and reporting obligations.
 
 ## Evidence locations
 
