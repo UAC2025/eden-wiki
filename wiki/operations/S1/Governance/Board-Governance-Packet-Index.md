@@ -4,28 +4,52 @@ type: governance-index
 created: 2026-07-03
 updated: 2026-07-03
 entity: UAC
+status: formation-gap
 ---
 
 # Board Governance Packet Index — UAC
 
 ## BLUF
-S-1 created the board governance packet index. At this point, **board records/policies are a gap**, not a closed evidence area.
+Commander corrected S-1: **UAC has never had a real board.** Therefore this is not a missing-records hunt. It is a **board formation and governance adoption gap**.
+
+## Commander correction
+
+Source: [[Commander-Correction-No-Real-Board-2026-07-03]]
+
+- No real board has existed.
+- Bylaws and board charter were never technically signed.
+- They were documents in the Commander's inbox, not adopted board records.
+- Items like minutes, resolutions, and authority records do not exist yet.
 
 ## Evidence status
 
-| Governance item | Evidence in S-1 packet? | Needed next |
-|---|---:|---|
-| Articles / 501(c)(3) purpose language | Yes — [[Drive-articles-of-incorporation-pdf]] | Confirm if full articles/bylaws also exist elsewhere. |
-| Bylaws | Yes — [[UAC-Bylaws-Evidence]] | Verify whether these are current adopted bylaws and whether amendments exist. |
-| Board charter | Yes — [[UAC-Board-Charter-Evidence]] | Verify whether this charter was signed/adopted; signature/date line appears blank in extracted text. |
-| Board roster / officer appointments | No | Provide current board/officer records. |
-| Annual meeting minutes | No | Provide minutes or confirm none exist. |
-| Banking authority resolution | No | Provide if available. |
-| Filing authority resolution | No | Provide if available. |
-| Conflict-of-interest policy | No | Provide or create. |
-| Document retention policy | No | Provide or create. |
-| Whistleblower / ethics policy | No | Provide if required/desired. |
+| Governance item | Evidence in S-1 packet? | Corrected status | Needed next |
+|---|---:|---|---|
+| Articles / 501(c)(3) purpose language | Yes — [[Drive-articles-of-incorporation-pdf]] | Formation evidence | Retain; reconcile with current mission language. |
+| Bylaws | Yes — [[UAC-Bylaws-Evidence]] | **Unsigned draft/evidence only** | Prepare for formal review/adoption; verify no amendments exist. |
+| Board charter | Yes — [[UAC-Board-Charter-Evidence]] | **Unsigned draft/evidence only** | Prepare for formal review/adoption or replacement. |
+| Board roster / officer appointments | No | **Not previously created** | Create formal roster/appointments when Commander is ready. |
+| Annual meeting minutes | No | **Do not exist** | Create initial meeting/minutes package when board is formed. |
+| Banking authority resolution | No | **Do not exist** | Draft template for later adoption/signature. |
+| Filing authority resolution | No | **Do not exist** | Draft template for later adoption/signature. |
+| Conflict-of-interest policy | Partial reference in bylaws only | Needs standalone/current policy decision | Draft policy/acknowledgment template. |
+| Document retention policy | No | **Do not exist** | Draft template. |
 
-## GovernanceAI recommendation
+## Correct next product
 
-Close this after IRS/PA matrices. The fastest useful product is a **Board Governance Gap Packet**: what exists, what must be created, and which policies can be drafted for Commander/board review.
+Create a **UAC Board Formation & Governance Adoption Packet** for Commander/accountant/legal review.
+
+Draft-only contents:
+
+1. board formation checklist,
+2. initial board/officer roster template,
+3. bylaws adoption resolution template,
+4. board charter adoption or replacement resolution template,
+5. banking authority resolution template,
+6. filing/compliance authority resolution template,
+7. conflict-of-interest policy/acknowledgment template,
+8. document retention policy template.
+
+## Gate
+
+S-1 may draft and print review packets. S-1 may **not** adopt, sign, file, submit, appoint, or represent that a board exists without Commander action.

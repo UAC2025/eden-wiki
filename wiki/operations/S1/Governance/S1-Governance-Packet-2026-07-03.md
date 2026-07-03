@@ -38,9 +38,10 @@ S-1 closed the next governance loop: Google Drive governance documents were inde
 ### Yellow / needs more evidence
 - Annual IRS filings for years **2016–2024** are not yet represented in the S-1 evidence matrix.
 - PA charitable registration / BCO evidence is not yet represented.
-- Board minutes/resolutions authorizing officers, filings, banking, and major governance actions are not yet represented.
-- Bylaws are now represented by [[UAC-Bylaws-Evidence]], but current-adoption/amendment status still needs confirmation.
-- Board charter is now represented by [[UAC-Board-Charter-Evidence]], but signature/adoption status still needs confirmation.
+- Commander corrected S-1: UAC has never had a real board — see [[Commander-Correction-No-Real-Board-2026-07-03]].
+- Board minutes/resolutions/authority records are not missing historical records; they **do not exist yet**.
+- Bylaws are represented by [[UAC-Bylaws-Evidence]], but are **unsigned draft/evidence only**, not adopted governance.
+- Board charter is represented by [[UAC-Board-Charter-Evidence]], but is **unsigned draft/evidence only**, not adopted governance.
 - Donation acknowledgment policy and donor substantiation records are not yet represented.
 - Accountant/CPA review records are not yet represented.
 
