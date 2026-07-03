@@ -1,14 +1,14 @@
 ---
 title: S-1 Governance Recommendations 2026-07-03
 type: governance
-created: 2026-07-03T17:43:17.820293+00:00
+created: 2026-07-03T18:02:19.384886+00:00
 ---
 
 # S-1 Governance Recommendations — 2026-07-03
 
 ## Recommendations
 
-- No immediate compliance filing window or credential notice surfaced in this run; continue monitoring.
+- Form 990-N tax year 2025 is recorded as accepted from filed evidence; no further action on that filing unless accountant/operator requests review.
 
 ## Deadlines
 

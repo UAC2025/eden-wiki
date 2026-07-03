@@ -10,3 +10,4 @@
 ## [2026-07-02] synthesis | ARCOS-Hardware-Audit-2026-07-02 | 2 pages affected
 ## [2026-07-03] synthesis | S1-Closeout-Audit-2026-07-03 | 2 pages affected
 ## [2026-07-03] operations | S1-Alive-Loop | 4 pages affected
+## [2026-07-03] governance-evidence | 2025-Form-990N-Accepted | 5 pages affected
