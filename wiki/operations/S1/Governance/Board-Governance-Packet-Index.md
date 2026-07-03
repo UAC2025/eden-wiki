@@ -16,7 +16,7 @@ S-1 created the board governance packet index. At this point, **board records/po
 | Governance item | Evidence in S-1 packet? | Needed next |
 |---|---:|---|
 | Articles / 501(c)(3) purpose language | Yes — [[Drive-articles-of-incorporation-pdf]] | Confirm if full articles/bylaws also exist elsewhere. |
-| Bylaws | No | Upload/share current bylaws and amendments. |
+| Bylaws | Yes — [[UAC-Bylaws-Evidence]] | Verify whether these are current adopted bylaws and whether amendments exist. |
 | Board roster / officer appointments | No | Provide board/officer records. |
 | Annual meeting minutes | No | Provide minutes or confirm none exist. |
 | Banking authority resolution | No | Provide if available. |

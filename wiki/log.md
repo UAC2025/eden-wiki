@@ -14,3 +14,4 @@
 ## [2026-07-03] governance-index | Google-Drive-Governance-Document-Index-2026-07-03 | 1 page affected
 ## [2026-07-03] governance-packet | S1-Governance-Packet-2026-07-03 | 14 pages affected
 ## [2026-07-03] governance-matrices | IRS/PA/Board/Controls S1 matrices | 5 pages affected
+## [2026-07-03] governance-evidence | UAC-Bylaws-Evidence | 5 pages affected
