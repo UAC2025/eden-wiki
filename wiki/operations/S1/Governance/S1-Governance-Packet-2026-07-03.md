@@ -40,6 +40,7 @@ S-1 closed the next governance loop: Google Drive governance documents were inde
 - PA charitable registration / BCO evidence is not yet represented.
 - Board minutes/resolutions authorizing officers, filings, banking, and major governance actions are not yet represented.
 - Bylaws are now represented by [[UAC-Bylaws-Evidence]], but current-adoption/amendment status still needs confirmation.
+- Board charter is now represented by [[UAC-Board-Charter-Evidence]], but signature/adoption status still needs confirmation.
 - Donation acknowledgment policy and donor substantiation records are not yet represented.
 - Accountant/CPA review records are not yet represented.
 
