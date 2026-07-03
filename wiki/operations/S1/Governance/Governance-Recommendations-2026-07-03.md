@@ -1,7 +1,7 @@
 ---
 title: S-1 Governance Recommendations 2026-07-03
 type: governance
-created: 2026-07-03T18:02:19.384886+00:00
+created: 2026-07-03T18:37:01.717798+00:00
 ---
 
 # S-1 Governance Recommendations — 2026-07-03
