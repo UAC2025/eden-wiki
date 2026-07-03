@@ -53,4 +53,16 @@ This packet is **draft-only**. Nothing here appoints a board, adopts bylaws, aut
 
 ## S-1 next action
 
-Create the draft templates locally/Obsidian for review. Print physical packet if Commander wants a hard copy. Do not execute, sign, submit, or represent adoption.
+Draft templates have now been created under `Board-Formation-Templates/`:
+
+- [[Board-Formation-Templates/00-Board-Formation-Checklist]]
+- [[Board-Formation-Templates/01-Initial-Board-Officer-Roster-Template]]
+- [[Board-Formation-Templates/02-Bylaws-Adoption-Resolution-Template]]
+- [[Board-Formation-Templates/03-Board-Charter-Adoption-Resolution-Template]]
+- [[Board-Formation-Templates/04-Banking-Authority-Resolution-Template]]
+- [[Board-Formation-Templates/05-Filing-Compliance-Authority-Resolution-Template]]
+- [[Board-Formation-Templates/06-Conflict-of-Interest-Policy-Acknowledgment-Template]]
+- [[Board-Formation-Templates/07-Document-Retention-Policy-Template]]
+- [[Board-Formation-Templates/08-Initial-Meeting-Minutes-Template]]
+
+Next: Commander/accountant/legal review. S-1 may print a review packet, but may not execute, sign, submit, or represent adoption.
