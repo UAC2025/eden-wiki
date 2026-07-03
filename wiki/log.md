@@ -19,3 +19,4 @@
 ## [2026-07-03] governance-correction | No real board / formation gap | 4 pages affected
 ## [2026-07-03] governance-templates | Board formation/adoption templates | 10 pages affected
 ## [2026-07-03] operations-standard | S1-Final-Closeout-Standard | 1 page affected
+## [2026-07-03] correction | S1 closeout requires real-world outputs before no-gap inspection | 1 page affected

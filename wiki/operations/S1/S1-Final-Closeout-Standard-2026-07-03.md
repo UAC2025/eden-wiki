@@ -13,12 +13,14 @@ S-1 is finished only when it can run the six-step loop continuously across its d
 
 ## Definition of done
 
+S-1 is not finished by passing a "no gaps detected" review. That review is only the **final inspection**. The real finish line is proven real-world output from each S-1 parent agent.
+
 S-1 is closed only when all five conditions are true:
 
 1. **Alive shop loop** — S-1 Officer observes live surfaces, pings parent agents, deliberates, acts, adapts, and reports only gates/failures/outcomes.
-2. **Parent-agent certification** — GovernanceAI, SecretarialAI, TaskAI, and ProgramsAI each pass task-specific live harness tests with doctrine loaded and model/runtime recorded.
-3. **No silent gaps** — S-1 maintains matrices for governance, IRS, PA, board formation, donation/accounting controls, inbox/documents, tasks, and programs; every unknown is explicitly marked with owner/next action.
-4. **Outcome surfaces** — S-1 writes to Obsidian, Gmail labels/drafts, task ledgers, COPs, printable packets, and Commander review briefs; no file-only fake outcomes.
+2. **Parent-agent real-world outputs** — GovernanceAI, SecretarialAI, TaskAI, and ProgramsAI each produce live, human-usable deliverables on real surfaces.
+3. **Parent-agent certification** — Each parent passes task-specific live harness tests with doctrine loaded and model/runtime recorded.
+4. **No silent gaps** — After outputs are produced, S-1 runs final gap detection; every remaining unknown is explicitly marked with owner/next action/gate.
 5. **Adaptation loop** — every correction, failure, missed classification, stale task, or Commander update changes the loop/rules/packet so the same gap does not recur.
 
 ## Six-step loop standard
@@ -66,14 +68,28 @@ Must prove:
 
 ## Remaining S-1 closeout sequence
 
-1. Build and run S-1 certification harness.
-2. Certify GovernanceAI first using current governance evidence/matrices.
-3. Certify SecretarialAI with Gmail + Drive + Obsidian + draft/print tests.
-4. Certify TaskAI with S-1 gap/task lifecycle tests.
-5. Certify ProgramsAI with Wix/program intake/read-only tests.
-6. Convert cron into S-1 wake/reconciliation pulse with result health reporting.
-7. Attach S-1 to Mycelium event engine after the loop is proven.
-8. Produce final S-1 Closeout Packet: what is live, what is certified, what remains gated to Commander.
+1. Produce one real-world output from GovernanceAI.
+2. Produce one real-world output from SecretarialAI.
+3. Produce one real-world output from TaskAI.
+4. Produce one real-world output from ProgramsAI.
+5. Build and run S-1 certification harness against those outputs.
+6. Certify GovernanceAI first using current governance evidence/matrices.
+7. Certify SecretarialAI with Gmail + Drive + Obsidian + draft/print tests.
+8. Certify TaskAI with S-1 gap/task lifecycle tests.
+9. Certify ProgramsAI with Wix/program intake/read-only tests.
+10. Convert cron into S-1 wake/reconciliation pulse with result health reporting.
+11. Attach S-1 to Mycelium event engine after the loop is proven.
+12. Run final no-gap inspection last.
+13. Produce final S-1 Closeout Packet: live outputs, certified agents, remaining Commander gates, and final detected gaps if any.
+
+## Required real-world outputs before final inspection
+
+| Parent agent | Required output before certification |
+|---|---|
+| GovernanceAI | Board formation/adoption packet + IRS/PA compliance packet + Commander/accountant request list. |
+| SecretarialAI | Real Gmail/Drive ingestion batch filed to Obsidian, with labels/drafts/print packet where appropriate. |
+| TaskAI | S-1 gap/action ledger where every governance/admin/program gap becomes a tracked task/follow-up with owner/status/gate. |
+| ProgramsAI | Program/volunteer/veteran-ag pipeline packet from Wix/forms/email/Drive, with next contact/follow-up actions and outcome fields. |
 
 ## Non-negotiables
 
