@@ -18,3 +18,4 @@
 - [[syntheses/S1-Operational-Activation-Report-2026-07-02]]
 - [[syntheses/Farmbrite-Endpoint-Source-Truth-Alignment-2026-07-02]]
 - [[syntheses/S1-Final-Operational-Package-2026-07-02]]
+- [[syntheses/ARCOS-Hardware-Audit-2026-07-02]]
