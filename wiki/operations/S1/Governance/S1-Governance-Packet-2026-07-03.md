@@ -69,11 +69,12 @@ S-1 closed the next governance loop: Google Drive governance documents were inde
 
 ## S-1 next deliverable order
 
-1. **IRS Annual Filing Matrix** — one row per tax year, 2016 through current, with source evidence.
-2. **PA Compliance Matrix** — entity filing, charitable registration/BCO, renewal windows, evidence.
-3. **Board Governance Packet** — bylaws, board/officer records, policies, minutes.
-4. **Contracts/Grants Packet** — UWBC/QOLA/agreements and reporting obligations.
-5. **Commander Review Packet** — only gaps/gates requiring Chad.
+1. **IRS Annual Filing Matrix** — CREATED: [[IRS-Annual-Filing-Matrix]]. 2025 evidenced; 2016–2024 gap flagged.
+2. **PA Compliance Matrix** — CREATED: [[PA-Compliance-Matrix]]. PA entity evidence filed; BCO/charitable registration gap flagged.
+3. **Board Governance Packet** — INDEX CREATED: [[Board-Governance-Packet-Index]]. Bylaws/minutes/policies gap flagged.
+4. **Donation & Accounting Controls** — INDEX CREATED: [[Donation-and-Accounting-Controls-Index]]. Donation substantiation/accountant review gap flagged.
+5. **Contracts/Grants Packet** — NEXT after governance base: UWBC/QOLA/agreements and reporting obligations.
+6. **Commander Review Packet** — only gaps/gates requiring Chad.
 
 ## Evidence locations
 
