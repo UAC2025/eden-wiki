@@ -1,0 +1,53 @@
+{
+  "evidence": {
+    "governance_packet": true,
+    "board_formation_packet": true,
+    "grant_qc_packet": true,
+    "receipt_attachment_ingestion": true,
+    "receipt_review_packet": true,
+    "action_ledger": true,
+    "closeout_standard": true,
+    "programs_pipeline_packet": true,
+    "outside_audit_report": true,
+    "loop_integrity_packet": true
+  },
+  "overall": "certified",
+  "blocked_agents": [],
+  "per_agent": {
+    "GovernanceAI": {
+      "passed": [
+        "governance_packet",
+        "board_formation_packet",
+        "grant_qc_packet"
+      ],
+      "missing": []
+    },
+    "SecretarialAI": {
+      "passed": [
+        "receipt_attachment_ingestion",
+        "receipt_review_packet"
+      ],
+      "missing": []
+    },
+    "TaskAI": {
+      "passed": [
+        "action_ledger",
+        "closeout_standard"
+      ],
+      "missing": []
+    },
+    "ProgramsAI": {
+      "passed": [
+        "programs_pipeline_packet"
+      ],
+      "missing": []
+    },
+    "LoopIntegrityInspector": {
+      "passed": [
+        "outside_audit_report",
+        "loop_integrity_packet"
+      ],
+      "missing": []
+    }
+  }
+}
