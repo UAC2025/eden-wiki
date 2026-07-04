@@ -2,7 +2,7 @@
 
 Status: **PASS**
 
-Passes: 42
+Passes: 44
 Failures: 0
 
 ## Passed checks
@@ -29,6 +29,7 @@ Failures: 0
 - file:board_physical_review_packet
 - file:external_auditor_boundary
 - file:final_local_certification
+- file:mycelium_s1_gmail_adapter
 - file:push_status
 - ledger:S1-CERT-HARNESS
 - ledger:S1-PROGRAMS-OUTPUT
@@ -48,6 +49,7 @@ Failures: 0
 - test:s1_operational/test_programs_pipeline_packet.py -v
 - test:s1_operational/test_s1_live_event_audit.py -v
 - test:s1_operational/test_apply_commander_receipt_decisions.py -v
+- test:s1_operational/test_mycelium_core.py -v
 
 ## Auditor doctrine
 This auditor is outside the loop builders. It verifies evidence files, required gates, and test suites. It does not approve submissions or replace Commander gates.
