@@ -2,7 +2,7 @@
 
 Status: **PASS**
 
-Passes: 31
+Passes: 34
 Failures: 0
 
 ## Passed checks
@@ -19,6 +19,8 @@ Failures: 0
 - file:parent_certification
 - file:audit_hash_chain
 - file:live_event_audit_log
+- file:commander_decisions
+- file:commander_receipt_totals
 - file:push_status
 - ledger:S1-CERT-HARNESS
 - ledger:S1-PROGRAMS-OUTPUT
@@ -37,6 +39,7 @@ Failures: 0
 - test:s1_operational/test_s1_audit_chain.py -v
 - test:s1_operational/test_programs_pipeline_packet.py -v
 - test:s1_operational/test_s1_live_event_audit.py -v
+- test:s1_operational/test_apply_commander_receipt_decisions.py -v
 
 ## Auditor doctrine
 This auditor is outside the loop builders. It verifies evidence files, required gates, and test suites. It does not approve submissions or replace Commander gates.

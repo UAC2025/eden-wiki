@@ -14,7 +14,8 @@ Commander answered the multiple-choice S-1 gates. These decisions are source evi
 
 | Review item | Commander decision |
 |---|---|
-| Heller’s Gas statement `19f246595de4083d` | Use `$484.24` |
+| Heller’s Gas statement `19f246595de4083d` | Use `$484.24`; corrected entity to **TNR** |
+| All Heller’s Gas rows | Correct to **TNR** |
 | TNR 2025 Tax Receipt `19df0ed34dc0f4a6` | Use `$985.16` |
 | Anthropic receipt #2771-5987-0288 `19e1737ca3f38aea` | UAC |
 | Remaining Anthropic receipt rows | Apply UAC to all Anthropic receipt rows |
