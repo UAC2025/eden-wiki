@@ -27,12 +27,15 @@ S-1 created the donation/accounting controls index. Commander corrected authorit
 
 ## GovernanceAI recommendation
 
-1. Build the UAC Donation & Accounting Controls Packet next:
-   - donation acknowledgment policy,
-   - receipt template,
-   - in-kind donation intake template,
-   - financial totals source-trail standard,
-   - grant submission approval/verification checklist,
-   - UAC/TNR separation rule.
-2. Treat receipts, grants, filings, and submissions as **draft → Commander approval → execute → verify → archive** workflows, not permanent no-go actions.
-3. Never create financial totals from memory; totals require source records.
+The UAC Donation & Accounting Controls Packet has been created under `Donation-Accounting-Controls/`:
+
+- [[Donation-Accounting-Controls/00-UAC-Donation-Accounting-Controls-Packet]]
+- [[Donation-Accounting-Controls/01-Donation-Acknowledgment-Policy]]
+- [[Donation-Accounting-Controls/02-Donation-Receipt-Template]]
+- [[Donation-Accounting-Controls/03-In-Kind-Donation-Intake-Template]]
+- [[Donation-Accounting-Controls/04-Financial-Totals-Source-Trail-Standard]]
+- [[Donation-Accounting-Controls/05-Grant-Submission-Approval-Verification-Checklist]]
+- [[Donation-Accounting-Controls/06-UAC-TNR-Entity-Separation-Rule]]
+- [[Donation-Accounting-Controls/07-Donation-Record-Intake-Register]]
+
+Next: when Commander provides records, S-1 ingests them into the intake register/ledger, calculates source-backed totals, drafts any receipts, asks for Commander approval, sends approved receipts, verifies delivery, and archives evidence.
