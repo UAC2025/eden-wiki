@@ -29,3 +29,4 @@
 ## [2026-07-03] accounting-intake | Gmail receipt attachment ingestion | 4 pages affected
 ## [2026-07-03] test-report | S1 receipt ingestor regression/smoke tests | 2 pages affected
 ## [2026-07-03] accounting-review | Receipt totals candidate packet | 4 pages affected
+## [2026-07-03] accounting-review | Receipt review decisions and updated totals | 6 pages affected
