@@ -27,3 +27,4 @@
 ## [2026-07-03] accounting-intake | Digital receipt email search snapshot | 2 pages affected
 ## [2026-07-03] accounting-intake | Marked 7 receipt emails read by Commander direction | 2 pages affected
 ## [2026-07-03] accounting-intake | Gmail receipt attachment ingestion | 4 pages affected
+## [2026-07-03] test-report | S1 receipt ingestor regression/smoke tests | 2 pages affected
