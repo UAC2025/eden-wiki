@@ -2,7 +2,7 @@
 
 Status: **PASS**
 
-Passes: 34
+Passes: 37
 Failures: 0
 
 ## Passed checks
@@ -21,6 +21,9 @@ Failures: 0
 - file:live_event_audit_log
 - file:commander_decisions
 - file:commander_receipt_totals
+- file:lcm_herd_source_check
+- file:external_auditor_boundary
+- file:final_local_certification
 - file:push_status
 - ledger:S1-CERT-HARNESS
 - ledger:S1-PROGRAMS-OUTPUT
