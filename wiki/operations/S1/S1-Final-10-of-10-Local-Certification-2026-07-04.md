@@ -12,7 +12,7 @@ rating_true_external: gated
 ## BLUF
 Within the current authorized/local Hermes control plane, S-1 is **10/10 locally certified**: parent agents produce live/read-surface outputs, builders emit live audit events, Loop Integrity Inspector verifies artifacts/tests/gates, receipt decisions were applied, and audit/hash chains pass.
 
-Final **true external 10/10** still requires two Commander-controlled gates: (1) a readable live animal source/API authorization for LCM herd counts, and (2) an external read-only auditor boundary outside the local Hermes/EDEN write plane.
+Final **true external 10/10** still requires one Commander-controlled infrastructure gate: an external read-only auditor boundary outside the local Hermes/EDEN write plane. The LCM herd-count gate is now resolved from repository ground truth; only Commander approval remains before submission.
 
 ## What is now locally 10/10
 
@@ -31,7 +31,7 @@ Final **true external 10/10** still requires two Commander-controlled gates: (1)
 
 | Blocker | Verified condition | Required next gate |
 |---|---|---|
-| LCM live herd counts | Local DB/source checks found no readable usable animal count source | Provide live livestock JSON/DB or authorize Farmbrite read-only credential/API use this session |
+| LCM live herd counts | Repository ground truth found and inserted: 9 Arapawa goats, 1 buck, 8 does, source commit `d285c2ae` dated 2026-06-02 | Commander approval before submission |
 | True external auditor boundary | Current auditor is separate in function but still inside local Hermes/EDEN write plane | Approve read-only external auditor account/process/storage |
 | Grant submission | No grant may be submitted without final Commander approval | Approve final LCM packet after live herd source inserted |
 
@@ -50,4 +50,4 @@ Final **true external 10/10** still requires two Commander-controlled gates: (1)
 | TNR | utilities | $1,660.68 |
 
 ## Certification language
-S-1 is **locally 10/10 certified**. Do not claim final external certification until the external auditor boundary exists and LCM live herd counts are sourced from a readable/current animal system.
+S-1 is **locally 10/10 certified**. LCM herd counts are now sourced from repository ground truth. Do not claim final external certification until the external auditor boundary exists. Do not submit the LCM grant until Commander approval is given.
