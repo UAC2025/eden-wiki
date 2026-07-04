@@ -52,3 +52,33 @@ Regression test added:
 
 ## Safety
 No email was sent, deleted, marked read, submitted, or replied to. This was local S-1 routing and audit only.
+
+## Labeling fix
+
+Commander correctly flagged that routed emails should not just sit in local S-1 state. Mycelium now applies the same Gmail label posture as the S-1 alive loop while preserving the mark-read gate.
+
+Applied to this message:
+
+| Label action | Result |
+|---|---|
+| Add `Bills` | PASS (`Label_11`) |
+| Add `Bills/Open` | PASS (`Label_12`) |
+| Add `EDEN-processed` | PASS (`Label_13`) |
+| Remove `UNREAD` | NOT DONE — intentionally gated |
+
+Live Gmail verification after the fix showed labels:
+
+```text
+UNREAD
+IMPORTANT
+Label_11
+CATEGORY_PERSONAL
+SENT
+Label_12
+INBOX
+Label_13
+```
+
+Audit event for labeling fix:
+
+`c22ad932e5a4af60f91f7b9ad5714db7ad7f092ef49857cb78e5b59839b64478`
