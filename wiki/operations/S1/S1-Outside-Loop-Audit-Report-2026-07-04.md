@@ -2,7 +2,7 @@
 
 Status: **PASS**
 
-Passes: 39
+Passes: 42
 Failures: 0
 
 ## Passed checks
@@ -24,6 +24,9 @@ Failures: 0
 - file:lcm_herd_source_check
 - file:lcm_draft_v4
 - file:lcm_draft_v4_qc
+- file:lcm_supporting_letters_tracker
+- file:lcm_recommender_request_packet
+- file:board_physical_review_packet
 - file:external_auditor_boundary
 - file:final_local_certification
 - file:push_status

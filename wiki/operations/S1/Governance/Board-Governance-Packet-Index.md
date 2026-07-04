@@ -39,6 +39,8 @@ Source: [[Commander-Correction-No-Real-Board-2026-07-03]]
 
 Create a **UAC Board Formation & Governance Adoption Packet** for Commander/accountant/legal review.
 
+Physical review manifest is prepared at [[UAC-Board-Formation-Physical-Review-Packet-2026-07-04]].
+
 Draft-only contents:
 
 1. board formation checklist,
