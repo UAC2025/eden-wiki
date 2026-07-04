@@ -14,10 +14,10 @@ S-1 classified **29** receipt attachment rows into verified candidates, exclusio
 ## Decision counts
 | Decision | Count |
 |---|---:|
-| exclude_from_receipt_totals | 6 |
+| exclude_from_receipt_totals | 8 |
 | needs_amount_review | 2 |
 | needs_commander_review | 12 |
-| verified_candidate | 9 |
+| verified_candidate | 7 |
 
 ## Verified candidates
 | Message ID | Subject | File | Entity | Category | Amount candidates | Decision reason |
@@ -26,8 +26,6 @@ S-1 classified **29** receipt attachment rows into verified candidates, exclusio
 | `19f1e64d8f6cb87f` | Fwd: Invoice from Dependable Disposal of Southern Tier LLC | Dependable_Disposal_of_Southern_Tier_L | UAC | waste_disposal | 98.68 | single_amount_known_entity |
 | `19e1737edb913a54` | Fwd: Heller's Gas - Back Mountain - Statement | Statement_2118487.pdf | UAC | utilities | 494.60; 484.24; 384.24; 878.84; 100.00 | resolved_amount_from_attachment_text |
 | `19df4e8bf7178500` | Fwd: Invoice from Dependable Disposal of Southern Tier LLC | Dependable_Disposal_of_Southern_Tier_L | UAC | waste_disposal | 100.59 | single_amount_known_entity |
-| `19df4ccfde80d6a1` | Fwd: Heller's Gas - Back Mountain - Statement | Statement_2118487.pdf | UAC | utilities | 494.60; 484.24; 384.24; 878.84; 100.00 | resolved_amount_from_attachment_text |
-| `19df0eca607f87c1` | Fwd: Heller's Gas - Back Mountain - Invoice | Invoice EA452E49-BE6D-4414-B9BD-9560D7 | UAC | utilities | 165.00; 9.95; 5.50; 10.83; 191.28 | resolved_amount_from_attachment_text |
 | `19df0a5453a35cf1` | Fwd: Your receipt from Anthropic, PBC #2826-4596-2114 | Invoice-L0FIYBE9-0008.pdf | UAC | software_ai | 15.90; 15.00; 0.90 | resolved_amount_from_attachment_text |
 | `19df0a50b0e5a7a0` | Fwd: Your receipt from Anthropic, PBC #2808-7751-4791 | Invoice-L0FIYBE9-0010.pdf | UAC | software_ai | 26.50; 25.00; 1.50 | resolved_amount_from_attachment_text |
 | `19c4fb7c224be089` | Fwd: Your receipt from Anthropic, PBC #2541-1806-8382 | Invoice-L0FIYBE9-0005.pdf | UAC | software_ai | 53.00; 50.00; 3.00 | resolved_amount_from_attachment_text |
@@ -38,6 +36,8 @@ S-1 classified **29** receipt attachment rows into verified candidates, exclusio
 | `19f28b56c00edf3a` | Fwd: Your receipt from Nous Research Inc. #2318-0117 | Receipt-2318-0117.pdf | UAC | software_ai | 50.00 | duplicate_receipt_invoice_pair |
 | `19e9aad60e9bc3ea` | LCM Grant — Arapawa Ark Narrative (Submission-Ready, $2K a | Livestock-Conservancy-Microgrant-Draft | UAC | grant |  | grant_or_application_document |
 | `19e4ce73cf971b62` | Fwd: Beginning Farmer and Rancher Development Program | FY26-BFRDP-NOFO-P.pdf | UAC | software_ai |  | grant_or_application_document |
+| `19df4ccfde80d6a1` | Fwd: Heller's Gas - Back Mountain - Statement | Statement_2118487.pdf | UAC | utilities | 494.60; 484.24; 384.24; 878.84; 100.00 | duplicate_attachment_hash_amount |
+| `19df0eca607f87c1` | Fwd: Heller's Gas - Back Mountain - Invoice | Invoice EA452E49-BE6D-4414-B9BD-9560D7 | UAC | utilities | 165.00; 9.95; 5.50; 10.83; 191.28 | duplicate_amount_date_overlap |
 | `19df0a5453a35cf1` | Fwd: Your receipt from Anthropic, PBC #2826-4596-2114 | Receipt-2826-4596-2114.pdf | UAC | software_ai | 15.90; 15.00; 0.90 | duplicate_receipt_invoice_pair |
 | `19df0a50b0e5a7a0` | Fwd: Your receipt from Anthropic, PBC #2808-7751-4791 | Receipt-2808-7751-4791.pdf | UAC | software_ai | 26.50; 25.00; 1.50 | duplicate_receipt_invoice_pair |
 | `19c4fb7c224be089` | Fwd: Your receipt from Anthropic, PBC #2541-1806-8382 | Receipt-2541-1806-8382.pdf | UAC | software_ai | 53.00; 50.00; 3.00 | duplicate_receipt_invoice_pair |
