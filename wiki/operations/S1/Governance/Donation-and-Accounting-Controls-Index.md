@@ -37,5 +37,6 @@ The UAC Donation & Accounting Controls Packet has been created under `Donation-A
 - [[Donation-Accounting-Controls/05-Grant-Submission-Approval-Verification-Checklist]]
 - [[Donation-Accounting-Controls/06-UAC-TNR-Entity-Separation-Rule]]
 - [[Donation-Accounting-Controls/07-Donation-Record-Intake-Register]]
+- [[Donation-Accounting-Controls/08-Digital-Receipt-Email-Intake-Protocol]]
 
 Next: when Commander provides records, S-1 ingests them into the intake register/ledger, calculates source-backed totals, drafts any receipts, asks for Commander approval, sends approved receipts, verifies delivery, and archives evidence.

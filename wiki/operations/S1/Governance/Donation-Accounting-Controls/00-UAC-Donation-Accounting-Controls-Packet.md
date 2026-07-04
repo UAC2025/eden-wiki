@@ -22,6 +22,7 @@ This packet gives S-1 the operating controls to handle UAC donations, receipts, 
 5. [[05-Grant-Submission-Approval-Verification-Checklist]]
 6. [[06-UAC-TNR-Entity-Separation-Rule]]
 7. [[07-Donation-Record-Intake-Register]]
+8. [[08-Digital-Receipt-Email-Intake-Protocol]]
 
 ## Operating model
 

@@ -23,3 +23,4 @@
 ## [2026-07-03] task-ledger | S1-Action-Ledger + Accountant Request Packet | 3 pages affected
 ## [2026-07-03] authority-correction | S1 approved submissions/receipts/totals authority | 4 pages affected
 ## [2026-07-03] governance-controls | Donation Accounting Controls Packet | 10 pages affected
+## [2026-07-03] accounting-intake | Digital receipt email intake protocol | 4 pages affected
