@@ -95,6 +95,7 @@ Must prove:
 
 - No claimed SOTA without harness evidence.
 - No claimed board, filing, animal, financial, or program fact without source.
-- No automatic sends, submissions, payments, signatures, booking confirmations, or filings.
+- Approved-action model: S-1 may submit grants/filings, send receipts, and create financial totals **after** Commander approval, authorized credential use, verified source records, and live-surface verification.
+- No automatic unapproved sends, submissions, payments, signatures, booking confirmations, or filings.
 - No rebuilding all shops at once.
 - S-1 is the backbone; other shops must later follow this standard.
