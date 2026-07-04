@@ -1,0 +1,48 @@
+ 
+Page 1 of 1
+Receipt
+Invoice number
+EO6GGHDX-0003
+Receipt number 2318-0117
+Date paid
+July 2, 2026
+Nous Research Inc.
+Nous Research Inc.
+600 Congress Ave
+14th Floor
+Austin, Texas 78701
+United States
+support@nousresearch.com
+Bill to
+Chad
+191 Viall Hill Road, Towanda, PA, USA
+191 Viall Hill Road
+Towanda, Pennsylvania 18848
+United States
+president@urbanarkconservation.org
+$50.00 paid on July 2, 2026
+Nous API credits
+Description
+Qty
+Unit price
+Amount
+API Credits
+1
+$50.00
+$50.00
+Subtotal
+$50.00
+Total
+$50.00
+Amount paid
+$50.00
+Payment history
+Payment method
+Date
+Amount paid
+Receipt number
+Link
+July 2, 2026
+$50.00
+2318-0117
+ 

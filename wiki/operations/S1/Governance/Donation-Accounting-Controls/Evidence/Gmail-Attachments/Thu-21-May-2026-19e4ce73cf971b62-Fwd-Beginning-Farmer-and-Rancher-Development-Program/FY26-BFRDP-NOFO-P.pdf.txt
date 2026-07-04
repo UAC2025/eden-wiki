@@ -1,0 +1,1952 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+  
+Notice of Funding Opportunity 
+Beginning Farmer and Rancher 
+Development Program 
+ 
+ 
+ 
+ 
+FUNDING YEAR: Fiscal Year (FY) 2026 
+ 
+ 
+ 
+ 
+APPLICATION DEADLINE: June 16, 2026 
+ 
+ 
+ANTICIPATED PROGRAM FUNDING: $44,443,140 
+ 
+ 
+AVERAGE INDIVIDUAL AWARD 
+RANGE: 
+$49,999 - $750,000 
+ 
+ 
+FUNDING OPPORTUNITY NUMBER:  USDA-NIFA-BFR-011336 
+ 
+ 
+ASSISTANCE LISTING NUMBER: 10.311 
+ 
+ 
+ 
+
+2 
+ 
+INITIAL ANNOUNCEMENT 
+National Institute of Food and Agriculture 
+United States Department of Agriculture 
+Assistance Listing Number (ALN): The Beginning Farmer and Rancher Development Program 
+(BFRDP) is listed in the Assistance Listings under number 10.311. 
+Table 1:  Key Dates and Deadlines 
+Task Description Deadline 
+Application:  5:00 P.M. Eastern Time, June 16, 2026 
+[Ref to Part I, C of this NOFO] 
+Applicants Comments:  Within six months from the issuance of this notice 
+(NIFA may not consider comments received after the sixth month) 
+ 
+The United States Department of Agriculture (USDA), to the extent permitted by law, will no 
+longer make grants or otherwise fund programs or activities that improperly discriminate on the 
+basis of race or sex, including discrimination in the name of Diversity, Equity, and Inclusion 
+policies. Instead, USDA will prioritize merit and efficiency. USDA recognizes programs and 
+initiatives will have the greatest impact when these programs and initiatives put American 
+farmers, ranchers, and foresters first by: 
+• solving the most pressing challenges they face; 
+• protecting America’s food, fuel, and fiber supply to enhance national security; 
+• supporting production of healthy and safe food for consumers; 
+• expanding and developing domestic markets;  
+• training the next generation of agriculturalists; and 
+• fueling innovation to keep American farmers at the forefront of productivity. 
+ 
+The National Institute of Food and Agriculture (NIFA) is committed to advancing these 
+principles and encourages applicants to actively engage farmers, ranchers, and foresters when 
+applying for funding opportunities to ensure relevancy and adherence to them. NIFA also 
+encourages agricultural leaders to engage in the peer review panel process to ensure American 
+producers are better served through research, education, and extension activities. 
+ 
+Projects submitted under this NOFO should align with USDA Secretary’s Memorandum 1078-
+020 Directive on Departmental Research and Development Priorities: 
+1. Increasing Profitability of Farmers and Ranchers 
+2. Expanding Markets and Creating New Uses of U.S. Agricultural Products  
+3. Protecting the Integrity of American Agriculture from Invasive Species 
+4. Promoting Soil Health to Regenerate Long-Term Productivity of Land 
+5. Improving Human Health through Precision Nutrition and Food Quality 
+ 
+Stakeholder Input. NIFA seeks comments on all Notice of Funding Opportunity (NOFO) so it 
+can deliver programs efficiently, effectively, with integrity, and with a focus on customer 
+service. NIFA considers comments to the extent possible when developing NOFOs, and uses 
+comments to help meet the requirements of Section 103(c)(2) of the Agricultural Research, 
+
+3 
+ 
+Extension, and Education Reform Act of 1998 (7 U.S.C. 7613(c)(2)). Applicants may submit 
+written comments to Policy@usda.gov. Please use the following subject line: Response to the 
+BFRDP NOFO. 
+ 
+ 
+
+4 
+ 
+EXECUTIVE SUMMARY 
+ 
+This NOFO is soliciting applications for the Beginning Farmer and Rancher Development 
+Program (BFRDP) for the fiscal year (FY) 2026 funding cycle to support the delivery of 
+education, outreach, and technical assistance for beginning farmers and ranchers in the United 
+States and its territories that are entering, establishing, building, and managing successful farm 
+and ranch enterprises. The total funding amount available for FY 2026 is approximately 
+$44,443,140.  
+ 
+This notice identifies the objectives for BFRDP projects, deadlines, funding information, 
+eligibility criteria for projects and applicants, and application forms and associated instructions, 
+and review requirements. 
+ 
+
+5 
+ 
+TABLE OF CONTENTS 
+EXECUTIVE SUMMARY ....................................................................................................... 4 
+TABLE OF CONTENTS .......................................................................................................... 5 
+TABLE OF KEY INFORMATION ......................................................................................... 6 
+PART I. FUNDING OPPORTUNITY DESCRIPTION ........................................................ 7 
+A. 
+Legislative Authority ........................................................................................................................................ 7 
+B. 
+Purpose and Priorities ....................................................................................................................................... 7 
+C. 
+Program Area Description ................................................................................................................................ 9 
+PART II. AWARD INFORMATION .................................................................................... 15 
+A. 
+Available Funding .......................................................................................................................................... 15 
+B. 
+Application Restrictions ................................................................................................................................. 15 
+C. 
+Project and Grant Types ................................................................................................................................. 16 
+D. 
+Ethical Conduct of Funded Projects ............................................................................................................... 16 
+PART III. ELIGIBILITY INFORMATION ......................................................................... 17 
+A. 
+Eligibility Requirements ................................................................................................................................. 17 
+B. 
+Cost Sharing or Matching ............................................................................................................................... 18 
+PART IV. APPLICATION AND SUBMISSION ................................................................. 20 
+A. 
+Method of Application ................................................................................................................................... 20 
+B. 
+Content and Form of the Application ............................................................................................................. 20 
+C. 
+Funding Restrictions ....................................................................................................................................... 29 
+D. 
+Submission Dates and Times .......................................................................................................................... 30 
+PART V. APPLICATION REVIEW REQUIREMENTS ................................................... 32 
+A. 
+NIFA’s Evaluation Process ............................................................................................................................ 32 
+B. 
+Evaluation Criteria .......................................................................................................................................... 32 
+C. 
+Organizational Management Information ....................................................................................................... 38 
+D. 
+Application Disposition .................................................................................................................................. 38 
+PART VI. AWARD ADMINISTRATION ............................................................................ 39 
+A. 
+General ........................................................................................................................................................... 39 
+B. 
+Administrative and National Policy Requirements......................................................................................... 39 
+C. 
+Expected Program Outputs and Reporting Requirements .............................................................................. 39 
+PART VII. OTHER INFORMATION .................................................................................. 41 
+A. 
+Use of Funds and Changes in Budget ............................................................................................................. 41 
+B. 
+Confidential Aspects of Applications and Awards ......................................................................................... 42 
+C. 
+Regulatory Information .................................................................................................................................. 42 
+D. 
+Language Access Services ............................................................................................................................ 42 
+APPENDIX I: AGENCY CONTACTS ................................................................................. 43 
+APPENDIX II: GLOSSARY OF TERMS ............................................................................. 44 
+APPENDIX III: DEFINITIONS ............................................................................................ 45 
+
+6 
+ 
+TABLE OF KEY INFORMATION 
+ 
+Table 1:  Key Dates and Deadlines ................................................................................................. 2 
+Table 2:  Standard Grants Key Information  ................................................................................... 9  
+Table 3:  Education Team Grants Key Information  ..................................................................... 11 
+Table 4:  Curriculum and Training Clearinghouse Grant Key Information ................................. 12 
+Table 5:  Steps to Obtain Application Materials  .......................................................................... 20 
+Table 6:  Help and Resources  ...................................................................................................... 20 
+Table 7:  Key Application Instructions  ........................................................................................ 21 
+ 
+
+7 
+ 
+PART I. FUNDING OPPORTUNITY DESCRIPTION 
+A. 
+Legislative Authority  
+The Beginning Farmer and Rancher Development Program (BFRDP) is authorized under  
+7 U.S.C. 2279(d), as amended, and requires the Secretary of Agriculture to make competitive 
+grants or enter into cooperative agreements to support new and established local and regional 
+training, education, outreach and technical assistance initiatives to increase opportunities for 
+beginning farmers or ranchers in the United States and its territories; establish beginning farmer 
+and rancher education teams; and establish a curriculum and training clearinghouse for beginning 
+farmers and ranchers. 
+B. 
+Purpose and Priorities  
+The primary goal of BFRDP, under assistance listing number 10.311, is to help beginning 
+farmers and ranchers in the United States and its territories enter and/or improve their successes 
+in farming, ranching, and management of nonindustrial private forest lands, through support for 
+projects that provide education, outreach, and technical assistance to give beginning farmers and 
+ranchers the knowledge, skills, and tools needed to make informed decisions for their operations 
+and enhance their sustainability.  
+ 
+The term “farmer” is used in the broadest sense and may be interpreted to include agricultural 
+farmers, ranchers, and non-industrial private forest owners and managers. The term "beginning 
+farmer or rancher" means a person that: 
+(A)(i) has not operated a farm or ranch; or 
+(ii) has operated a farm or ranch for not more than 10 years; and 
+(B) meets such other criteria as the Secretary may establish. 
+ 
+Applications from partnerships and collaborations that are led by State Cooperative Extension 
+Services; federal, state, municipal or tribal agencies that also include nongovernmental, 
+community-based organizations and school-based educational organizations with expertise in 
+new agricultural producer training and outreach will be given priority. 
+ 
+BFRDP grants may fund programs or services relating to these priorities: 
+1. Basic livestock, forest management, and crop farming practices; 
+2. Innovative farm, ranch, and private, nonindustrial forest land transfer and 
+succession strategies; 
+3. Entrepreneurship and business training; 
+4. Technical assistance to help beginning farmers or ranchers acquire land from 
+retiring farmers and ranchers; 
+5. Financial and risk management training, including the acquisition and 
+management of agricultural credit; 
+6. Natural resource management and planning; 
+7. Diversification and marketing strategies; 
+8. Curriculum development; 
+9. Mentoring, apprenticeships, and internships; 
+10. Resources and referral; 
+11. Farm financial benchmarking; 
+
+8 
+ 
+12. Agricultural rehabilitation and vocational training for veteran farmers and ranchers; 
+13. Farm safety and awareness; 
+14. Food safety and recordkeeping; and 
+15. Other similar subject areas of use to beginning farmers or ranchers.  
+ 
+Applicants planning to address other similar subject areas not listed in priorities 1-14 are strongly 
+encouraged to confer with the Program Contacts listed in Appendix I of this NOFO to discuss the 
+suitability of the topics prior to submitting an application. 
+ 
+Target Audience. The target audience for BFRDP is farmers and ranchers who have not 
+operated a farm or ranch or have operated a farm or ranch for not more than ten years. 
+Applicants must identify as well as define Beginning Farmer and Rancher (BFR) category of 
+trainees to be served. There are five BFR training categories that must be specified based on 
+number of years operating a farm or ranch:  
+Category I:  
+Has not operated a farm or ranch. 
+Category II:  1-3 years in farming. 
+Category III:  4-6 years in farming. 
+Category IV:  7-10 years in farming. 
+Category V:  Planning to serve trainees in all categories listed. 
+ 
+The BFRDP’s goal is to ensure that participants are adequately equipped with the necessary 
+skills and knowledge to sustainably own or lease a farm business operation. Individuals would 
+need to meet the following criteria: 
+1. Age 18 or older by the completion of the project funding; and 
+2. Operate a farm or ranch achieving a minimum annual value of $1000 in 
+production. 
+ 
+BFRDP will allocate not less than five percent of the amounts made available for a fiscal year 
+to each of the two subsets of beginning farmers and ranchers.  
+1. Limited resource beginning farmers and ranchers, as defined by the Secretary; and 
+farmworkers desiring to become farmers or ranchers; and 
+2. Veteran farmers and ranchers. 
+For applications to be considered under either of the two subsets, applicants must: 
+1. Identify the target audience of any of the group(s) identified above and state clearly what 
+percentage of the total project budget will be allocated to serving each group(s). 
+2. Explain how the beginning farmers and ranchers in the identified target audience will be 
+identified, recruited, and retained. 
+3. Provided descriptions of what appropriate training, education, outreach, and mentoring 
+will be provided. 
+4. Document evidence of the applicant’s ability to serve the specific needs of the identified 
+audience (s), e.g., involvement of partner(s) with expertise and a strong track record of 
+having previously done so. 
+5. Adhere to Executive Order 14151—Ending Radical and Wasteful Government DEI 
+Programs and Preferencing. 
+ 
+
+9 
+ 
+Handling of baseline data and data collection will be addressed in the Data Management Plan 
+(DMP) in accordance with this NOFO. 
+ 
+Additional requirements on expected performance goals, indicators and targets may be required 
+as a condition of award. 
+ 
+To achieve program goals, BFRDP projects will be expected to conduct education, training, 
+outreach and technical assistance for beginning farmers and ranchers on one or more of the 
+topics listed in Part I, B (1-15). Applicants must carefully consider the topics that will be 
+addressed by the proposed project (i.e., clearly identify the topics in the project narrative and 
+why those topics are the most appropriate for the project’s audience). Evidence of farmer input 
+on topic selection is very important. Applicants should make use of existing curriculum (whether 
+USDA funded or not), including entries in the BFRDP curriculum and training clearinghouse: 
+www.farmanswers.org. The following applications will not be accepted for review if: 
+a. Applications seek to develop coursework for credit for four-year degrees at colleges and 
+universities; 
+b. Applications seek to educate students for careers in agriculture other than as farmers or 
+ranchers; or 
+c. Applications seek to conduct research. 
+C. 
+Program Area Description 
+NIFA is soliciting applications under the following program award categories: 
+1. Standard Grants (Small, Medium, Large and Simplified Standard) 
+2. Education Team Grants 
+3. Curriculum and Training Clearinghouse Grant 
+ 
+Standard Grants 
+Table 2: Standard Grants Key Information  
+Title Description 
+Program Code: BFRDA 
+Program Code Name: Beginning Farmer and Rancher 
+Development Program, Standard 
+ALN: 10.311 
+Project Type:  Training and Technical Assistance 
+Grant Type: Standard 
+Application Deadline June 16, 2026 
+Grant Duration: 12-36 Months  
+Anticipated # of Awards: 90 
+Minimum Award Amount: $49,000 
+Maximum Award Amount: $750,000 
+ 
+Maximum Total Award 
+1. Large Standard: No more than $250,000 per year for three years, for a maximum of 
+$750,000. 
+2. Medium Standard: No more than $175,000 per year for three years, for a maximum of 
+$525,000. 
+
+10 
+ 
+3. Small Standard: No more than $100,000 per year for three years, for a maximum of 
+$300,000. 
+4. Simplified Standard: No more than $49,999 for one year for a simplified standard grant. 
+ 
+Small, Medium, and Large Standard Grants 
+BFRDP projects support new and established local and regional training, education, outreach, 
+and technical assistance initiatives for beginning farmers and ranchers, on the priority topics 
+listed in Part I, B (1-15). The primary goal of Standard Grants are to increase the number of 
+beginning farmers and ranchers and enhance their success and sustainability by providing them 
+with knowledge, skills, and tools needed to make informed decisions. Standard Grant 
+applications are expected to: 
+1. Identify the audience of beginning farmers and ranchers they aim to serve describing 
+their characteristics and unique needs;  
+2. Document the applicant’s knowledge and experience in education and assistance methods 
+to be used that are appropriate and effective in engaging the audience and meeting their 
+needs; and  
+3. Propose an ambitious yet achievable plan of work that will accomplish meaningful and 
+measurable success in enhancing the number and success of beginning farmers and 
+ranchers.  
+ 
+Small, medium, and large standard grant proposals will be evaluated using the same evaluation 
+criteria (see Part V, B of this NOFO), including collaborations that are led by State Cooperative 
+Extension Services; federal, state, municipal or tribal agencies that also include 
+nongovernmental, community-based organizations and school-based educational organizations 
+with expertise in new agricultural producer training and outreach will be given priority. 
+Smaller projects’ scope of work is expected to have smaller audiences, limited geographic reach, 
+and less complex collaborative arrangements. This provides an opportunity for smaller or less 
+experienced organizations to propose projects that have smaller budgets and less complex 
+administration. Those with larger award requests will be expected to undertake larger-scale 
+projects, in terms of numbers reached, intensity of training, other services to be provided, and 
+geographic service areas (e.g., statewide, regional, or even national in scale). All standard grant 
+proposals for federal funds should be commensurate with the scope of work. 
+ 
+Successful grant applicants provide training and assistance with business and financial 
+management, as well as production and marketing topics that align with the priority list in Part I, 
+B (1-15) of this NOFO.  
+ 
+Simplified Standard Grants  
+BFRDP projects develop action plans to strengthen program ideas to develop a full proposal; 
+curriculum development, hands-on materials, as well as develop an advisory committee to 
+strengthen future program activities. Educating and training a small group of individuals to 
+become farmers and ranchers is required.  
+ 
+Simplified standard grants are for applicants with limited capacity to enhance their abilities to 
+create and sustain beginning farmers and ranchers. These grants are designed for new applicants 
+without much experience in coordinating education and technical training.  
+
+11 
+ 
+Simplified Standard grants are intended to assist organizations: 
+1. Develop and enhance important collaborations and innovative activities relevant to 
+beginning farmer and rancher programs; and  
+2. Initiate and develop beginning farmer and rancher project ideas to lead to future program 
+success or success in obtaining other grants for beginning farmer and rancher education. 
+ 
+Evaluation criteria for reviewing the simplified standard grants (see Part V, B of this NOFO) are 
+different from those utilized for reviewing small, medium, and large standard grants. Priority for 
+funding under the simplified standard grants will be given to applicants who have not received 
+BFRDP grant funding. This priority does not exclude previous grant recipients from being 
+funded.  
+ 
+Education Team Grants 
+Table 3: Education Team Grants Key Information  
+Title Description 
+Program Code: BFRDB 
+Program Code Name: Beginning Farmer and Rancher 
+Development Program, Education Team 
+ALN: 10.311 
+Project Type:  Training 
+Grant Type: Education Team 
+Application Deadline June 16, 2026 
+Grant Duration: 36 Months  
+Anticipated # of Awards: 2 
+Minimum Award Amount: $600,000 
+Maximum Award Amount: $750,000 
+ 
+Maximum Total Award 
+Approximately $250,000 per year for up to three years, for a maximum of $750,000. 
+Education Team (ET) Grants 
+BFRDP projects identify gaps in beginning farmer and rancher training by evaluating existing 
+programs, and by developing and conducting train-the-trainer projects to address these gaps. 
+Additionally, ET projects enhance beginning farmer and rancher efforts based on a particular 
+topic, region, or audience.  
+ET applications must support the development of curricula and the delivery of education 
+programs and workshops for beginning farmers or ranchers across geographical areas of the 
+United States and its territories; or provide training for trainers and service providers that 
+improve and amplify their work with beginning farmers or ranchers. ET applications should 
+complement previously funded ET projects. Education Teams should involve teams of experts 
+with a wide range of experience (e.g., NGO, CBO, SAEO, farmers, university, and government) 
+to do the following: 
+1. Identify, collect, and assess existing curricula and programs; 
+2. Identify gaps, develop, and deliver curricula and train-the-trainer programs to 
+fill the identified gaps; and 
+
+12 
+ 
+3. Collaborate with the BFRDP Curriculum and Training Clearinghouse 
+https://farmanswers.org) and beginning farmers and ranchers’ education 
+providers to enhance successful use of the ET curricula and programs. 
+Curriculum and Training Clearinghouse Grant 
+Table 4: Curriculum and Training Clearinghouse Grant Key Information  
+Title Description 
+Program Code: BFRDC 
+Program Code Name: Beginning Farmer and Rancher 
+Development Program, Curriculum and 
+Training Clearinghouse 
+ALN: 10.311 
+Project Type:  Clearinghouse 
+Grant Type: Curriculum and Training Clearinghouse 
+Application Deadline June 16, 2026 
+Grant Duration: 36 Months  
+Anticipated # of Awards: One every three years 
+Minimum Award Amount: $600,000 
+Maximum Award Amount: $750,000 
+ 
+Maximum Total Award 
+Approximately $250,000 per year for up to three years, for a maximum of $750,000. 
+ 
+The purpose of the Curriculum and Training Clearinghouse Grant (BFRDP Clearinghouse) 
+is to serve as an online platform and library for educational curricula, training materials, 
+technical assistance materials and any other appropriate information for beginning farmers and 
+ranchers. The BFRDP Clearinghouse collaborates and facilitates coordination with BFRDP 
+grantees and other collaborators. Additionally, the BFRDP Clearinghouse assists NIFA 
+leadership in developing and providing an outcome-based reporting system appropriate for use 
+by the BFRDP, provides archival support for all materials and curricula on beginning farmer 
+education and training, and organizes appropriate meetings (both in-person and electronic, i.e., 
+webinars, conference calls) under the direction of NIFA leadership.  
+ 
+Duties of the BFRDP Clearinghouse are as follows: 
+1. Maintain and enhance an online accessible library for beginning farmer and rancher 
+education, training, mentoring, and outreach materials produced from projects funded 
+through the BFRDP program and through other sources. 
+2. Maintain a national “one-stop” resource for beginning farmer and ranchers, including 
+online accessible training materials and information. The BFRDP Clearinghouse should 
+provide access or linkages to beginning farmer and rancher education and training 
+materials developed by projects funded through BFRDP and other funding sources. 
+Materials may be developed by Extension and Land-grant Universities, community-based 
+organizations, nongovernmental organizations, other federal and state agencies, and/or 
+federally funded activities (such as the National Agricultural Library, Ag Risk & Farm 
+Management Library, Extension Foundation , or new communities of practice, etc.) and 
+should contain content useful to beginning farmers and ranchers and the organizations 
+
+13 
+ 
+that work with them. 
+3. Facilitate Sharing, Collaboration and Use of Curricula and Information 
+a. Collaborate with NIFA and all Standard and Education Team (ET) projects 
+grantees in identifying content for the BFRDP Clearinghouse, knowledge gaps, 
+needs, and other appropriate issues. 
+b. Assist Standard and ET grantees with uploading project resources and outcomes 
+(curricula, tools, success stories, and other information) to the BFRDP 
+Clearinghouse. Provide information on how to access and utilize BFRDP 
+Clearinghouse materials and tools.  
+c. Provide regular opportunities for sharing and collaborative learning among 
+Standard and ET project grantees. 
+d. Enhance communication among BFRDP projects through regular 
+communications and information dissemination.  
+4. Assist in Enhancing Outcome-Based Reporting 
+a. Collaborate with NIFA and all BFRDP grantees to assist in identifying 
+improvements for documenting the outcomes of funded projects and in the data 
+collection of outcomes and results of BFRDP-supported activities. 
+b. Assist grantees in organizing and documenting the results of BFRDP projects 
+through the outcome-based reporting system. This system should provide public 
+access to reports and accomplishments of BFRDP projects funded by NIFA as 
+well as projects already in existence. The system should allow Standard and ET 
+projects, nonprofit organizations, and other interested parties to learn from 
+existing projects and build upon successful programs and materials. 
+c. Develop appropriate communication tools to disseminate information on 
+successful BFRDP projects, ET project activities and other projects of interest to 
+the BFRDP national community. Describe collaborative coordination with NIFA 
+leadership and all Standard and ET projects. 
+d. Collaborate with USDA-NIFA BFRDP to coordinate the BFRDP annual Project 
+Directors’ Meeting. 
+5. BFRDP Impact Reports 
+a. For the first two years of the award, the Clearinghouse will submit an Annual 
+Impacts/Outcome Report to USDA/NIFA no later than 90 days after the award 
+anniversary date. The report must synthesize information across all active BFRDP 
+projects and provide: 
+i. Project Outcomes and Impacts: A consolidated summary of outcomes and 
+impacts reported by all active BFRDP projects, including notable trends, 
+innovations, and observed best practices. 
+b. At the conclusion of three-year award cycle, the Clearinghouse will submit a 
+Three-Year Comprehensive Report that includes: 
+i. Comprehensive Outcomes and Impacts: A cumulative summary of 
+outcomes, impacts, and measurable changes achieved across all BFRDP 
+projects during the three-year period. 
+ii. Project Highlights: Case studies or project spotlights demonstrating 
+effective practices, successful models, and innovative approaches 
+supporting beginning farmers and ranchers.  
+
+14 
+ 
+iii. Program Insights and Trends: Analysis of key themes, emerging needs, 
+gaps, and opportunities identified through project reporting and 
+clearinghouse operations.  
+iv. Recommendations: Evidence-based recommendations to improve BFRDP 
+program delivery, outreach, technical assistance and overall impact. 
+v. Other USDA-requested Components: Any additional summary analyses or 
+materials requested by USDA. 
+ 
+BFRDP requires Project Directors to participate in Project Director annual meetings. 
+Annual meetings allow Project Directors to discuss project progress, encourage grantee 
+networking and partnerships, and gain additional knowledge on evaluation methods to strengthen 
+documentation of project outcomes in measurable terms. First-year Project Directors are 
+expected to present upcoming project work via the poster session. Second and third-year Project 
+Directors are expected to present project updates and outcomes via the poster session and/or 
+individual presentations, as determined by the National Program Leader. Noncompliance with 
+attendance and participation in the annual Project Directors meeting may impact future funding. 
+ 
+
+15 
+ 
+PART II. AWARD INFORMATION 
+ 
+A. 
+Available Funding 
+The amount available for BFRDP grants is approximately $22,304,840 for FY 2025 and 
+$22,138,300 for FY 2026 for a grand total of  $44,443,140 in FY 2026. USDA is not committed 
+to fund any particular application or to make a specific number of awards.  
+ 
+The Automated Standard Application for Payments, operated by the Department of Treasury, 
+Bureau of Fiscal Service, is the designated payment system for awards resulting from this 
+NOFO.   
+B. 
+Application Restrictions 
+NIFA will evaluate applications using the criteria described in Part V of this NOFO. All 
+applications for FY 2026 should list September 15, 2026, as the project starting date. In FY 
+2026, applications may be submitted to BFRDP as one of the following types of requests: 
+ 
+1. New application. New applications will be evaluated using the criteria described in Part 
+V of this NOFO and are subject to the due dates herein (see Appendix III for definition). 
+ 
+This is a project application that has not been previously submitted to BFRDP or an 
+application from a previously funded BFRDP project that has completed its project work 
+and is starting a completely new project.  
+ 
+The new applications from a Project Director (PD) who has received a prior BFRDP 
+award must contain the same information as required for new applications; they also must 
+contain an additional one-page “Accomplishment-Based” narrative (see Part IV B.), 
+including adequacy of plans for continuous improvement. Evaluation of performance 
+during the previous BFRDP grant(s) will include the outcomes achieved and, where 
+appropriate, contributions to the BFRDP Clearinghouse and Project Directors’ Annual 
+Meeting. Noncompliance with attendance and participation in the annual Project 
+Directors meeting may impact future funding. 
+ 
+Note: During the review process, NIFA seeks to meet legislative requirements for 
+geographical distribution to achieve regional balance. To avoid chances of Project 
+Directors providing oversight on two BFRDP grants concurrently, Project Directors of 
+active awards can apply for new BFRDP awards when they are in their final year of 
+project work. It is unallowable to have a new project and at the same time have a project 
+that has not yet been closed out by USDA-NIFA. 
+ 
+2. Resubmitted application. Resubmitted applications must include the response to the 
+previous review panel comments and are subject to the same criteria and due dates 
+herein. Resubmitted applications must enter the NIFA-assigned proposal number of the 
+previously submitted application in the Federal Field (Field 4) on the application form 
+(see Appendix III for definition).  
+ 
+
+16 
+ 
+This is an application that has previously been submitted to BFRDP but not funded. 
+Project Directors (PDs) must respond to the previous review panel comments; they must 
+include an additional one-page “Response to Previous Review” narrative (see Response 
+to Previous Review, Part IV). Resubmitted applications must be received by the relevant 
+due dates and will be evaluated in competition with other pending applications in the 
+appropriate area to which they are assigned. These applications will be reviewed 
+according to the same evaluation criteria as new applications. Addressing previous 
+comments is important as each year is a new competition. Resubmitting applicants should 
+strengthen their proposals in every way possible. 
+ 
+Please note that research is unallowable in BFRDP. 
+C. 
+Project and Grant Types 
+The following describes the types of projects or grants that are eligible for funding: 
+1. Project Types. Applicants must propose a Training and/or Technical Assistance project as 
+described in Part I, C of this NOFO. Only Training and/or Technical Assistance projects 
+described in Part I, C of this NOFO will be considered for review. 
+2. Grant Types. Applicants must select the Standard Grants, Education Team Grants, or 
+Curriculum and Training Clearinghouse Grant described in Part I, C of this NOFO. Only 
+Standard, Education Team, or Curriculum Training and Clearinghouse Grants described 
+in Part I, C of this NOFO will be considered for review. 
+ 
+BFRDP applications may not request more than the maximum annual award amount listed 
+for the grant type being applied to with a project period not to exceed 12 months for Simplified 
+Standard or 36 months for Small, Medium, Large Standard, Education Team, or Curriculum and 
+Training Clearinghouse Grants. Proposal requests exceeding these limits will be excluded from 
+review.  
+ 
+FY 2026 Suggested Project Start and Ending Timeline: 
+For Simplified Standard: September 15, 2026, through September 15, 2027. 
+For Small, Medium, or Large Standard, Education Team, and Curriculum and Training 
+Clearinghouse: September 15, 2026, through September 15, 2029. 
+ 
+After the award is made, a no cost extension may be requested for up to 12 months. Please see 
+the NIFA Federal Assistance Policy Guide  for additional details. 
+D. 
+Ethical Conduct of Funded Projects 
+In accordance with sections 2, 3, and 8 of 2 CFR Part 422, institutions that conduct USDA-
+funded extramural research must foster an atmosphere conducive to research integrity, bear 
+primary responsibility for prevention and detection of research misconduct, and maintain and 
+effectively communicate and train their staff regarding policies and procedures. In the event an 
+application to NIFA results in an award, the Authorized Representative (AR) assures, through 
+acceptance of the award, that the institution will comply with the above requirements. Award 
+recipients must, upon request, make available to NIFA the policies, procedures, and 
+documentation to support the conduct of the training. See Responsible and Ethical Conduct of 
+Research for further information.  
+
+17 
+ 
+PART III. ELIGIBILITY INFORMATION 
+A. 
+Eligibility Requirements 
+Applicants for the Beginning Farmer and Rancher Development Program (BFRDP) must meet 
+all the requirements discussed in this NOFO. Failure to meet the eligibility criteria by the 
+application deadline may result in exclusion from consideration or, preclude NIFA from making 
+an award. For those new to Federal financial assistance, NIFA’s About Grants provides highly 
+recommended information about grants and other resources to help understand the Federal 
+awards process. 
+ 
+Applications may only be submitted by a collaborative state, tribal, local, or regionally based 
+network or partnership of qualified public and/or private entities. These collaborations may 
+include the following entities: State Cooperative Extension Services; federal, state, municipal or 
+tribal agencies; community-based organizations (CBOs); non-governmental organizations 
+(NGOs); junior and four-year colleges or universities or foundations maintained by a college or 
+university; and private for-profit organizations. Collaboratives led by State Cooperative 
+Extension Services; federal, state, municipal or tribal agencies will be given funding priority. 
+ 
+Application submission of a project effort that is a duplicate of a current beginning farmer 
+project will not be accepted for review under this program. 
+ 
+Incorporating beginning and/or non-beginning farmers and ranchers as part of the collaborative 
+group is strongly encouraged. 
+ 
+Applications submitted by individuals, or by organizations that do not involve other entities in a 
+network or partnership, are not eligible for consideration under any category applicable to the 
+BFRDP and will be excluded from review. 
+ 
+To meet regional balance, multiple awards will not be made to the same organization, institution, 
+or Project Director in the same calendar year. Further, organizations and institutions that have 
+received a regular standard or education team grant in the last funding cycle (FY 2024) are 
+ineligible to apply. To avoid chances of Project Directors providing oversight on two BFRDP 
+grants concurrently, Project Directors of active awards can apply for new BFRDP awards when 
+they are in their final year of project work. It is unallowable to have a new project and at the 
+same time have a project that has not yet been terminated. Please do not apply for another 
+simplified standard grant if you were previously awarded a simplified standard BFRDP grant. 
+Simplified standard grants are designed for new trainers who have never received grants nor 
+gained more than three years of experience in assisting with the development of beginning 
+farmers and ranchers. 
+ 
+Failure to meet an eligibility criterion by the application deadline may result in the application 
+being excluded from consideration or, if reviewed, will preclude NIFA from making an award. 
+Award recipients may subcontract to organizations not eligible to apply provided such 
+organizations are necessary for the conduct of the project. 
+ 
+
+18 
+ 
+USDA will not accept competitive applications for grants proposals for dangerous gain-of-
+function research, as defined in Section 8 of E.O. 14292. 
+Duplicate or Multiple Submissions. NIFA will accept the most recent application if an applicant 
+submits duplicate or multiple submissions. For those new to federal financial assistance, NIFA’s 
+Grants Overview provides highly recommended information about grants and other resources to 
+help understand the Federal awards process. 
+B. 
+Cost Sharing or Matching 
+Match Required –Applicants MUST provide match from nonfederal sources in the form of cash 
+or in-kind contribution in an amount equal to 25 percent of the funds provided by the grant or 
+cooperative agreement. 
+ 
+Per 7 U.S.C. 2279(d)(5)(B): 
+(5) Matching requirement 
+(A) In general 
+Except as provided in subparagraph (B), to be eligible to receive a grant or enter 
+into a cooperative agreement under this subsection, a recipient or participant shall 
+provide a match in the form of cash or in-kind contributions in an amount equal to 
+25 percent of the funds provided by the grant or cooperative agreement. 
+(B) Exception 
+The Secretary may waive or reduce the matching requirement in subparagraph 
+(A) if the Secretary determines such a waiver or modification is necessary to 
+effectively reach an underserved area or population. 
+  
+If you plan to serve an underserved area or population and would like to request the 25% 
+match waiver, or match modification please enter the following statement, at the top of 
+your budget justification form: “This applicant plans to serve an underserved area or 
+population and would like to request the 25% match waiver” or “match modification” - 
+whichever applies. 
+ 
+See Part IV, B of this NOFO, R&R Budget Federal and Non-Federal, for details on requesting a 
+match-waiver. 
+ 
+Matching funds must be from nonfederal sources except when authorized by statute. 
+An award will not be issued unless all matching funds over the life of the grant are secured with 
+match support documentation, which will be requested of applicants at the time they are 
+recommended for an award. There can be no contingencies on the matching amount. 
+ 
+The Budget Justification must list matching sources along with the identification of the 
+entity(ies) providing the match as well as the total dollar amount being pledged. However, the 
+applicant is still subject to documentation, valuing and reporting requirements, etc. as specified 
+in 2 CFR Part 200, “Uniform Administrative Requirements, Cost Principles, and Audit 
+Requirements for Federal Awards (the Uniform Guidance),” 7 CFR 3430, “Competitive and  
+Noncompetitive Non-Formula Federal Assistance Programs – General Award Administrative 
+
+19 
+ 
+Provisions,” and program-specific regulations, as applicable. In instances where match is 
+required, any resulting award will require the signature of an Authorized Representative (AR). 
+Only when NIFA receives the award signed by the AR will award funds be released and 
+available for draw down. 
+ 
+The applicant must establish the value of matching contributions in accordance with applicable 
+cost principles. Refer to 2 CFR Part 200, “Uniform Administrative Requirements, Cost  
+Principles, and Audit Requirements for Federal Awards, for further guidance and other 
+requirements relating to matching and allowable costs. 
+
+20 
+ 
+PART IV. APPLICATION AND SUBMISSION 
+A. 
+Method of Application 
+Applicants must apply to this NOFO electronically; no other method or response is accepted. 
+The electronic application for this NOFO and additional resources are available on Grants.gov 
+and Grants 101. Table 5 provides instructions on how to obtain an electronic application. Part 
+III of the NIFA Grants Application Guide contains detailed information regarding the 
+Grants.gov registration process. The NIFA Grants Application Guide is contained in the specific 
+funding opportunity package or a sample of the guide can be found here. When applying for a 
+NIFA award, it is important to reference the version of the guide that is included in the specific 
+funding opportunity application package. 
+ 
+Table 5: Steps to Obtain Application Materials  
+Steps 
+Action  
+Step One: Register New Users to Grants.gov must register early with Grants.gov prior to 
+submitting an application (Register Here).  
+Step Two: 
+Download Adobe 
+Download and Install Adobe Reader (see Adobe Software Compatibility 
+for basic system requirements). 
+Step Three: Find 
+Application   
+Using this funding opportunity number USDA-NIFA-BFR-011336, 
+search for application here: Opportunity Package. 
+Step Four: Assess 
+Readiness 
+Contact an AR prior to starting an application to assess the organization’s 
+readiness to submit an electronic application. 
+ 
+Table 6:  Help and Resources   
+Grants.gov Support 
+NIFA Support 
+ Grants.gov Online Support  
+Telephone support: 800-518-4726 
+Toll-Free or 606-545-5035 
+Email support: support@grants.gov 
+Self-service customer-based support: Grants.gov iPortal  
+Customer service business Hours 24/7, except federal 
+holidays. 
+Email: 
+grantapplicationquestions@usda.gov  
+ 
+Business hours: Monday thru 
+Friday, 7 a.m. – 5 p.m. ET, except 
+federal holidays. 
+ 
+B. 
+Content and Form of the Application 
+The NIFA Grants Application Guide is part of the corresponding application package for this 
+NOFO. The NOFO overrides the NIFA Grants Application Guide if there is a discrepancy 
+between the two documents. NIFA will accept subsequent submissions to an application until the 
+application deadline. Applicants that do not meet the application requirements, to include partial 
+applications, risk being excluded from NIFA’s review. NIFA will assign a proposal number to all 
+applications that meet the requirements of this NOFO. Applicants must refer to the proposal 
+number when corresponding with NIFA. Table 7 outlines other key instructions for applicants.  
+ 
+ 
+ 
+
+21 
+ 
+Table 7:  Key Application Instructions  
+Instruction 
+References 
+(All references are to the NIFA 
+Grants Application Guide) 
+Attachments must be in a portable document format (PDF) 
+format.  
+Part IV 
+Check the manifest of submitted files to verify attachments 
+are in the correct format.  
+Part IV 
+Conduct an administrative review of the application before 
+submission. 
+Part IV 
+Follow the submission instructions.  
+Part IV 
+Provide an accurate email address, where designated, on the 
+SF-424 R&R.  
+Part V 
+Contact the Grants.gov helpdesk for technical support and 
+keep a record of the correspondence. 
+N/A 
+Contact NIFA if applicant does not receive correspondence 
+from NIFA regarding an application within 30 days of the 
+application deadline.  
+N/A 
+ 
+Note the attachment requirements (e.g., PDF) in Part IV.200 of the NIFA Grants Application 
+Guide. Any proposals that are non-compliant with the requirements (e.g., content format, PDF 
+file format, file name restrictions, and no password protected files) will be at risk of being 
+excluded from the NIFA review. Grants.gov does not check for NIFA required attachments or 
+whether attachments are in PDF format; see Part VI.100 Option 2 of the NIFA Grants 
+Application Guide for how to check the manifest of submitted files. Partial applications will be 
+excluded from NIFA review. 
+BFRDP FY 2026 Sample Checklist for Standard & Education Team Grant Applications 
+-*SF 424 R&R Cover Sheet 
+-*SF 424 R&R Project/Performance Site Location(s) 
+-R&R Other Project Information Form 
+ Project Summary (PDF) 
+ Project Narrative (PDF) 
+ Logic Model (see logic model template) 
+ Bibliography & Cited References (PDF) 
+ Facilities and Other Resources (PDF) 
+ Equipment Documentation (PDF) 
+ Other Attachments 
+ Data Management Plan (PDF) 
+ Commitment Letters (PDF) 
+ Supplemental Information Form 
+ Conflict of Interest List (PDF) 
+-R&R Senior/Key Person Profile (Expanded) 
+
+22 
+ 
+ Biographical Sketch(es) (SciENcv-certified Common Form) 
+ Current & Pending Support (SciENcv-certified Common Form) 
+-R&R Personal Data 
+-R&R Budget 
+ Match 
+ Indirect Costs 
+ Budget Justification (PDF) 
+ R&R Sub-Award Budget(s) 
+ 
+-*SF 424 R&R: Forms in the Application Package – see instructions in the NIFA Grants 
+Application Guide. 
+ 
+SF 424 R&R Cover Sheet. See Part V of the NIFA Grants Application Guide for the required 
+certifications and assurances.  
+SF 424 R&R Project/Performance Site Location(s). See Part V of the NIFA Grants 
+Application Guide. 
+R&R Other Project Information Form. See Part V of the NIFA Grants Application Guide. 
+1. Field 7. Project Summary (PS)/Abstract. The PS must show how the project goals 
+align with the project goals of the BFRDP. See Part V of the NIFA Grants Application 
+Guide for instructions and suggested templates. The PS is limited to 250 words with font 
+size no smaller than 12-point Times New Roman and must use NIFA’s Project Summary 
+Application Template. The PS must be attached as PDF. 
+ 
+The PS must include a description of the problem or opportunity, project objectives, and 
+a description of the effort.  
+ 
+It is the responsibility of the applicant to review the attachment for the 250-word limit 
+and PDF compliance before submission. NIFA will not review applications that exceed 
+the required 250-word limit. The PS must include all the following: 
+a. Project Title; 
+b. List of Project Directors (PDs) and Co-PDs and their associated 
+institutions/organizations; 
+c. Project objectives and projected outcomes; 
+d. List of all other collaborating institutions/organizations/farmer and rancher groups; 
+e. Percent of total federal funds requested that are allocated to partnerships and 
+collaborations that are led by State Cooperative Extension Services; federal, state, 
+municipal or tribal agencies that also include nongovernmental, community-based 
+organizations and school-based educational organizations with expertise in new 
+agricultural producer training and outreach; 
+f. If applicable, percent of budget allocated to serving veteran farmers and ranchers; 
+and/or percent of budget allocated to serving limited resource, or farmworker 
+audiences; and 
+g. List of any previous or current BFRDP projects that PD has been a part of leading 
+(list project director and award number 20XX-XXXXX-XXXXX). 
+ 
+
+23 
+ 
+2. Field 8. Project Narrative (PN). 
+Project Narrative for Small, Medium and Large Standard Grants, Education Team, and 
+Curriculum and Training Clearinghouse Grant Applications. The PN must not exceed 20 
+1.5 spaced pages of written text and at least 1-inch margins with font size no smaller than 
+12-point Times New Roman, including all figures and tables (the font size for tables and 
+figures must be no smaller than 11-point Times New Roman). The only exception to the 
+page limit requirement will be found in the directions as noted below under (a) Response 
+to Previous Review for Resubmissions; (b) Prior BFRDP accomplishments; and (f) logic 
+model. The page limits outlined here ensure fair competition. It is encouraged to include 
+a one-page table of contents in the PN, which will not count towards the page limit for 
+the PN. The PN must include all the following: 
+a. Response to Previous Review for Resubmissions – The response to previous review 
+must not exceed 1 page with line spacing set at 1.5 and at least 1-inch margins with 
+font size no smaller than 12-point Times New Roman. This does not count towards 
+the page limit for the PN. Use the subheading “Response to Previous Review”. 
+b. Prior BFRDP Accomplishments – If the Project Director (PD) has led prior BFRDP 
+project(s) from the same institution for which they are applying, briefly describe 
+accomplishments and lessons learned, what can be improved, and how those lessons 
+and improvements are being incorporated into the current application to ensure 
+effective and successful program goals. The prior BFRDP accomplishments must not 
+exceed 1 page with line spacing set at 1.5 and at least 1-inch margins with font size 
+no smaller than 12-point Times New Roman. This does not count towards the page 
+limit for the PN. Use the subheading “Prior BFRDP Accomplishments”.  
+c. Responsiveness to USDA BFRDP Program Priorities – Please indicate if the 
+application has a connection to the BFRDP priorities, Part I, B (1-15). Provide a brief 
+explanation of how the application is related to the area(s) indicated.  
+d. Background and Rationale – Indicate the overall background, technical approach, 
+and need for the project. Include a clear statement of the long-term goal(s) of the 
+proposed project. Identify the target audience and their needs (size, region, value of 
+sales, structure of the industry (number of small, medium, and large farms), critical 
+barriers, etc.). If helpful, provide a map of the target region. Summarize any similar 
+beginning farmer and rancher education and training programs that are available for 
+the identified target audience, including all programs at www.farmanswers.org.         
+Farmer Input: Include evidence that beginning farmers and ranchers were involved in 
+conceptualizing the project design and activities. 
+For Education Team projects, include the rationale for the geographic area, topic, or 
+other appropriate focus of the team and team composition.  
+All works cited must be referenced in the “Bibliography & Cited References” in this 
+section but will not count towards the page limit for the PN. 
+For the Curriculum and Training Clearinghouse, briefly describe the technology that 
+will be used to operate the online library and the applicant’s experience in developing 
+and maintaining such a system. 
+Applicants are encouraged to use approximately two (2) of the 20 pages for this 
+section. Related evaluation criteria (see Part V, B of this NOFO): Relevancy. 
+e. Objectives and Outcomes – Concisely present the goals, associated objectives, and 
+expected outputs and outcomes of the project in relation to the audience and needs 
+
+24 
+ 
+identified. Provide the number of beginning farmers and ranchers that will be served 
+by category as described in Part 1.b. above.  Estimate how many beginning farmers 
+and ranchers will attain specified, anticipated knowledge gains or actions (e.g., start 
+farming; improving production practices; entering new markets). How many are 
+projected to qualify as beginning farmers by the end of the project? Project the 
+expected impacts of the knowledge gains and actions on the success of the beginning 
+farmer and rancher operations. Discuss whether and how this program can be adapted 
+to other regions, communities and/or agricultural systems.  
+Applicants are encouraged to use approximately two (2) of the 20 pages for this 
+section. Related evaluation criteria (see Part V, B of this NOFO): Technical merit. 
+f. Approach – Clearly state the proposed activities and approaches to achieve each 
+objective. 
+Specifically, this section must include: 
+i. 
+Description of the activities proposed for each objective. 
+ii. 
+Timeline of the proposed project. The timeline should include activities, and 
+major outputs and associated outcomes for each year of the project. 
+iii. 
+Discuss how and where the activities will be provided and the approach, as 
+appropriate for the target audience. 
+iv. 
+Describe how the project, including its partnerships and collaborations, will be 
+sustained beyond the life of the grant (e.g., plans for self-support or 
+institutionalization, or other resources of support). If there are no plans to 
+sustain the effort, explain how the impact of the project will be lasting.  
+v. 
+For Standard projects describe how participants will be recruited for training. 
+Specify their prior farming experience, and whether they are already 
+beginning farmers and ranchers or not yet at that level. 
+vi. 
+For Education Team projects describe how beginning farmer and rancher 
+curricula and programs will be identified and evaluated. Detail how 
+curriculum will be developed and delivered in future years. 
+vii. 
+Detail novel ideas or contributions of the proposed project. 
+viii. 
+Describe any procedural limitations or expected obstacles, and how they will 
+be addressed. For Standard projects, identify possible challenges of your 
+proposed strategy for participant recruitment and plans to address those 
+challenges. 
+ix. 
+Develop and include a logic model to guide program planning, 
+implementation, and evaluation. Utilize graphical depiction to demonstrate the 
+relationships between elements leading to outcomes (see logic model 
+template). The logic model does not count towards the page limit for the PN.  
+Applicants are encouraged to use approximately six (6) of the 20 pages for this 
+section. Related evaluation criteria (see Part V, B of this NOFO): Technical merit; 
+Achievability.  
+g. Personnel and Resources – Detail key personnel’s experience in serving the 
+identified, or other beginning farmers and rancher’s audiences. Include key 
+personnel’s ability to provide effective education, outreach, training, and mentoring 
+programs for the identified audience. It is important to have partner(s) who have 
+knowledge and experience working with target audiences. Additionally, it is 
+important that such partner(s) be involved in the leadership of the project.  
+
+25 
+ 
+ 
+Describe ongoing or recently completed significant activities of key personnel related 
+to the proposed project, and associated impacts. This information may include:  
+i. 
+Years and locations of prior activities; 
+ii. 
+Number of training assistance or education activities previously carried out; 
+iii. 
+Number of participants and graduates from the program;  
+iv. 
+Success rate in completing the program;  
+v. 
+Percentage of graduates who are still in farming; and/or  
+vi. 
+Percentages of those who improved their operations.  
+Applicants are encouraged to use approximately two (2) of the 20 for this section. 
+Related evaluation criteria (see Part V, B of this NOFO): Expertise and track record; 
+Adequacy of available or obtainable support personnel. 
+h. Plan for Outcome Based Reporting – Detail a plan for project management, 
+including methodology and resource utilization for outcome documentation, 
+evaluation, data sharing, and reporting. Clearly identify expected performance targets, 
+impacts, and outcomes that are measurable and achievable. Participatory, formative, 
+and summative evaluation are encouraged. Evaluators who are external to the 
+performing institution are required. A Data Management Plan is required for this 
+program. 
+For greater detail on the appropriate evaluation measurement for a BFRDP grant, 
+please see the BFRDP Outcomes Based Reporting Guide. 
+As a starting point for Standard projects, applicants should report: 
+1. Expected number of new farm startups as a result of the project; and 
+2. Expected number of beginning farmers (i.e., within their first ten (10) years of 
+operation) who will make beneficial actions/changes as a result of the project; 
+all beneficial actions/changes should be detailed. 
+As a starting point for Education Team projects, applicants should report: 
+1. Anticipated number of information products created as a result of the project; 
+2. Anticipated number and types of users of information products created as a 
+result of the project; and/or 
+3. Anticipated number of trainers/organizations trained as a result of the project. 
+Applicants are encouraged to use approximately two (2) of the 20 pages for this 
+section. Related evaluation criteria (see Part V, B of this NOFO): Adequacy of Plans 
+for the Participatory Evaluation Process). 
+i. Management and Collaboration Plan – Detail a management plan that describes 
+roles, functions, and commitment of all partners, collaborators, and organizations, as 
+related to the proposed project. Describe the plans for coordination, communication, 
+data-sharing and reporting among members of the project team and stakeholder 
+groups. Detail how the collaboration and its impact will be sustained beyond the 
+period of the award. Strong partnerships among complementary organizations (e.g., 
+NGOs, CBOs, SAEOs and universities) with shared leadership are essential to 
+successful BFRDP projects, see “Definitions” (Appendix III of this NOFO) for 
+definitions of Partner and Collaborator. Include: 
+a. Time allocated by each partner for attainment of objectives; 
+b. Key roles of each partner and collaborator; and 
+
+26 
+ 
+c. Plan for administration of the proposed project, maintenance, and 
+partnerships. 
+Letters of commitment signed by the AR of the partnering organization 
+demonstrating that the partners involved have agreed to abide by the Management 
+Plan should be provided (see “Other Attachments” below). 
+Applicants are encouraged to use approximately two (2) of the 20 pages for this 
+section. Related evaluation criteria (see Part V, B of this NOFO): Partnerships and 
+collaboration; Achievability. 
+Project Narrative for Simplified Standard Grants Applications. The PN must not 
+exceed 10 pages of written text including all figures and tables with line spacing set at 
+1.5 and at least 1-inch margins with font size no smaller than 12-point Times New 
+Roman (the font size for tables and figures should be no smaller than 11-point Times 
+New Roman). The only exception to the page limit requirement will be found in the 
+directions as noted below under (a) Response to Previous Review for Resubmission; and 
+(d) logic model. The page limits outlined here ensure fair competition. It is encouraged to 
+include a one-page table of contents in the PN, which will not count towards the page 
+limit for the PN. The PN must include all the following: 
+a. Response to Previous Review for Resubmissions – The response to previous review 
+must not exceed 1 page with line spacing set at 1.5 and at least 1-inch margins with 
+font size no smaller than 12-point Times New Roman. This does not count towards 
+the page limit for the PN. Use the subheading “Response to Previous Review”. 
+b. Introduction – Indicate the overall background, technical approach, and need for the 
+project. Include a clear statement of the long-term goal(s) of the proposed project. 
+Identify the target audience and their needs (size, region, value of sales, structure of 
+the industry (number of small, medium, and large farms). If necessary, provide a map 
+of the target region. Summarize any similar beginning farmer and rancher education 
+and training programs that are available for the identified target audience, including 
+all programs at www.farmanswers.org. Include evidence that beginning farmers and 
+ranchers were involved in conceptualizing the project design and activities. 
+c. Objectives and Outcomes – Concisely present the goals, associated objectives, and 
+expected outputs and outcomes of the project in relation to the audience and needs 
+identified. Provide the number of beginning farmers and ranchers that will be served. 
+Estimate how many beginning farmers and ranchers will attain specific, anticipated 
+knowledge gains or actions (e.g., start farming; improving production practices; 
+entering new markets). Project the expected impacts of the knowledge gains and 
+actions on the success of the beginning farmer and rancher operations.  
+d. Approach – The activities proposed to achieve each objective must be clearly stated 
+and the approaches being applied clearly described. 
+i. 
+Description of the activities proposed for each objective. 
+ii. 
+Timeline of the proposed project. The timeline should include activities, and 
+major outputs and associated outcomes for each year of the project. 
+iii. 
+Discuss how and where the activities will be provided and the approach, as 
+appropriate for the target audience. 
+iv. 
+Describe how the project, including its partnerships and collaborations, will be 
+sustained beyond the life of the grant (e.g., plans for self-support or 
+
+27 
+ 
+institutionalization, or other resources of support). If there are no plans to 
+sustain the effort, explain how the impact of the project will be lasting.  
+v. 
+Describe how beginning farmers and ranchers will be recruited for training. 
+vi. 
+Detail novel ideas or contributions of the proposed project. 
+vii. 
+Describe any procedural limitations or expected obstacles, and how they will 
+be addressed. For Standard projects, identify possible challenges of your 
+proposed strategy for participant recruitment and plans to address those 
+challenges. 
+viii. 
+Develop and include a logic model to guide program planning, 
+implementation, and evaluation. Utilize graphical depiction to demonstrate the 
+relationships between elements leading to outcomes (see logic model 
+template). The logic model does not count towards the page limit for the PN. 
+e. Personnel and Resources – Detail key personnel’s experience in serving the 
+identified, or other beginning farmers and rancher’s audiences. Include key 
+personnel’s ability to provide effective education, outreach, training, and mentoring 
+programs for the identified audience. It is important to have partner(s) who have 
+knowledge and experience working with target audiences. Additionally, it is 
+important that such partner(s) be involved in the leadership of the project.  
+Describe ongoing or recently completed significant activities related to the proposed 
+project, and associated impacts. 
+f. Project Evaluation – Clearly identify expected performance targets, impacts, and 
+outcomes that are measurable and achievable. Participatory, formative, and 
+summative evaluation are encouraged. A Data Management Plan is required for this 
+program. For greater detail on the appropriate evaluation measurement for a BFRDP 
+grant, please see the BFRDP Outcomes Based Reporting Guide. 
+As a starting point, applicants should report: 
+1. Expected number of new farm startups as a result of the project. 
+2. Expected number of beginning farmers (i.e., within their first ten (10) years of 
+operation) who will make beneficial actions/changes as a result of the project; 
+all beneficial actions/changes should be detailed. 
+g. Project Results and Dissemination – Describe the plans for coordination, 
+communication, data-sharing and reporting results and outcomes among members of 
+the project team and stakeholder groups. Demonstrate project benefits and results to 
+growing and sustaining new and beginning farmers and ranchers. 
+ 
+3. Field 9. Bibliography & Cited References. Provide a complete list of all references cited 
+in the application. For each reference, provide the complete name for each author (in the 
+same sequence in which they appear in the publication), the year of the publication, full 
+title of the article, name of the journal or book published, volume, and the page numbers. 
+No page limit. 
+ 
+4. Field 10. Facilities & Other Resources. Describe the types, location, and availability of 
+instrumentation and physical facilities necessary to carry out the work proposed. If the 
+work will be conducted at a facility not owned and operated by the applicant, see Field 12 
+for additional information. 
+ 
+
+28 
+ 
+5. Field 11. Equipment Documentation. Describe the types, location, and availability of 
+equipment necessary to carry out the work proposed. Items of equipment to be purchased 
+must be fully justified under this section. 
+ 
+6. Field 12. Add Other Attachments. See Part V.120 Field 12 of the NIFA Grants 
+Application Guide. 
+Data Management Plan. A DMP is required for this program. Applicants should clearly 
+articulate how the project director (PD) and co-PDs plan to manage and disseminate the 
+data generated by the project. The DMP will be considered during the merit review 
+process (see Part V, B of this NOFO, NIFA’s Data Management Plan). The DMP should 
+not be more than 2 pages. 
+Commitment Letters. Include Letters of Commitment from all partners (signed by the 
+partnering institution AR). Letters should include partner roles in the proposed project 
+and agreement to abide by the Management and Collaboration Plan. Letters of 
+Commitment have no page limit. Title the attachment(s) as ‘Letter of Commitment – 
+Organization Name’ in the document header and save file (PDF) as ‘Letter of 
+Commitment Organization Name. Letters from other organizations or people whose 
+participation is important to the success of the project, committing those collaborators to 
+specific roles, are also encouraged. Additionally, support letters that add merit to the 
+grant application and help clarify project plans are welcomed. Support letters show that 
+the project is well organized, ideas are achievable, and project activities will resolve 
+societal challenges relevant to the target audience(s).  
+ 
+Do not add any other attachments not specifically requested in this NOFO. Attaching 
+additional narrative or figures or tables other than those specifically requested in this NOFO will 
+result in disqualification from review. 
+ 
+R&R Senior/Key Person Profile (Expanded). See Part V.130 of the NIFA Grants Application 
+Guide for profile requirements, details about the biographical sketch, and suggested support 
+templates. A biographical sketch and current and pending form are required documents for all 
+PD/PI and Co-PD/Co-PI. For the current and pending form, if no other funding is “Active,” then 
+this application is to be identified as “Pending” in the information submitted. 
+R&R Personal Data. This information is voluntary and is not a precondition of award (see Part 
+V.140 of the NIFA Grants Application Guide). 
+R&R Budget. See Part V.150 of the NIFA Grants Application Guide. 
+A R&R Budget form must be completed for each year (or partial year) for which work is 
+proposed under this program solicitation. Applicants must ensure that the budget provided in the 
+R&R Budget forms matches the requested budget amount found in Field 15(a) on the SF–424 
+form and that this number does not exceed the budget ceiling. 
+1. Match – If an applicant concludes that the matching requirements described under Part 
+III, B of this NOFO is not applicable to them, the applicant must include an explanation 
+of their conclusion in the budget justification. NIFA will consider this justification when 
+determining final matching requirements or if required matching can be waived. NIFA 
+retains the right to make final determinations regarding matching requirements. 
+
+29 
+ 
+Grants that require matching funds as specified under Part III, B of this NOFO must list 
+in their budget justification the matching sources, the identification of the entity(ies) 
+providing the match, and the total pledged amount. A written verification of 
+commitments of matching support (a pledge agreement) is not required. However, 
+applicants are subject to the documentation, valuing and reporting requirements, as 
+specified in 2 CFR Part 200, “Uniform Administrative Requirements, Cost Principles, 
+and Audit Requirements for Federal Awards (the Uniform Guidance),” and 7 CFR 3430, 
+“Competitive and Noncompetitive Non-Formula Federal Assistance Programs – General 
+Award Administrative Provisions.”   
+2. Indirect Costs (IDC) – See Part IV, C of this NOFO for funding restrictions regarding 
+IDC, and Part V of the NIFA Grants Application Guide for additional information. 
+3. Budget Justification – Part V.150 Section L of the NIFA Grants Application Guide 
+Applicants must provide a detailed budget justification (PDF) in Section L of the R&R 44 
+Budget form. All items included in the R&R Budget Form should be addressed in the 
+budget justification. 
+ 
+BFRDP requires Project Directors to participate in Project Director annual meetings that 
+can be expensed with awarded grant funds not to exceed $3,000 per award year. 
+Supplemental Information Form. See Part V.300 of the NIFA Grants Application Guide.  
+1. Field 2. Program to which the applicant is applying. Enter the program name and the 
+program code. See Part I, C of this NOFO for appropriate Program Codes. Accurate entry 
+is critical.  
+2. Field 8. Conflict of Interest List. See Part V.300 of the NIFA Grants Application 
+Guide. Required for all Senior/Key Persons. Combine all Conflict-of-Interest forms into a 
+single PDF attachment. A template is located at NIFA’s Application Support Template 
+Resource. 
+C. 
+Funding Restrictions 
+Legislative Mandated Indirect Cost (IDC). Section 12301 of the Agriculture Improvement Act 
+of 2018 (Pub. L. 115-334) 7 U.S.C. 2279(l) (7) limits IDC for BFRDP to 10 percent of total 
+federal funds awarded. Therefore, when preparing budgets, applicants for Standard, Education 
+Team (ET), and Curriculum and Training Clearinghouse proposals must limit their requests for 
+recovery of indirect costs to 10 percent of the total funds requested. If an applicant has a 
+Negotiated Indirect Cost Agreement with their cognizant agency they may recover indirect costs 
+according to that agreement however, recovery is still limited to 10 percent of total federal funds 
+awarded. 
+If the applicant does not have a negotiated rate and NIFA is the cognizant agency, the applicant 
+may request an IDC rate. Applicants are not required to complete the IDC package during the 
+application process and need only to calculate a rate to serve as a basis for requesting IDC. If 
+awarded, the applicant will be required to submit a complete IDC proposal package to obtain a 
+negotiated rate. 
+Organizations that do not have a current negotiated (including provisional) rate and do not want 
+to pursue an indirect cost negotiated rate but want to recover indirect costs may elect the De 
+Minimis rate (2 CFR 200.414(f)). The Uniform Guidance offers the option of electing to charge 
+a de Minimis rate of 15 percent of modified total indirect costs (MTDC) which may be used 
+
+30 
+ 
+indefinitely. As described above and in 2 CFR 200.403, costs must be charged consistently as 
+either indirect or direct costs but may not be double charged or inconsistently charged as both. If 
+elected, this methodology must be used consistently for all Federal awards until such time as a 
+non-Federal entity chooses to negotiate for a rate, which it may do at any time. Please note if an 
+applicant opts to use the 15 percent De Minimis option to recover indirect costs the 10 percent of 
+total funds requested Statutory limit still applies. 
+See NIFA Indirect Costs for information including additional resources and NIFA Indirect Cost 
+Guidance Chart. 
+D. 
+Submission Dates and Times 
+It is recommended that you conduct an administrative review of the application before 
+submission via Grants.gov to ensure that it complies with all preparation instructions including 
+page limits and PDF requirements.  
+ 
+Instructions for submitting an application are included in Part IV.300 of the NIFA Grants 
+Application Guide.  
+ 
+If you have trouble submitting an application to Grants.gov, you should FIRST contact the 
+Grants.gov Help Desk to resolve any problems. Keep a record of any such correspondence. See 
+Part IV, A of this NOFO for Grants.gov contact information.  
+ 
+Applicants must allow additional time for electronic submission and plan to allow time for 
+correction of technical errors identified by Grants.gov. It is recommended that applicants begin 
+submitting their completed application at least one day prior to the deadline. The USDA NIFA 
+BFRDP Programs rarely accept late applications. Exceptions are only made for delays due to 
+natural disasters or technical problems experienced by Grants.gov that impact the entire 
+applicant community. Documentation of the problem will be required. Exceptions made for 
+technical problems will be for Grants.gov system failures prior to the deadline that impact the 
+entire applicant community. Applicants who have problems with their submissions to Grants.gov 
+must call the Grants.gov help desk to resolve the problems and keep a record of the following:  
+1. Grants.gov Tracking Numbers. 
+2. Case numbers provided by Grants.gov. 
+3. Any correspondence with Grants.gov regarding the submission problem. 
+4. Any correspondence with SAM.gov and Dunn and Bradstreet during the registration 
+process.  
+ 
+Once the application is successfully submitted to Grants.gov, the applicant must forward the 
+information above via email to BFRDP@usda.gov. Information obtained from the case number 
+and correspondence will be used to verify if the submission problem was due to a Grants.gov 
+system failure that impacted the entire applicant community or due to a problem with the 
+applicant. This information will be used to determine the final decision to accept or not accept a 
+late application.  
+ 
+Email correspondence will be provided to the AR regarding the status of submitted applications. 
+Please provide an accurate email addresses, where designated, on the SF-424 R&R Application 
+for Federal Assistance.  
+
+31 
+ 
+ 
+If the AR has not received correspondence from NIFA regarding a submitted application within 
+30 days of the established deadline, contact BFRDP@usda.gov and request the application 
+number that was assigned to the application. Failure to do so may result in the application not 
+being considered for funding by the peer review panel. Once the application has been assigned 
+an application number, you should cite this number on all future correspondence.  
+ 
+It is anticipated that the evaluation of BFRDP applications will require approximately six months 
+from submission deadline, and no information on application status will be available until final 
+selections have been made. Both successful and unsuccessful applicants will be notified of final 
+award decisions via email within approximately six months after the submission deadline. 
+ 
+ 
+
+32 
+ 
+PART V. APPLICATION REVIEW REQUIREMENTS 
+A. 
+NIFA’s Evaluation Process 
+NIFA evaluates each application in a two-part process. First, we screen each application to 
+ensure that it meets the administrative requirements set forth in this NOFO. All administrative 
+requirements must be met in order for the application to proceed to the next level of review. 
+Second, a scientific peer-review process will be used to technically evaluate applications that 
+have met the administrative requirements using a review panel (see NIFA Peer Review 
+Process). 
+ 
+Scientific Peer Review Process: 
+NIFA selects reviewers for the review panel based upon their training and experience in 
+relevant scientific, extension, or education fields, taking into account the following factors: 
+1. The level of relevant formal scientific, technical education, or extension experience of 
+the individual, as well as the extent to which an individual is engaged in relevant 
+research, education, or extension activities. 
+2. The need to include experts from various areas of specialization within relevant 
+scientific, education, or Extension fields. 
+3. The need to include other experts (e.g., agricultural producers, range or forest 
+managers/operators, researchers, educators, evaluators, and consumers) who can assess 
+relevance of the applications to targeted audiences and to program needs. 
+4. The need to include experts from a variety of organizational types (e.g., colleges, 
+universities, industry, state and federal agencies, and private profit and nonprofit 
+organizations) and geographic locations. 
+5. The need to maintain a balanced composition with regard to the reviewer's area of 
+expertise, geographic area, and entity type, as appropriate. 
+6. The need to include reviewers who can judge the effective usefulness of each 
+application to producers and the general public. 
+ 
+After each peer review panel has completed its deliberations, the responsible program staff of 
+NIFA will recommend that your project is either approved for support from currently available 
+funds or declined due to insufficient funds or unfavorable review. 
+ 
+NIFA reserves the right to negotiate with the PD/PI and/or the submitting organization or 
+institution regarding project revisions (e.g., reductions in the scope of work, funding level, 
+period, or method of support) prior to recommending any project for funding. 
+ 
+After the review process has been completed, NIFA sends copies of reviews, not including the 
+identity of reviewers, and a summary (if applicable) of the review panel comments to the PD. 
+Conflicts of interest. NIFA takes extreme care to prevent any actual or perceived conflicts of 
+interest that may influence the review or evaluation (see NIFA Peer Review Process for 
+Competitive Grant Applications). 
+B. 
+Evaluation Criteria 
+NIFA anticipates that the evaluation of the BFRDP applications will require approximately six 
+months from the submission deadline. No information on application status will be available 
+
+33 
+ 
+until NIFA makes the final selections. NIFA will notify both successful and unsuccessful 
+applicants of final award decisions via email. For information about the status of a submitted 
+application, see Part VI.100 of the NIFA Grants Application Guide. 
+ 
+Applicants should be aware that applications that do not satisfy all the screening criteria will be 
+returned to the proposing entity without review. Returned applications may not be resubmitted 
+(with or without revision) under this solicitation. The initial screening criteria are the following: 
+a. The application must meet the Application Content and Format requirements as 
+described in this NOFO. This includes page length and format requirements, all 
+required forms and all files in PDF. 
+b. The proposed budget must be within the dollar ceiling identified in this NOFO. 
+c. An application must contain adequate technical information that clearly states the 
+project plan and objectives. USDA NIFA reserves the right not to submit for 
+review any application that it finds to have insufficient information.  
+ 
+NIFA will use the following criteria to evaluate applications to this program: 
+Small, Medium, and Large Standard Grants & Education Team Grant Evaluation Criteria 
+1. Partnerships and Collaborations (10 points) 
+a. Collaborative network and/or partnership of public and/or private entities are 
+established and detailed; 
+b. Description of how partnership(s)/collaboration(s) are to be supported by this 
+grant; 
+c. Partners have expertise necessary to meet the needs of the target audience; 
+d. Description of how partnership(s)/collaboration(s) and/or their impact will be 
+sustained beyond the period of the award;  
+e. Letter(s) of Commitment signed by the AR of the partnering organization(s) 
+demonstrate all partners have agreed to abide by the Management Plan; relevant 
+Letters of Support must be included; and 
+f. Partnership(s)/collaboration(s) is led by State Cooperative Extension Services; 
+Federal, State, municipal or tribal agencies that also include nongovernmental 
+organizations (NGOs), community-based organizations (CBOs) and school-based 
+agricultural educational organizations (SAEOs)with expertise in new agricultural 
+producer training and outreach (5 bonus points). 
+2. Consultation of Beginning Farmers and Ranchers (10 points) 
+a. Evidence of beginning farmer and ranchers’ role in the proposed project  
+i. Initial planning and design,  
+ii. Implementation throughout the entire project, and  
+iii. Decision making during the project. 
+3. Relevancy (15 points) 
+a. Indication and explanation of project connection to the BFRDP priorities, Part I, 
+B (1-15); 
+b. Sufficient justification for the importance of the problem; 
+c. Identification of a target audience and description of its needs; 
+i. Target Audience – The target audience for BFRDP is farmers and 
+ranchers who have not operated a farm or ranch or have operated a farm or 
+
+34 
+ 
+ranch for not more than ten years. Applicants must identify, define, and 
+provide recruitment strategies for all BFR training categories:  
+1. Category I:  
+Has not operated a farm or ranch; 
+2. Category II:  1-3 years in farming and/or ranching; 
+3. Category III:  4-6 years in farming and/or ranching; 
+4. Category IV:  7-10 years in farming and/or ranching; or 
+5. Category V:  planning to serve trainees in all categories listed. 
+d. For Education Team Grants, rationale for the geographic area, topic, or other 
+appropriate focus of the team and team composition provided. 
+4. Technical Merit (25 points) 
+a. Project objectives and anticipated outcomes are clearly described, adequate, and 
+appropriate. All project components (education, outreach, and/or technical 
+assistance) are reflected in one or more project objectives; 
+b. Proposed approach, procedures, or methodologies are innovative, original, clearly 
+described, suitable, and feasible; 
+c. Proposed project is adaptable to other locations, communities, and/or agricultural 
+products or technologies; 
+d. Expected performance targets, impacts, and outcomes are clearly stated, 
+measurable, and achievable within the allotted time frame requested; 
+e. The budget is appropriate for the proposed project; 
+f. There is sufficient budget detail to indicate clearly how the funds would be 
+utilized; 
+g. For Education Team grants, a clear plan is described to identify gaps in BFR 
+training, evaluate all existing programs, and develop and conduct train-the-trainer 
+projects; proposed project complements previously funded and currently active 
+ETs; and 
+h. For previous BFRDP awardees, briefly describe lessons learned, what can be 
+improved, and how those lessons are being incorporated into the current proposed 
+project; detail prior project outcomes, achievements, and/or contributions of 
+curriculum to the BFRDP Clearinghouse; describe participation and contributions 
+to the Results Verification System (RVS); and outline participation in BFRDP 
+Project Directors’ (PDs) meetings. (Additional 20 points) 
+5. Achievability (10 points) 
+a. Proposed approach, procedures, or methodologies are achievable; 
+b. Expected performance targets, impacts, and outcomes are clearly stated, 
+measurable, and achievable within the allotted time frame requested; 
+c. Plans for administration and management of proposed project and 
+partnerships/collaborative arrangements are adequate (e.g., clearly defined project 
+roles of key personnel and collaborators); and 
+d. Description of procedural limitations or expected obstacles, and how they will be 
+addressed. 
+6. Expertise and Track Record of the Applicants (10 points) 
+a. Roles of key personnel are clearly defined; 
+b. Key personnel have sufficient experience in education, outreach, mentoring, 
+and/or technical assistance to beginning farmers and ranchers to complete the 
+
+35 
+ 
+proposed project (including quantitative and qualitative evidence of past 
+successful education, training, and technical assistance activities);  
+c. Key personnel have demonstrated experience working the proposed target 
+audience; 
+d. Key personnel have demonstrated experience evaluating project outcomes; and 
+e. PD and Co-PD biographic information/resumes provide relevant employment 
+history. 
+7. Adequacy of Available or Obtainable Support Personnel, Facilities, and 
+Instrumentation (10 points) 
+a. Support personnel, facilities, and instrumentation (equipment) are sufficient; and 
+b. Personnel on subcontract(s)/subaward(s) have defined roles and responsibilities. 
+8. Adequacy of Plans for Participatory Evaluation Process, Outcome-Based Reporting, 
+and the Communication of Findings and Results Beyond the Immediate Target 
+Audience (10 points) 
+a. A clear plan is articulated for project management, including time allocated for 
+attainment of objectives and project delivery, maintenance of partnerships and 
+collaborations, and a strategy to enhance communication, data sharing, and 
+reporting among members of the project team and stakeholder groups; 
+b. Expected performance targets, impacts, and outcomes are clearly stated, 
+measurable, and achievable within the allotted time frame requested by the 
+applicant; 
+c. Evaluation team has been identified; evaluators who are external to the 
+performing institution are required; 
+d. For Education Team grants, the number and description of activities (and new 
+curricula) planned are described with plans for dissemination; the anticipated 
+number of users of newly developed information products is included; and 
+e. Data Management Plan included. 
+ 
+Simplified Standard Grant Evaluation Criteria 
+1. Partnerships and Collaborations (10 points) 
+a. Collaborative network and/or partnership of public and/or private entities are 
+established and detailed; 
+b. Description of how partnership(s)/collaboration(s) and/or their impact will be 
+sustained beyond the period of the award;  
+c. Letter(s) of Commitment signed by the AR of the partnering organization(s) 
+demonstrate all partners have agreed to abide by the Management Plan; relevant 
+Letters of Support must be included; and 
+d. Partnership(s)/collaboration(s) is led by State Cooperative Extension Services 
+(5 bonus points) ; Federal, State, municipal or tribal agencies that also include 
+nongovernmental organizations (NGOs), community-based organizations (CBOs) 
+and school-based agricultural educational organizations (SAEOs)with expertise in 
+new agricultural producer training and outreach ( 
+2. Consultation of Beginning Farmers and Ranchers (10 points) 
+a. Evidence of beginning farmer and ranchers’ role in the proposed project: 
+i. Design;  
+ii. Implementation; and  
+
+36 
+ 
+iii. Decision making 
+3. Relevancy (15 points) 
+a. Indication and explanation of project connection to the BFRDP priorities, Part I, 
+B (1-15); 
+b. Sufficient justification for the importance of the problem; and 
+c. Identification of a target audience and description of their needs. 
+4. Technical Merit (25 points) 
+a. Project objectives and anticipated outcomes are clearly described, adequate, and 
+appropriate. All project components (education, outreach, and/or technical 
+assistance) are reflected in one or more project objectives; 
+b. Proposed approach, procedures, or methodologies are innovative, original, clearly 
+described, suitable, and feasible; 
+c. Expected performance targets, impacts, and outcomes are clearly stated and 
+measurable; 
+d. The budget is appropriate for the proposed project; and 
+e. There is sufficient budget detail to indicate clearly how the funds would be 
+utilized. 
+5. Achievability (10 points) 
+a. Proposed approach, procedures, or methodologies are achievable. 
+b. Specified performance targets, impacts, and outcomes are achievable within the 
+allotted time frame requested; and 
+c. Description of pitfalls or expected obstacles, and how they will be addressed. 
+6. Expertise and Track Record of the Applicants (5 points) 
+a. Roles of key personnel are clearly defined; 
+b. Key personnel have some experience in education, outreach, mentoring, and/or 
+technical assistance to beginning farmers and ranchers to complete the proposed 
+project; 
+c. Key personnel have demonstrated experience working with the proposed target 
+audience; and 
+d. PD and Co-PD biographic information/resumes provide relevant employment 
+history. 
+7. Personnel (5 points) 
+a. Support personnel, facilities, and instrumentation (equipment) are sufficient; and 
+b. Personnel on subcontract(s)/subaward(s) have defined roles and responsibilities. 
+8. Project Evaluation (10 points) 
+a. Expected performance targets, impacts, and outcomes are clearly stated, 
+measurable, and achievable within the allotted time frame requested by the 
+applicant; 
+b. Evaluation team has been identified; and 
+c. Data Management Plan included. 
+9. Project Results and Dissemination (10 points) 
+a. Detailed plans for reporting, and communication of results and outcomes within 
+target audience and local area; and 
+b. Demonstrate project benefits to growing new and BFRs; emphasize creating and 
+sustaining BFRs. 
+ 
+
+37 
+ 
+Curriculum and Training Clearinghouse Grant Evaluation Criteria 
+1. Consultation with Current and Previously Funded Grantees (10 points) 
+a. Explanation and documentation of the role of current and previously funded 
+BFRDP Standard and Education Team grantees in the design, implementation, 
+and decision making related to the proposed Clearinghouse; and 
+b. Partnership(s)/collaboration(s) is led by State Cooperative Extension 
+Services (5 bonus points)  federal, state, municipal or tribal agencies that also 
+include nongovernmental organizations (NGOs), community-based 
+organizations (CBOs) and school-based agricultural educational organizations 
+(SAEOs)with expertise in new agricultural producer training and outreach (5 
+bonus points). 
+2. Relevancy (10 points) 
+a. Explanation and documentation of project availability to educators, 
+educational curricula and training materials and programs, related to the 
+specific topic areas identified in Part I, B (1-15); and 
+b. Description of necessity of the proposed Clearinghouse approach based on 
+needs identified for the target audience (beginning farmer and rancher 
+educators), and evidence of beginning farmer and ranchers’ role in the 
+proposed project 
+i. Design;  
+ii. Implementation; and  
+iii. Decision making 
+3. Technical Merit (20 points) 
+a. Project objectives, activities and anticipated outcomes are clearly described, 
+adequate, and appropriate; 
+b. Proposed activities meet the needs of the target audience of educators, 
+including conceptual adequacy, suitability, and feasibility of the approach; 
+c. BFRDP Clearinghouse is adaptable and replicable for other education sectors; 
+and 
+d. Description of the sustainability and transferability of the project beyond the 
+life of the grant. 
+4. Achievability (15 points) 
+a. Proposed approach is achievable, including a detailed budget description for 
+each activity;  
+b. Description of project limitations or expected obstacles, and how they will be 
+addressed; 
+c. Sufficient time commitment of project directors for project activities and 
+management; and 
+d. Plans for management and collaborative arrangements of the proposed project 
+are adequate (e.g., sufficient time should be allocated for systematic 
+attainment of objectives). 
+5. Adequacy of Available or Obtainable Support Personnel, Facilities, and 
+Instrumentation (15 points) 
+a. Includes expertise of consultants and collaborators, sufficiency of educational 
+facilities and equipment for the proposed education and outreach methods; 
+and 
+
+38 
+ 
+b. Plan for administration of the proposed project and its maintenance, 
+partnerships, and collaborative efforts clearly demonstrated. 
+6. Adequacy of Plans for Assisting BFRDP Grantees in the Participatory 
+Evaluation Process, Outcome-Based Reporting, and Communication of Findings 
+and Results beyond the Immediate Target Audience (10 points)  
+a. A clear plan is articulated for project management, including time allocated 
+for attainment of objectives and project delivery, maintenance of partnerships 
+and collaborations, and a strategy to enhance communication, data sharing, 
+and reporting among members of the project team, BFRDP grantees, and 
+stakeholder groups;  
+b. Expected performance targets, impacts, and outcomes are clearly stated, 
+measurable, and achievable within the allotted time frame to meet BFRDP 
+needs;  
+c. Plan for completing the annual BFRDP Impact Reports, and the three-year 
+comprehensive BFRDP Impact Report; and 
+d. Data Management Plan included. 
+7. Organizational Effectiveness in Operating a Digital Library of Beginning 
+Farmer and Rancher Education Programs and Materials (20 points) 
+a. Ability to gather, organize, and make available educational curricula, 
+materials, and information relevant and useful to beginning farmer and 
+rancher development programs and issues; management and organizational 
+capacity to provide support to Educational Team and Standard projects; 
+knowledge and expertise to compile, analyze, and continuously improve 
+outcome-based measures and reporting; 
+b. Capacity to provide communications materials to enhance the impacts of 
+BFRDP projects; and 
+c. Applicants demonstrated expertise through successful multi-year experiences 
+in education, outreach, mentoring and/or technical assistance for beginning 
+farmers and ranchers. 
+C. 
+Organizational Management Information 
+Applicants must submit specific management information prior to an award and update the 
+information as needed. Applicants may only need to provide an update if there was a change in 
+previously provided information under this or another NIFA program. NIFA provides the 
+requisite forms during the pre-award process. Although an applicant may be eligible for award 
+under this program, there are factors that may exclude an applicant from receiving federal 
+financial and nonfinancial assistance and benefits under this program (e.g., debarment or 
+suspension of an individual, or a determination that an applicant is not responsible). 
+ 
+D. 
+Application Disposition 
+Applicants may withdraw at any time before NIFA makes a final funding decision. NIFA will 
+retain all applications, including withdrawn applications and unfunded applications. 
+
+39 
+ 
+PART VI. AWARD ADMINISTRATION 
+A. 
+General 
+Within the limit of funds authorized, the NIFA awarding official will make grants to responsible 
+and eligible applicants whose applications are judged most meritorious under the procedures set 
+forth in this NOFO. The date specified by the NIFA awarding official as the effective date of the 
+grant must be no later than September 30 of the federal fiscal year in which the project is 
+approved for support and funds are appropriated for such purpose, unless otherwise permitted by 
+law. The project need not be initiated on the grant effective date, but as soon thereafter as 
+practical so that project goals may be attained within the funded project period.  
+All funds granted by NIFA under this NOFO may be used only for the purpose for which they 
+are granted in accordance with the program-specific laws and regulations, NIFA General Awards 
+Administrative Provisions (7 CFR part 3430, subparts A through E), USDA Regulations for 
+Grants and Agreements (2 CFR Chapter IV), Office of Management and Budget Uniform 
+Guidance (2 CFR part 200), NIFA-specific terms and conditions, USDA General Terms and 
+Conditions for Federal Awards, and approved budget and project plans. 
+The Notice of Award will provide pertinent instructions and information as described in 2 CFR 
+200.211 (see NIFA’s Terms and Conditions). 
+B. 
+Administrative and National Policy Requirements 
+Several federal statutes and regulations apply to grant applications and the projects outlined in 
+this NOFO (some are listed here: Federal Regulations). Unless specifically noted by statue or 
+award-specific requirements, NIFA Federal Assistance Policy Guide applies to all NIFA awards. 
+ 
+C. 
+Expected Program Outputs and Reporting Requirements 
+Output and reporting requirements are included in the award terms and conditions. If there are 
+any program or award-specific award terms, they will be identified in the Award Notice. 
+ 
+Please note: All technical reports are held confidential for a period covering twenty years after 
+the termination of the project. As such, proprietary information may be included in the interim 
+and comprehensive final reports when necessary to provide the USDA NIFA BFRDP staff 
+adequate information to evaluate the progress and outcome of the project. 
+ 
+REEport and Other Reporting Requirements 
+Grantees are to submit initial project information and annual and final reports to NIFA’s 
+electronic, Web-based inventory system, REEport, that facilitates both grantee submissions of 
+project outcomes and public access to information on federally funded projects. The details of 
+these reporting requirements are included in the award terms and conditions (see REEport Guide 
+for Project Directors). Please note: Reports submitted via REEport will be placed in the USDA 
+Research, Education, & Economics Information System (REEIS). REEIS is an online public 
+database meant to provide information to the general public on all awards made by USDA NIFA. 
+As such, proprietary information should not be included in these reports. Additionally, a 
+REEport submission does not meet the requirements for the interim technical and comprehensive 
+final reports as these are additional reports required under the terms and conditions for the 
+BFRDP grant.  
+
+40 
+ 
+ 
+Besides REEport reporting, BFRDP grantees are required to contribute information, including 
+project results and outcomes to the outcome-based reporting system housed by the Curriculum 
+and Training Clearinghouse. Gathering reporting and outcomes information helps the team 
+analyze and share results across the BFRDP. See BFRDP Outcomes Based Reporting Guide for 
+details.  
+ 
+ 
+ 
+
+41 
+ 
+PART VII. OTHER INFORMATION 
+A. 
+Use of Funds and Changes in Budget 
+Delegation of fiscal responsibility. Unless the terms and conditions of the award state otherwise, 
+awardees may not in whole or in part delegate or transfer to another person, institution, or 
+organization the responsibility for use or expenditure of award funds. 
+Changes in Budget or Project Plans. In accordance with 2 CFR 200.308, awardees must request 
+prior approval from NIFA for the following program or budget-related reasons (the awardee is 
+subject to the terms and conditions identified in the award): 
+1. Change in the scope or the objective of the project or program without prior written 
+approval (even if there is no associated budget revision required). 
+2. Change in a key person specified in the application or the federal award.  
+3. Disengagement from the project for more than three months, or a 25 percent reduction in 
+time devoted to the project. 
+4. Inclusion of costs that require prior approval in accordance with 2 CFR 200 Subpart E 
+(Cost Principles), or 45 CFR Part 75 Appendix IX, (Principles for Determining Costs 
+Applicable to Research and Development under Awards and Contracts with Hospitals), 
+or 48 CFR, unless waived by the federal awarding agency, 48 CFR Part 31, Contract Cost 
+Principles and Procedures. 
+5. Transfer of funds budgeted for participant support costs to other categories of expense. 
+(2 CFR 200.456 Participant support costs). 
+6. Sub-awarding, transferring or contracting out of any work under a federal award, 
+including fixed amount sub-awards (see 2 CFR 200.333, Fixed Amount Sub-awards), 
+unless described in the application and funded in the approved federal awards. This 
+provision does not apply to the acquisition of supplies, material, equipment, or general 
+support services. 
+7. Changes in the approved cost-sharing or matching provided by the nonfederal entity.  
+8. The need for additional federal funds to complete the project. 
+9. Salary rates of pay exceeding an Executive Level IV salary range (see “Rates of Pay for 
+the Executive Schedule” under the “Executive & Senior Level Employee Pay Tables” 
+header at https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) require 
+prior NIFA approval. This rate does not include any fringe benefits, general and 
+administrative (G&A), overhead, or other expenses. Requests for approval must include 
+the salary rate of pay and a justification for the rate and be sent to the Authorized 
+Departmental Officer (ADO) to awards@usda.gov. 
+10. No more than 50 percent of the total dollars of this award may be subcontracted to 
+another party(ies) without prior written approval of the ADO, except subcontracts to 
+federal agencies. 
+11. Transferring funds between the construction and non-construction work under a federal 
+award. 
+12. A no-cost extension (meaning, an extension of time that does not require the obligation of 
+additional Federal funds) of the period of performance, other than any one-time extension 
+authorized by the federal agency in accordance with paragraph 2 CFR 200.308(g)(2). All 
+requests for no-cost extensions should be submitted at least 10 calendar days before the 
+conclusion of the period of performance. The federal agency may approve multiple no-
+cost extensions under a federal award if not prohibited by federal statute or regulation. 
+
+42 
+ 
+B. 
+Confidential Aspects of Applications and Awards 
+When an application results in an award, it becomes a part of NIFA transaction records, which 
+are available to the public. Information that the Secretary of Agriculture determines to be 
+confidential, privileged, or proprietary in nature will be held in confidence to the extent 
+permitted by law. Therefore, applicants should clearly mark any information within the 
+application they wish to have considered as confidential, privileged, or proprietary. NIFA will 
+retain a copy of an application that does not result in an award for three years. Such an 
+application will be released only with the consent of the applicant or to the extent required by 
+law. An applicant may withdraw at any time prior to the final action thereon. 
+ 
+C. 
+Regulatory Information 
+This program is not subject to the provisions of Executive Order 12372, which requires 
+intergovernmental consultation with state and local officials. Under the provisions of the 
+Paperwork Reduction Act of 1995 (44 U.S.C. Chapter 35), the collection of information 
+requirements contained in this notice have been approved under OMB Document No. 0524-
+0039. 
+ 
+D. 
+Language Access Services 
+NIFA offers language access services, such as interpretation and translation of vital information, 
+free of charge. If you need interpretation or translation services, please visit NIFA Language 
+Access Services. 
+ 
+ 
+
+43 
+ 
+ 
+APPENDIX I: AGENCY CONTACTS 
+ 
+Program Contacts 
+BFRDP Mailbox 
+BFRDP@usda.gov  
+ 
+Award Management Division Contacts 
+NIFA Awards Mailbox 
+Awards@usda.gov  
+ 
+For administrative questions related to: 
+1. Grants.gov, see Part IV of this NOFO. 
+2. Other NOFO or application questions, please email grantapplicationquestions@usda.gov 
+3. Awards under this NOFO, please email awards@usda.gov 
+ 
+U.S. Postal Mailing Address: 
+National Institute of Food and Agriculture 
+U.S. Department of Agriculture 
+P.O. Box 419205, MS 10000 
+Kansas City, MO 64141-6205 
+ 
+Courier/Package Delivery Address: 
+National Institute of Food and Agriculture 
+U.S. Department of Agriculture 
+2312 East Bannister Road, MS 10000 
+Kansas City, MO 64141-3061 
+
+44 
+ 
+APPENDIX II: GLOSSARY OF TERMS 
+ 
+Glossary of Terms 
+Assistance Listing Number - ALN 
+Authorized Representative – AR  
+Beginning Farmer and Rancher – BFR  
+Beginning Farmer and Rancher Development Program – BFRDP  
+Community Based Organizations – CBO  
+Data Management Plan – DMP  
+Education Team – ET  
+Indirect Costs – IDC  
+National Institute of Food and Agriculture – NIFA  
+Nongovernmental Organization – NGO 
+Notice of Funding Opportunity – NOFO   
+Portable Document Format – PDF  
+Project Director – PD   
+Project Narrative – PN  
+Project Summary – PS  
+Research, Education, and Economics – REE  
+School-based Agricultural Education Organization – SAEO 
+United States Department of Agriculture – USDA  
+
+45 
+ 
+APPENDIX III: DEFINITIONS 
+ 
+Refer to 7 CFR 3430 Competitive and Noncompetitive Non-formula Federal Assistance 
+Programs – General Award Administrative Provisions for additional definitions. 
+ 
+Definitions 
+Beginning Farmer or Rancher (7 U.S.C. 2279(a)(2)):  
+A person that- 
+(A)(i) has not operated a farm or ranch; or 
+(ii) has operated a farm or ranch for not more than 10 years; and 
+(B) meets such other criteria as the Secretary may establish. 
+Clearinghouse:  
+An online repository that will make available to beginning farmers or rancher’s education 
+curricula and training materials and programs, and which may include online courses for 
+direct use by beginning farmers or ranchers. 
+Collaborator:  
+A person or an organization that cooperates with the applicant in the conduct of the 
+project but is not immediately connected to the management of the project. 
+Community Based Organizations (CBOs):  
+Private non-profit organizations that are representative of a community or a significant 
+segment of a community that provides services to that local community. 
+Education:  
+An act or process that delivers knowledge and informal education programs to beginning 
+farmers and ranchers, enabling them to make practical decisions. 
+Nongovernmental organizations (NGOs):  
+Legally constituted, non-governmental organizations created by natural or legal persons 
+with no participation or representation of any government and serving one (1) or more 
+communities. 
+Partnership:  
+A relationship involving close cooperation between parties having specified and joint 
+rights and responsibilities in the management of the project. 
+Performance target:  
+A specific, verifiable change in people’s actions or conditions. It defines how many 
+people will change and what degree of change constitutes success. 
+Producer:  
+An individual, family, or other entity in the U.S. engaged in the business of agriculture, 
+crop, livestock, forestry, and range production, management, and marketing. 
+Qualified Public and Private Entities:  
+Public or private groups, organizations, or institutions that have established and 
+demonstrated capacities to conduct projects that accomplish the purposes of the program 
+as designated in these guidelines. 
+ Regions:  
+Are subdivided into four categories and include the states and territories as described 
+below: 
+
+46 
+ 
+1. The Northeast Region: Includes the 12 Northeast States and the District of Columbia 
+(Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, Connecticut, New 
+York, New Jersey, Pennsylvania, Delaware, Maryland, and West Virginia). 
+2. The Southern Region: Includes 13 States plus Puerto Rico and the Virgin Islands 
+(Virginia, North Carolina, South Carolina, Kentucky, Tennessee, Georgia, Florida, 
+Alabama, Mississippi, Louisiana, Texas, Arkansas, and Oklahoma). 
+3. The North Central Region: Includes 12 States (Ohio, Michigan, Indiana, Illinois, 
+Missouri; Kansas, Iowa, Wisconsin, Minnesota, Nebraska, South Dakota, and North 
+Dakota) and; 
+4. The Western Region: Includes 12 States and the American Territories in the Pacific 
+(Hawaii, Alaska, Washington State, Oregon, California, Idaho, Nevada, Utah, Arizona, 
+Montana, Wyoming, Colorado, New Mexico, and American Samoa, Northern Mariana 
+Islands, Guam, and Micronesia). 
+School-based agricultural education organizations (SAEOs):  
+Organizations that deliver career and/or technical education in agriculture to high school 
+students, which may include classroom and/or experiential learning, for example, FFA 
+(formerly known as the Future Farmers of America), National Young Farmer Education 
+Organization, or other similar organizations. 
+Veteran farmer or rancher (7 U.S.C. 2279(a)(7)):  
+A farmer or rancher who has served in the Armed Forces (as defined in section 101(10) 
+of title 38) and who- 
+(A) has not operated a farm or ranch; 
+(B) has operated a farm or ranch for not more than 10 years; or 
+(C) is a veteran (as defined in section 101 of that title) who has first obtained status as a 
+veteran (as so defined) during the most recent 10-year period. 
+ 

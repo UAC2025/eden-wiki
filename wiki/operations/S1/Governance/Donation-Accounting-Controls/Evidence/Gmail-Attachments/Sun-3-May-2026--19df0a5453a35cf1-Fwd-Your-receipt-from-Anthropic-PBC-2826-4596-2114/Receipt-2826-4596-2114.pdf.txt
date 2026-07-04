@@ -1,0 +1,67 @@
+ 
+Page 1 of 1
+Receipt
+Invoice number
+L0FIYBE9-0008
+Receipt number 2826-4596-2114
+Date paid
+February 13, 2026
+Anthropic, PBC
+548 Market Street
+PMB 90375
+San Francisco, California 94104
+United States
+support@anthropic.com
+Bill to
+Chad‘s Individual Org
+191 Viall Hill Road, Towanda, PA,
+USA
+191 Viall Hill Road
+Towanda, Pennsylvania 18848
+United States
+president@urbanarkconservation.or
+g
+Ship to
+Chad‘s Individual Org
+191 Viall Hill Road
+Towanda, Pennsylvania 18848
+United States
+$15.90 paid on February 13, 2026
+While we prefer electronic payment methods, 
+any checks must be sent to the address below, NOT to our San Francisco office.
+----------------------------
+PAYMENT ADDRESS:
+Anthropic, PBC
+P.O. Box 104477
+Pasadena, CA 91189-4477
+Description
+Qty
+Unit price
+Tax
+Amount
+One-time credit purchase
+1
+$15.00
+6%
+$15.00
+Subtotal
+$15.00
+Total excluding tax
+$15.00
+Tax - Pennsylvania (6% on $15.00)
+$0.90
+Total
+$15.90
+Amount paid
+$15.90
+Payment history
+Payment method
+Date
+Amount paid
+Receipt number
+Link
+February 13, 2026
+$15.90
+2826-4596-
+2114
+ 

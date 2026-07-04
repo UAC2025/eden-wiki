@@ -1,0 +1,93 @@
+04/22/2026
+10170578
+INVOICE
+Amount Enclosed: $
+URBAN ARK CONSERVATION
+191 VIALL HILL RD
+TOWANDA, PA 18848
+Heller's Gas - Back Mountain
+PO Box 444
+Berwick, PA 18603
+1-800-422-0560
+www.HellersGas.com
+Invoice #:
+Invoice Date:
+Please make checks payable to:
+Heller's Gas - Back Mountain
+Balance Due By:
+05/22/2026
+Account #:
+2118487
+Invoice Details
+N/A
+PO #:
+Payment Terms:
+Net 30
+Delivery / Service Address & Equipment / Tank
+191 VIALL HILL RD - TOWANDA, PA 18848
+Invoice Item
+Cost
+500 GALLON MONITORED HOUSE
+Quantity
+PROPANE
+Delivered By: Ralph B on 04/22/2026
+100.00
+$165.00
+COMMERCIAL DELIVERY HCIC
+1.00
+$9.95
+COMMERCIAL TEMPORARY FUEL SURCHARGE
+1.00
+$5.50
+PA - PA State Sales Tax:
+$10.83
+$191.28
+                             Try our automated delivery system! Simply call 1-800-422-0560 and press 3 to request a delivery! You
+can also request a delivery through our mobile app or online portal.
+Invoice Total
+                                                            Receive up to a $100 referral credit by referring a friend or family member!
+Managing your account has never been easier with our range of self-service features!
+Need to make a payment?
+                                              Check out our mobile app by searching “Heller’s Gas” in the App Store or log in to your account
+on our online portal at www.hellersgas.com. You may also use our automated payment system.
+Happy with service and want to refer others?
+Need a delivery?
+Note: Referral rewards have no limit; Certain Restrictions may apply
+
+A copy of your delivery ticket slip:
+Heller's Gas - Back Mountain
+PO Box 444
+Berwick PA 18603
+1-800-422-0560
+URBAN ARK CONSERVATION - 2118487
+PAPERLESS BILLING
+URBAN ARK CONSERVATION - 2118487
+191 VIALL HILL RD
+TOWANDA, PA 18848
+500 GALLON MONITORED HOUSE
+START             04/22/26 12:15:22
+FINISH            04/22/26 12:18:16
+START COUNT             0.0 GALLONS
+END NET COUNT         100.0 GALLONS
+NET DELIVERY          100.0 GALLONS
+1     PROPANE            LPG      1
+GALLONS CORRECTED TO         60.0øF
+SALE NUMBER                   18802
+METER NUMBER             115769801
+UNIT ID                  454
+** DUPLICATE TICKET **
+Invoice No.           10170578
+Account No.            2118487
+PO#.
+Date Delivered      04/22/2026
+Gallons Delivered        100.0
+Truck                Truck 454
+Driver                    1941
+PROPANE                $165.00
+COMM DELIVERY HCIC       $9.95
+COMM TEMP FUEL SURCHARGE $5.50
+PA - PA State Sales Tax 6%
+                        $10.83
+TOTAL $ THIS DEL.      $191.28
+
+FINAL PAGE
