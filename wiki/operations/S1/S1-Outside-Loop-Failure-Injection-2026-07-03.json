@@ -1,0 +1,14 @@
+[
+  {
+    "status": "pass",
+    "injection": "missing_receipt_evidence",
+    "caught_issue": "receipt_ingestion evidence check caught missing file: missing /persist/eden/hermes/workspace/does-not-exist/receipt-ingestion.md",
+    "raw_status": "fail"
+  },
+  {
+    "status": "pass",
+    "injection": "remove_required_ledger_row",
+    "caught_issue": "S1-CERT-HARNESS class of required ledger row check catches missing required rows",
+    "raw_status": "fail"
+  }
+]

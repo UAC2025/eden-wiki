@@ -35,3 +35,4 @@
 ## [2026-07-03] grants-loop | Grant loop standard and scorecard | 4 pages affected
 ## [2026-07-03] grants-qc | LCM microgrant QC and EDEN rewrite | 3 pages affected
 ## [2026-07-03] audit | S-1 outside loop auditor installed | 1 report added
+## [2026-07-03] certification | S-1 loop integrity packet and failure injection | 4 pages affected
