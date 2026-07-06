@@ -50,7 +50,7 @@ Run artifacts include command/evidence blocks, source date, and entity lane. Pro
 Read before overwrite. If live finance/grant/store/inventory source is missing, mark `BLOCKED — needs <source>` and do not synthesize numbers.
 
 ## Model policy
-Current brain: `gpt-5.5` via `openai-codex` for officer synthesis and verification drills. If `gpt-5.5` fails or `openai-codex` is rate-limited, fall back to `hermes-3-405b` via `nous` (Nous Portal) and log the flip in the officer ledger. `gpt-5.4-mini` is NOT a fallback — it shares the rate-limited `openai-codex` account. Gemini/frontier restored when funded. Parent delegates may use cheaper models only for draft/internal work verified before EDEN reports it.
+Current brain: `gpt-5.5` via `openai-codex` for officer synthesis and verification drills. If `gpt-5.5` fails or `openai-codex` is rate-limited, fall back to `nousresearch/hermes-4-405b` via `nous` (Nous Portal) and log the flip in the officer ledger. `gpt-5.4-mini` is NOT a fallback — it shares the rate-limited `openai-codex` account. Gemini/frontier restored when funded. Parent delegates may use cheaper models only for draft/internal work verified before EDEN reports it.
 
 ## Handoff
 Up to EDEN: BLUF, source/evidence, UAC/TNR lane, gate/blocker. Down to parents: exact charter path, source paths, output schema, no-standing-agent reminder.

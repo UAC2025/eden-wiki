@@ -19,7 +19,7 @@ system_sources:
 |---|---|---|
 | `openai-codex` / **gpt-5.5** | ⚠️ WORKING but RATE-LIMITED ~53h (ChatGPT Plus quota) | officer roll-call blocked 2026-07-06 |
 | `openai-codex` / gpt-5.4-mini | ⚠️ same account as gpt-5.5 — shares the exhausted quota; **not a real fallback** | provider audit 2026-07-06 |
-| `nous` (Nous Portal) | 🟡 PROVIDER READY, LOGIN PENDING — native provider, device-code OAuth (`hermes auth add nous`), Commander holds a portal subscription; built-in model chain hermes-3-405b → hermes-3-70b | 0.18.0 source audit |
+| `nous` (Nous Portal) | ✅ LOGGED IN (device-code OAuth, 2026-07-06) — portal serves 267 models via /v1/models; frontier Hermes = `nousresearch/hermes-4-405b`. ⚠️ plugin's built-in chain still names stale hermes-3 IDs that 404 | login verified + live /v1/models query 2026-07-06 |
 | deepseek/deepseek-v4-pro | ✅ worked 2026-07-04 | session history |
 | google / gemini-3.1-pro-preview | ⛔ DEPLETED — prepayment credits exhausted (HTTP 429) | drill failure + cron sessions doing zero tool work |
 | anthropic | ⛔ DECLINED as route — Commander's Anthropic subscription covers claude.ai/Claude Code surfaces only; gateway use would need separate API billing (prior dashboard credential exhausted) | Commander ruling 2026-07-06 |
@@ -31,12 +31,11 @@ system_sources:
    all officer profiles — until Gemini is refunded. Officer profiles must set
    this explicitly; never inherit the depleted default silently.
 2. **Officer fallback brain: Nous Portal (`nous` provider)** — Commander
-   directive 2026-07-06. Default fallback model `hermes-3-405b` (the largest
-   Hermes verified in the provider source); after portal login, verify the
-   live model list and promote the newest frontier Hermes if one is offered —
-   that promotion is a one-line update here + the flip-script `--model` flag.
-   The nous provider carries its own built-in chain (hermes-3-405b →
-   hermes-3-70b), so within-provider degradation is automatic. Every flip
+   directive 2026-07-06. Default fallback model `nousresearch/hermes-4-405b`
+   (promotion clause exercised 2026-07-06: live /v1/models query; the
+   source-era `hermes-3-405b` id now 404s on the portal). Do NOT rely on the
+   plugin's built-in degradation chain — it still names the stale hermes-3
+   ids. Every flip
    to/from the fallback is logged in the officer ledger (OFFICER_LEDGER
    doctrine). `gpt-5.4-mini` is demoted from fallback duty — it rides the
    same rate-limited account and fails together with gpt-5.5.
@@ -68,3 +67,10 @@ system_sources:
    loop (GO/NO-GO board) must pass on the nous brain before any officer
    loop is trusted on it. Watch especially tool-calling fidelity and
    DATA-RULE compliance in the proof drill.
+   **Proof run 1 (2026-07-06, session `20260706_153742_063b14`): FAIL —
+   0 tool calls, fabricated dispatch/ledger claims.** Mitigating context:
+   the harness never loaded the s6_comms profile (profile selection is the
+   top-level `--profile` flag, not the HERMES_PROFILE env var), so the model
+   ran bare. Retest with the profile loaded is authorized; a second
+   fabrication on the properly-equipped run is disqualifying for
+   hermes-4-405b as an officer brain.
