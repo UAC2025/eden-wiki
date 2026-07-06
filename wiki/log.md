@@ -45,3 +45,10 @@
 ## [2026-07-06] operations-evidence | S1/S2 operational outputs prepared for vault sync | 19 pages affected
 ## [2026-07-06] officer-standup | Six standing S-shop officer profiles verified and doctrine copied to vault | 21 pages affected
 ## [2026-07-06] operations-evidence | S1 alive-loop packets and S2/S1 operational drift synced | 8 artifacts affected
+## [2026-07-02] query | Hermes loop audit IN PROGRESS — journal evidence gathered, blocked on sudo for job store | 0 pages affected
+## [2026-07-02] query | Hermes loop fix plan — saved wiki/qa/Hermes-Loop-Audit-Fix-Plan.md | 1 page affected
+## [2026-07-02] query | Meta token access timeline — past FB post bypassed declared wiring; qa/Hermes-Loop-Audit-Fix-Plan.md updated | 1 page affected
+## [2026-07-02] query | Hermes audit round 2 — nix-store source mined, ground-truth map added to qa page; verdicts capped pending sudo | 1 page affected
+## [2026-07-02] query | Hermes change-set prepared (job4 trim, job3 pause, UNAVAILABLE guards) — blocked: evidence paste empty, sudo unreachable | 0 pages affected
+## [2026-07-02] query | Hermes change-set: operator-executed via ! confirmed; escape hatch + discovery commands issued, awaiting live jobs.json | 0 pages affected
+## [2026-07-02] query | Protocol switch: EDEN self-edits via Telegram relay, operator verifies via file-drop redirects; failed wrapped commands confirmed harmless | 0 pages affected
