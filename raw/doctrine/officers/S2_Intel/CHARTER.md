@@ -34,14 +34,14 @@ Reports to EDEN. Peers: S1_Personnel, S3_Operations, S4_Logistics, S5_Plans, S6_
 ## Parents-on-demand roster
 | Parent | Legacy charter | Notes |
 |---|---|---|
-| VisionAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/VisionAI.md` | On-demand observation; never standing. |
-| TelemetryAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/TelemetryAI.md` | On-demand telemetry analysis; never standing. |
-| WeatherAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/WeatherAI.md` | On-demand weather fusion; never standing. |
-| SecurityAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/SecurityAI.md` | Dual-homed legacy parent; S2 uses only intel/surveillance analysis; never standing. |
-| PredictiveAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/PredictiveAI.md` | On-demand forecast analysis; never standing. |
-| CodexAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/CodexAI.md` | On-demand KB/fact/doctrine integrity; never standing. |
-| MapAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/MapAI.md` | On-demand map/geospatial analysis; never standing. |
-| ForgeAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/ForgeAI.md` | On-demand hardware/device discovery analysis; never standing. |
+| VisionAI | `raw/doctrine/parents/S2_Intel/VisionAI.md` | On-demand observation; never standing. |
+| TelemetryAI | `raw/doctrine/parents/S2_Intel/TelemetryAI.md` | On-demand telemetry analysis; never standing. |
+| WeatherAI | `raw/doctrine/parents/S2_Intel/WeatherAI.md` | On-demand weather fusion; never standing. |
+| SecurityAI | `raw/doctrine/parents/S3_Operations/SecurityAI.md` | Dual-homed legacy parent; S2 uses only intel/surveillance analysis; never standing. |
+| PredictiveAI | `raw/doctrine/parents/S2_Intel/PredictiveAI.md` | On-demand forecast analysis; never standing. |
+| CodexAI | `raw/doctrine/parents/S2_Intel/CodexAI.md` | On-demand KB/fact/doctrine integrity; never standing. |
+| MapAI | `raw/doctrine/parents/S2_Intel/MapAI.md` | On-demand map/geospatial analysis; never standing. |
+| ForgeAI | `raw/doctrine/parents/S2_Intel/ForgeAI.md` | On-demand hardware/device discovery analysis; never standing. |
 
 ## WIRED dependencies
 | Item | Status | Evidence |

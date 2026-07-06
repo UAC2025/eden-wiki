@@ -30,12 +30,12 @@ Reports to EDEN. Peers: S1_Personnel, S2_Intel, S3_Operations, S5_Plans, S6_Comm
 ## Parents-on-demand roster
 | Parent | Legacy charter | Notes |
 |---|---|---|
-| LogisticsAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/LogisticsAI.md` | Supply/sustainment analysis; instantiated via `delegate_task`; never standing. |
-| FinanceAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/FinanceAI.md` | Finance/entity analysis; never standing. |
-| GrantsAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/GrantsAI.md` | Grant pipeline/support; never standing. |
-| FundraisingAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/FundraisingAI.md` | Donor/fundraising support; never standing. |
-| InfrastructureAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/InfrastructureAI.md` | Infrastructure/sustainment analysis; never standing. |
-| MarketingAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/MarketingAI.md` | Revenue-support/marketing input only; S6 owns public dispatch; never standing. |
+| LogisticsAI | `raw/doctrine/parents/S4_Logistics/LogisticsAI.md` | Supply/sustainment analysis; instantiated via `delegate_task`; never standing. |
+| FinanceAI | `raw/doctrine/parents/S4_Logistics/FinanceAI.md` | Finance/entity analysis; never standing. |
+| GrantsAI | `raw/doctrine/parents/S4_Logistics/GrantsAI.md` | Grant pipeline/support; never standing. |
+| FundraisingAI | `raw/doctrine/parents/S4_Logistics/FundraisingAI.md` | Donor/fundraising support; never standing. |
+| InfrastructureAI | `raw/doctrine/parents/S4_Logistics/InfrastructureAI.md` | Infrastructure/sustainment analysis; never standing. |
+| MarketingAI | `raw/doctrine/parents/S4_Logistics/MarketingAI.md` | Revenue-support/marketing input only; S6 owns public dispatch; never standing. |
 
 ## WIRED dependencies
 | Item | Status | Evidence |

@@ -32,7 +32,7 @@ Reports to EDEN. Peers: S1_Personnel, S2_Intel, S3_Operations, S4_Logistics, S5_
 ## Parents-on-demand roster
 | Parent | Legacy charter | Legacy playbook | Notes |
 |---|---|---|---|
-| UXAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/UXAI.md` | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/playbooks/UXAI.draft-skeleton.md` | Instantiated via `delegate_task` with a charter-derived prompt; cheaper model permitted; never standing. Legacy playbook is draft skeleton, so executable claims must be re-verified before use. |
+| UXAI | `raw/doctrine/parents/S6_Comms/UXAI.md` | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/playbooks/UXAI.draft-skeleton.md` | Instantiated via `delegate_task` with a charter-derived prompt; cheaper model permitted; never standing. Legacy playbook is draft skeleton, so executable claims must be re-verified before use. |
 
 ## WIRED dependencies
 | Item | Status | Evidence |

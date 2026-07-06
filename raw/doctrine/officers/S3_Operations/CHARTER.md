@@ -31,13 +31,13 @@ Reports to EDEN. Peers: S1_Personnel, S2_Intel, S4_Logistics, S5_Plans, S6_Comms
 ## Parents-on-demand roster
 | Parent | Legacy charter | Notes |
 |---|---|---|
-| LivestockAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/LivestockAI.md` | On-demand herd/livestock analysis; never standing. |
-| VetAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/VetAI.md` | On-demand animal medical analysis; never standing. |
-| GreenhouseAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/GreenhouseAI.md` | On-demand greenhouse analysis; never standing. |
-| BotanyAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/BotanyAI.md` | On-demand plant/soil/garden analysis; never standing. |
-| AquaponicsAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/AquaponicsAI.md` | On-demand aquaponics planning; never standing. |
-| RoboticsAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/RoboticsAI.md` | On-demand robotics analysis; never standing. |
-| SecurityAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/SecurityAI.md` | S3 uses physical/perimeter ops lane only; never standing. |
+| LivestockAI | `raw/doctrine/parents/S3_Operations/LivestockAI.md` | On-demand herd/livestock analysis; never standing. |
+| VetAI | `raw/doctrine/parents/S3_Operations/VetAI.md` | On-demand animal medical analysis; never standing. |
+| GreenhouseAI | `raw/doctrine/parents/S3_Operations/GreenhouseAI.md` | On-demand greenhouse analysis; never standing. |
+| BotanyAI | `raw/doctrine/parents/S3_Operations/BotanyAI.md` | On-demand plant/soil/garden analysis; never standing. |
+| AquaponicsAI | `raw/doctrine/parents/S3_Operations/AquaponicsAI.md` | On-demand aquaponics planning; never standing. |
+| RoboticsAI | `raw/doctrine/parents/S3_Operations/RoboticsAI.md` | On-demand robotics analysis; never standing. |
+| SecurityAI | `raw/doctrine/parents/S3_Operations/SecurityAI.md` | S3 uses physical/perimeter ops lane only; never standing. |
 
 ## WIRED dependencies
 | Item | Status | Evidence |

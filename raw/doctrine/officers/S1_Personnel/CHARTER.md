@@ -32,10 +32,10 @@ Reports to EDEN. Peers: S2_Intel, S3_Operations, S4_Logistics, S5_Plans, S6_Comm
 ## Parents-on-demand roster
 | Parent | Legacy charter | Notes |
 |---|---|---|
-| TaskAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/TaskAI.md` | Instantiated via `delegate_task` with a charter-derived prompt; cheaper model permitted; never standing. |
-| ProgramsAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/ProgramsAI.md` | Instantiated via `delegate_task`; never standing. |
-| GovernanceAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/GovernanceAI.md` | Instantiated via `delegate_task`; never standing. |
-| SecretarialAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/SecretarialAI.md` | Instantiated via `delegate_task`; never standing. |
+| TaskAI | `raw/doctrine/parents/S1_Personnel/TaskAI.md` | Instantiated via `delegate_task` with a charter-derived prompt; cheaper model permitted; never standing. |
+| ProgramsAI | `raw/doctrine/parents/S1_Personnel/ProgramsAI.md` | Instantiated via `delegate_task`; never standing. |
+| GovernanceAI | `raw/doctrine/parents/S1_Personnel/GovernanceAI.md` | Instantiated via `delegate_task`; never standing. |
+| SecretarialAI | `raw/doctrine/parents/S1_Personnel/SecretarialAI.md` | Instantiated via `delegate_task`; never standing. |
 
 ## WIRED dependencies
 | Item | Status | Evidence |

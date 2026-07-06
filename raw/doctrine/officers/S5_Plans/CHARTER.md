@@ -34,8 +34,8 @@ Reports to EDEN. Peers: S1_Personnel, S2_Intel, S3_Operations, S4_Logistics, S6_
 ## Parents-on-demand roster
 | Parent | Charter source | Notes |
 |---|---|---|
-| PlansAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/PlansAI.md` | Strategic/capital sequencing; instantiated via `delegate_task`; never standing. |
-| DevelopmentAI | `/persist/eden/hermes/workspace/legacy-doctrine/autonomy/charters/DevelopmentAI.md` | Code/config/repo-change planning; instantiated via `delegate_task`; never standing. |
+| PlansAI | `raw/doctrine/parents/S5_Plans/PlansAI.md` | Strategic/capital sequencing; instantiated via `delegate_task`; never standing. |
+| DevelopmentAI | `raw/doctrine/parents/S5_Plans/DevelopmentAI.md` | Code/config/repo-change planning; instantiated via `delegate_task`; never standing. |
 | EngineeringAI | `/persist/eden/hermes/workspace/doctrine/officers/S5_Plans/parents/EngineeringAI.PROPOSED.md` | PROPOSED systems-engineering parent; authored by EDEN after Commander authorization because legacy source was missing; never standing. |
 
 ## WIRED dependencies
