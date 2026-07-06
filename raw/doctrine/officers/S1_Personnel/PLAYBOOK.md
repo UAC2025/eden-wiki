@@ -50,7 +50,7 @@ S1 run artifacts include command/evidence blocks. Profile verification evidence 
 Read before overwriting. If a live tool is missing (`gws`, `himalaya`, API key, profile auth), mark `BLOCKED — needs <dependency>` and stop that branch. Do not substitute guessed inbox/calendar data.
 
 ## Model policy
-Current brain: `gpt-5.5` via `openai-codex` for officer synthesis and verification drills. If `gpt-5.5` fails or `openai-codex` is rate-limited, fall back to `claude-opus-4-8` via `anthropic` and log the flip in the officer ledger. `gpt-5.4-mini` is NOT a fallback — it shares the rate-limited `openai-codex` account. Gemini/frontier restored when funded. Parent delegate tasks may use cheaper models only for draft/internal work verified by S1/EDEN before reporting.
+Current brain: `gpt-5.5` via `openai-codex` for officer synthesis and verification drills. If `gpt-5.5` fails or `openai-codex` is rate-limited, fall back to `hermes-3-405b` via `nous` (Nous Portal) and log the flip in the officer ledger. `gpt-5.4-mini` is NOT a fallback — it shares the rate-limited `openai-codex` account. Gemini/frontier restored when funded. Parent delegate tasks may use cheaper models only for draft/internal work verified by S1/EDEN before reporting.
 
 ## Handoff
 Up to EDEN: BLUF, evidence, gate/blocker, artifact path. Down to parents: exact charter path, source paths, output schema, and no-standing-agent reminder.
