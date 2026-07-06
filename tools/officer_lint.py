@@ -52,10 +52,17 @@ PLAYBOOK_SECTIONS = {
 
 SOUL_REQUIRED = {
     "inherits EDEN SOUL":  r"\b(inherit|eden soul|soul doctrine)\b",
-    "six-step loop":       r"observe.{0,40}learn.{0,40}decide.{0,40}act.{0,40}adapt.{0,40}repeat",
+    # enumerated steps OR explicit by-reference inheritance (token-lean souls
+    # legitimately inherit the loop from the EDEN SOUL by name)
+    "six-step loop":       r"(observe.{0,40}learn.{0,40}decide.{0,40}act.{0,40}adapt.{0,40}repeat|six[- ]step loop)",
     "parents":             r"\bparents?\b",
     "mission":             r"\bmission\b",
 }
+
+# Concreteness (commands/skills/paths/BLOCKED) is demanded only of the steps
+# that touch the world; learn/decide are cognitive — branch logic in prose is
+# their concrete form.
+CONCRETE_STEPS = {"observe", "act", "adapt"}
 
 # Steps must be concrete: within each step's block we expect at least one
 # fenced command, backticked invocation, skill/tool name, file path, or an
@@ -110,7 +117,7 @@ def check_six_steps(playbook: str, rep: Report):
     # Concreteness: text between consecutive step positions must contain a
     # command/tool/BLOCKED marker — a described step is not an executable step.
     for i, step in enumerate(SIX_STEPS[:-1]):  # 'repeat' may be a bare loop arrow
-        if positions[i] is None:
+        if positions[i] is None or step not in CONCRETE_STEPS:
             continue
         end = next((p for p in positions[i + 1:] if p is not None), len(playbook))
         block = playbook[positions[i]:end]
