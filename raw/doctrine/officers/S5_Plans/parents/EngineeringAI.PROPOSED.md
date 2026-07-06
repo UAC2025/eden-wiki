@@ -1,6 +1,6 @@
 # EngineeringAI PROPOSED Charter
 
-> **Status:** PROPOSED — authored by EDEN on 2026-07-06 after Commander authorized synthesis of the missing EngineeringAI parent doctrine. Not legacy source. Requires Commander adjudication before canonical promotion.
+> **Status:** ADOPTED — Commander ruling 2026-07-06. Canonical parent card: `raw/doctrine/parents/S5_Plans/EngineeringAI.md`. This file is preserved as the authoring record; the card is the operational artifact.
 > **Reports to:** S5_Plans
 > **Standing identity:** No. Instantiated on demand only via `delegate_task` with this charter-derived prompt.
 
