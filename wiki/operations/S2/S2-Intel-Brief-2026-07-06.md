@@ -1,10 +1,10 @@
-# S-2 Intel Brief — 2026-07-04 15:48Z
+# S-2 Intel Brief — 2026-07-06 02:06Z
 
 ## Weather Intelligence (WeatherAI)
-- Temperature: 89.4°F
-- Conditions: Partly cloudy
-- Wind: 6.7 mph
-- Humidity: 49%
+- Temperature: 68.3°F
+- Conditions: Light rain
+- Wind: 1.7 mph
+- Humidity: 84%
 - Sources: 3/3 live
 - Threshold alerts: None
 
@@ -21,4 +21,4 @@
 - Actions: No S-2 alerts. All sources healthy, no weather thresholds breached.
 - Gates: None
 
-*Generated 2026-07-04T19:48:26.266150+00:00*
+*Generated 2026-07-06T06:06:22.540590+00:00*
