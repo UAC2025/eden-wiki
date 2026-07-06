@@ -68,7 +68,7 @@ test -s <artifact_path>
 - If a dependency is missing, mark `BLOCKED — needs <dependency>` and stop that branch.
 
 ## Model policy
-Current brain: `gpt-5.5` via `openai-codex` for officer synthesis and verification drills. If `gpt-5.5` fails, fall back to `gpt-5.4-mini` on `openai-codex` and report. Gemini/frontier policy is restored when funded. UXAI delegated parent tasks may use cheaper models only when the output is draft/internal and verified before EDEN reports it.
+Current brain: `gpt-5.5` via `openai-codex` for officer synthesis and verification drills. If `gpt-5.5` fails or `openai-codex` is rate-limited, fall back to `claude-opus-4-8` via `anthropic` and log the flip in the officer ledger. `gpt-5.4-mini` is NOT a fallback — it shares the rate-limited `openai-codex` account. Gemini/frontier restored when funded. UXAI delegated parent tasks may use cheaper models only when the output is draft/internal and verified before EDEN reports it.
 
 ## Handoff
 - Up to EDEN: BLUF, evidence, gate/blocker, artifact path.

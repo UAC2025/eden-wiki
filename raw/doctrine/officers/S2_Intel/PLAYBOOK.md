@@ -49,7 +49,7 @@ Intel outputs include source/evidence blocks and confidence labels. Profile veri
 Do not overwrite briefs without reading prior. If a live data source fails, mark `BLOCKED — needs <source/tool>` and do not synthesize fake readings.
 
 ## Model policy
-Current brain: `gpt-5.5` via `openai-codex` for officer synthesis and verification drills. If `gpt-5.5` fails, fall back to `gpt-5.4-mini` on `openai-codex` and report. Gemini/frontier restored when funded. Parent delegates may use cheaper models only for draft/internal work verified before EDEN reports it.
+Current brain: `gpt-5.5` via `openai-codex` for officer synthesis and verification drills. If `gpt-5.5` fails or `openai-codex` is rate-limited, fall back to `claude-opus-4-8` via `anthropic` and log the flip in the officer ledger. `gpt-5.4-mini` is NOT a fallback — it shares the rate-limited `openai-codex` account. Gemini/frontier restored when funded. Parent delegates may use cheaper models only for draft/internal work verified before EDEN reports it.
 
 ## Handoff
 Up to EDEN: BLUF, signal, confidence, evidence, owner/gate. Down to parents: exact charter path, source paths, output schema, no-standing-agent reminder.

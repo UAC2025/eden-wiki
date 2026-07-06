@@ -49,7 +49,7 @@ Run artifacts include command/evidence blocks. Profile verification evidence is 
 Do not overwrite without reading. If live animal/sensor/tool source missing, mark `BLOCKED — needs <source>` and stop that branch.
 
 ## Model policy
-Current brain: `gpt-5.5` via `openai-codex` for officer synthesis and verification drills. If `gpt-5.5` fails, fall back to `gpt-5.4-mini` on `openai-codex` and report. Gemini/frontier restored when funded. Parent delegates may use cheaper models only for draft/internal work verified before EDEN reports it.
+Current brain: `gpt-5.5` via `openai-codex` for officer synthesis and verification drills. If `gpt-5.5` fails or `openai-codex` is rate-limited, fall back to `claude-opus-4-8` via `anthropic` and log the flip in the officer ledger. `gpt-5.4-mini` is NOT a fallback — it shares the rate-limited `openai-codex` account. Gemini/frontier restored when funded. Parent delegates may use cheaper models only for draft/internal work verified before EDEN reports it.
 
 ## Handoff
 Up to EDEN: BLUF, evidence, welfare/safety gate, blocker. Down to parents: charter path, source paths, exact question, no-standing-agent reminder.
