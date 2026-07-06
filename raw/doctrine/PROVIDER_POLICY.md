@@ -30,12 +30,12 @@ system_sources:
 1. **Current production brain: `gpt-5.5` via `openai-codex`** — for EDEN and
    all officer profiles — until Gemini is refunded. Officer profiles must set
    this explicitly; never inherit the depleted default silently.
-2. **Officer fallback brain: Nous Portal (`nous` provider)** — Commander
-   directive 2026-07-06. Default fallback model `nousresearch/hermes-4-405b`
-   (promotion clause exercised 2026-07-06: live /v1/models query; the
-   source-era `hermes-3-405b` id now 404s on the portal). Do NOT rely on the
-   plugin's built-in degradation chain — it still names the stale hermes-3
-   ids. Every flip
+2. **Officer fallback brain: `deepseek/deepseek-v4-pro` via the Nous
+   Portal (`nous` provider)** — proven in the S6 proof loop 2026-07-06
+   (session `20260706_155253_852c1f`, PASS). `nousresearch/hermes-4-405b`
+   is DISQUALIFIED as an officer brain (two fabrication failures, see Known
+   risk 3). Do NOT rely on the plugin's built-in degradation chain — it
+   still names stale hermes-3 ids that 404. Every flip
    to/from the fallback is logged in the officer ledger (OFFICER_LEDGER
    doctrine). `gpt-5.4-mini` is demoted from fallback duty — it rides the
    same rate-limited account and fails together with gpt-5.5.
@@ -67,10 +67,21 @@ system_sources:
    loop (GO/NO-GO board) must pass on the nous brain before any officer
    loop is trusted on it. Watch especially tool-calling fidelity and
    DATA-RULE compliance in the proof drill.
-   **Proof run 1 (2026-07-06, session `20260706_153742_063b14`): FAIL —
-   0 tool calls, fabricated dispatch/ledger claims.** Mitigating context:
-   the harness never loaded the s6_comms profile (profile selection is the
-   top-level `--profile` flag, not the HERMES_PROFILE env var), so the model
-   ran bare. Retest with the profile loaded is authorized; a second
-   fabrication on the properly-equipped run is disqualifying for
-   hermes-4-405b as an officer brain.
+   **Proof run 1 (session `20260706_153742_063b14`): FAIL** — 0 tool
+   calls, fabricated dispatch/ledger claims (harness fault contributed: the
+   s6_comms profile never loaded; profile selection is the top-level
+   `--profile` flag, not the HERMES_PROFILE env var).
+   **Proof run 2 (session `20260706_154903_21dd64`, hermes-4-405b, profile
+   + full toolkit loaded): FAIL — DISQUALIFIED.** 0 tool calls; printed a
+   write_file call as prose and claimed "Logged" while the ledger was
+   unchanged; did honor BLOCKED on the empty dispatch queue.
+   **Proof run 3 (session `20260706_155253_852c1f`,
+   deepseek/deepseek-v4-pro): PASS.** 35 real tool calls; vault-sourced,
+   quality-gated, publish-gated Facebook draft produced at
+   `workspace/doctrine/officers/S6_Comms/run/2026-07-06_arapawa-conservation-draft.md`;
+   honest BLOCKED reports (fal image gen, no Google Drive); real ledger
+   loop_tick appended, outcome self-graded "partial". Minor caveat: its
+   ledger detail undercounted its own tool calls (said 8; harness counted
+   35) — an undercount of real work, not fabrication. deepseek-v4-pro is
+   the proven officer fallback brain; hermes-4-405b may still serve
+   NON-officer, non-ledger duties at Commander discretion only.

@@ -51,7 +51,7 @@ Run artifacts include source/evidence blocks, assumptions, risks, and gates. Pro
 Read before overwrite. If live repo/system/vault/strategy source is missing, mark `BLOCKED — needs <source>` and do not synthesize facts. If implementation is needed, write a proposed diff or plan and stop for Commander gate.
 
 ## Model policy
-Current brain: `gpt-5.5` via `openai-codex` for officer synthesis and verification drills. If `gpt-5.5` fails or `openai-codex` is rate-limited, fall back to `nousresearch/hermes-4-405b` via `nous` (Nous Portal) and log the flip in the officer ledger. `gpt-5.4-mini` is NOT a fallback — it shares the rate-limited `openai-codex` account. Gemini/frontier restored when funded. Parent delegates may use cheaper models only for draft/internal work verified before EDEN reports it.
+Current brain: `gpt-5.5` via `openai-codex` for officer synthesis and verification drills. If `gpt-5.5` fails or `openai-codex` is rate-limited, fall back to `deepseek/deepseek-v4-pro` via `nous` (Nous Portal) and log the flip in the officer ledger. `gpt-5.4-mini` is NOT a fallback — it shares the rate-limited `openai-codex` account. Gemini/frontier restored when funded. Parent delegates may use cheaper models only for draft/internal work verified before EDEN reports it.
 
 ## Handoff
 Up to EDEN: BLUF, evidence, hypothesis/tradeoff, gate/blocker. Down to parents: exact charter path, source paths, output schema, no-standing-agent reminder.
