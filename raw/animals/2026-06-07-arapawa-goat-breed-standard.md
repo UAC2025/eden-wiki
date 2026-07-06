@@ -7,7 +7,7 @@ entity: "Arapawa Goat"
 breed: "Arapawa"
 species: "Capra hircus"
 topics: ["goat", "Arapawa", "critical", "caprine", "breed standard", "LSC", "conservation", "heritage breed"]
-summary: "Complete breed profile for Arapawa goats — critically endangered heritage goat breed originally from Arapawa Island, New Zealand. UAC operates the largest known herd (9 head) of this breed."
+summary: "Complete breed profile for Arapawa goats — critically endangered heritage goat breed originally from Arapawa Island, New Zealand."
 lsc_status: "Critical"
 url: "https://livestockconservancy.org/heritage-breeds/heritage-breeds-list/arapawa-goat/"
 fetched: "2026-06-07"
@@ -73,8 +73,6 @@ In 2007, The Livestock Conservancy, through its Technical Advisor Dr. Phil Spone
 
 ## Relevance to EDEN/UAC
 
-- UAC maintains 9 Arapawa goats (1 buck, 8 does) as of June 2026
-- This represents the largest known herd of this critically endangered breed
 - Breed aligns with UAC's conservation mission for critically endangered heritage livestock
 - Excellent brush-clearing capability supports farm maintenance
 - Hardy nature suits low-input management on 21-acre Pennsylvania farm
