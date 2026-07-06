@@ -86,12 +86,13 @@ farm.sqlite access.
 legacy doctrine set (all six full), but finance/grants loops need live data
 feeds (books, grant pipeline) not yet wired.
 
-## S5_Plans (2 parents)
+## S5_Plans (3 parents — EngineeringAI adopted by Commander ruling 2026-07-06)
 
 | Agent | Charter | Playbook | Absorbed into live skill |
 |---|---|---|---|
 | PlansAI | ✅ | ✅ full | — |
 | DevelopmentAI | ✅ | ⚠ draft-skeleton | — |
+| EngineeringAI (new, non-legacy) | ✅ adopted 2026-07-06 | card only | — |
 
 **Officer S5:** no legacy officer playbook exists (legacy set was
 Personnel/Intel/Ops/Medical/Logistics/Comms). Officer artifacts must be
