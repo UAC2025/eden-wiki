@@ -52,3 +52,4 @@
 ## [2026-07-02] query | Hermes change-set prepared (job4 trim, job3 pause, UNAVAILABLE guards) — blocked: evidence paste empty, sudo unreachable | 0 pages affected
 ## [2026-07-02] query | Hermes change-set: operator-executed via ! confirmed; escape hatch + discovery commands issued, awaiting live jobs.json | 0 pages affected
 ## [2026-07-02] query | Protocol switch: EDEN self-edits via Telegram relay, operator verifies via file-drop redirects; failed wrapped commands confirmed harmless | 0 pages affected
+## [2026-07-06] officer-update | Six officer profiles refreshed from vault doctrine and re-verified | 2 pages affected

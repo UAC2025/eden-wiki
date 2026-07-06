@@ -22,6 +22,7 @@
 - [[../raw/doctrine/officers/S4_Logistics/CHARTER]]
 - [[../raw/doctrine/officers/S5_Plans/CHARTER]]
 - [[../raw/doctrine/officers/S6_Comms/CHARTER]]
+- [[../raw/doctrine/officers/Officer-Profile-Update-2026-07-06]]
 
 ## Syntheses
 - [[syntheses/Night-Ops-Report-July2]]
