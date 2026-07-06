@@ -40,3 +40,5 @@
 ## [2026-07-04] audit | S-1 local live-event audit hooks and Commander gate decisions | 6 artifacts affected
 ## [2026-07-04] receipts | Commander corrected Heller’s Gas to TNR; receipt totals rebuilt | 7 artifacts affected
 ## [2026-07-04] certification | S-1 local 10-of-10 certification with builder-native audit events | 8 artifacts affected
+## [2026-07-06] operations-standard | EDEN-Skill-Authoring-Standard-v1-DRAFT adopted; vault-as-truth correction | 2 pages affected
+## [2026-07-06] ecosystem-baseline | NixOS ecosystem commit/push plan created | 2 pages affected

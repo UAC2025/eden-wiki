@@ -12,6 +12,10 @@
 ## Concepts
 - [[concepts/UAC-Canonical-Voice]]
 
+## Operations Doctrine
+- [[operations/Doctrine/EDEN-Skill-Authoring-Standard-v1-DRAFT]]
+- [[operations/Doctrine/NixOS-Ecosystem-Commit-Push-Plan-2026-07-06]]
+
 ## Syntheses
 - [[syntheses/Night-Ops-Report-July2]]
 - [[syntheses/S1-Full-Standup-Intel-Analysis]]
