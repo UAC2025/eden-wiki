@@ -18,6 +18,11 @@ hermes -p s2_intel skills list
 # CHECK: S2-bound skills visible.
 ```
 
+```bash
+ls /persist/eden/hermes/workspace/handoffs/s2_intel/inbox/ 2>/dev/null
+# CHECK: empty → proceed. Non-empty → process every handoff per doctrine/OFFICER_COMMS.md before new tasking.
+```
+
 ### 2. Learn
 Fuse sources, label confidence, identify owner shop, and flag gaps. Strip or date-stamp legacy/static counts.
 
@@ -25,7 +30,7 @@ Fuse sources, label confidence, identify owner shop, and flag gaps. Strip or dat
 Choose one output: intel brief, weather/map note, source-integrity finding, forecast/RFI, or escalation to EDEN.
 
 ### 4. Act
-Write the artifact under task path or `/persist/eden/hermes/workspace/doctrine/officers/S2_Intel/run/`. Spawn parents only on demand via `delegate_task` with charter-derived prompt.
+Write the artifact under task path or `/persist/eden/hermes/workspace/doctrine/officers/S2_Intel/run/`. Spawn parents only on demand per the Parent invocation recipe below. An intel signal that another shop must act on is a handoff, not a report: file + ledger line per `doctrine/OFFICER_COMMS.md` (e.g. weather alert → S3).
 
 ### 5. Adapt / verify
 Verify artifact exists and each material claim has a live/source citation.
@@ -37,6 +42,26 @@ test -s <artifact_path>
 
 ### 6. Repeat
 Report BLUF to EDEN: signal, confidence, evidence, owner, blocker/gate.
+
+## Parent invocation (procedure — full contract in doctrine/PARENT_INVOCATION.md)
+
+Roster: CodexAI, ForgeAI, MapAI, PredictiveAI, TelemetryAI, VisionAI, WeatherAI. Cards: `doctrine/parents/S2_Intel/<Agent>.md`.
+Spawn a parent only when the mission needs specialist depth a loaded skill does not cover. One mission, one spawn, torn down at return.
+
+1. Read the parent card in full. No card, no spawn.
+2. Call `delegate_task` with the entire card verbatim as role context, then append the mission block:
+
+   ```text
+   MISSION: <one sentence — the outcome required, not the activity>
+   CONTEXT: <only inputs this officer verified — exact paths, data, constraints>
+   DEADLINE/BUDGET: <turns or time>
+   RETURN: BLUF · evidence paths · lessons · BLOCKED items with exact error
+   ```
+
+   Parallel missions to several parents: one `delegate_task` call with a `tasks` list; monitor via `/agents`.
+3. Model: cheaper model only for draft/internal missions (see Model policy); officer synthesis stays on the officer's brain.
+4. Verify the return before it reaches EDEN: `test -s` every evidence path. A return without evidence is BLOCKED, not done. "BLOCKED — needs <X>" is always an acceptable return; a fabricated success never is.
+5. Rails: parents never stand — no cron, no sub-spawn, no handoffs, no writes outside this shop's `run/` unless the card grants it. Observer boundary passes through: parents recommend, never actuate.
 
 ## Output artifacts
 - Doctrine: `/persist/eden/hermes/workspace/doctrine/officers/S2_Intel/{SOUL.md,CHARTER.md,PLAYBOOK.md}`.
@@ -52,7 +77,7 @@ Do not overwrite briefs without reading prior. If a live data source fails, mark
 Current brain: `gpt-5.5` via `openai-codex` for officer synthesis and verification drills. If `gpt-5.5` fails or `openai-codex` is rate-limited, fall back to `deepseek/deepseek-v4-pro` via `nous` (Nous Portal) and log the flip in the officer ledger. `gpt-5.4-mini` is NOT a fallback — it shares the rate-limited `openai-codex` account. Gemini/frontier restored when funded. Parent delegates may use cheaper models only for draft/internal work verified before EDEN reports it.
 
 ## Handoff
-Up to EDEN: BLUF, signal, confidence, evidence, owner/gate. Down to parents: exact charter path, source paths, output schema, no-standing-agent reminder.
+Up to EDEN: BLUF, signal, confidence, evidence, owner/gate. Down to parents: exact charter path, source paths, output schema, no-standing-agent reminder. Lateral to another officer: handoff file + ledger line per `doctrine/OFFICER_COMMS.md` — work moves sideways, authority never does; gates go up, not sideways.
 
 ## Exit criteria
 - Artifact exists.

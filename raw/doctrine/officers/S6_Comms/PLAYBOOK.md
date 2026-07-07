@@ -23,6 +23,11 @@ hermes -p s6_comms skills list
 # CHECK: S6-bound skills are visible or explicitly loaded by EDEN tasking.
 ```
 
+```bash
+ls /persist/eden/hermes/workspace/handoffs/s6_comms/inbox/ 2>/dev/null
+# CHECK: empty → proceed. Non-empty → process every handoff per doctrine/OFFICER_COMMS.md before new tasking (S4 strategy → dispatch requests arrive here).
+```
+
 ### 2. Learn
 - Extract audience, channel, fact constraints, brand constraints, and source facts.
 - Reconcile legacy playbook with EDEN current doctrine; current doctrine wins.
@@ -34,11 +39,7 @@ hermes -p s6_comms skills list
 
 ### 4. Act
 - Produce the artifact under the task-specified path or `workspace/doctrine/officers/S6_Comms/run/` for officer-run outputs.
-- For parent work, instantiate UXAI only when needed:
-
-```text
-delegate_task(goal="Produce S6 UXAI analysis...", context="Use UXAI charter path ...; parent is on-demand only; return evidence paths and blockers.")
-```
+- For parent work, instantiate UXAI only when needed, per the Parent invocation recipe below.
 
 ### 5. Adapt / verify
 - Verify artifact exists and contains citations/checks for material claims.
@@ -51,6 +52,25 @@ test -s <artifact_path>
 
 ### 6. Repeat
 - Report BLUF up to EDEN: outcome, evidence, gate/blocker, next reversible action.
+
+## Parent invocation (procedure — full contract in doctrine/PARENT_INVOCATION.md)
+
+Roster: UXAI. Card: `doctrine/parents/S6_Comms/UXAI.md`.
+Spawn the parent only when the mission needs specialist depth a loaded skill does not cover. One mission, one spawn, torn down at return.
+
+1. Read the parent card in full. No card, no spawn.
+2. Call `delegate_task` with the entire card verbatim as role context, then append the mission block:
+
+   ```text
+   MISSION: <one sentence — the outcome required, not the activity>
+   CONTEXT: <only inputs this officer verified — exact paths, data, constraints>
+   DEADLINE/BUDGET: <turns or time>
+   RETURN: BLUF · evidence paths · lessons · BLOCKED items with exact error
+   ```
+
+3. Model: cheaper model only for draft/internal missions (see Model policy); officer synthesis stays on the officer's brain.
+4. Verify the return before it reaches EDEN: `test -s` every evidence path. A return without evidence is BLOCKED, not done. "BLOCKED — needs <X>" is always an acceptable return; a fabricated success never is.
+5. Rails: parents never stand — no cron, no sub-spawn, no handoffs, no writes outside this shop's `run/` unless the card grants it. The publish gate passes through: UXAI never dispatches to a live surface.
 
 ## Output artifacts
 - Officer doctrine: `/persist/eden/hermes/workspace/doctrine/officers/S6_Comms/{SOUL.md,CHARTER.md,PLAYBOOK.md}`.
@@ -73,6 +93,7 @@ Current brain: `gpt-5.5` via `openai-codex` for officer synthesis and verificati
 ## Handoff
 - Up to EDEN: BLUF, evidence, gate/blocker, artifact path.
 - Down to UXAI: charter-derived prompt, exact source paths, required output schema, verification expectations.
+- Lateral to another officer: handoff file + ledger line per `doctrine/OFFICER_COMMS.md` — work moves sideways, authority never does; gates go up, not sideways.
 
 ## Exit criteria
 - Required artifact produced.
