@@ -1,0 +1,145 @@
+# EDEN Wiki — Graphify Sweep Report
+**Generated:** 2026-07-07 (cron)
+
+## Summary
+- **Total nodes:** 249
+- **Total edges:** 179
+  - Wikilink edges: 179
+  - Shared-tag edges: 0
+- **Orphan pages (no incoming wikilinks):** 173
+- **Broken wikilinks (unresolved targets):** 4
+- **Graph output:** graph.json (123 KB)
+
+## Node Type Distribution
+- **operations:** 67
+- **unknown:** 59
+- **operation:** 14
+- **doctrine:** 12
+- **governance-evidence:** 9
+- **governance-template:** 9
+- **synthesis:** 9
+- **entity:** 4
+- **governance:** 4
+- **governance-index:** 3
+- **governance-packet:** 3
+- **accounting-control:** 3
+- **grant-qc-report:** 3
+- **governance-matrix:** 3
+- **mycelium-adapter-proof:** 2
+- **accounting-intake-register:** 2
+- **accounting-review-packet:** 2
+- **accounting-totals-candidate:** 2
+- **summary:** 2
+- **schema:** 1
+- **quarry-recon:** 1
+- **breed_standard:** 1
+- **concept:** 1
+- **live-event-test:** 1
+- **governance-correction:** 1
+- **governance-policy:** 1
+- **receipt-template:** 1
+- **intake-template:** 1
+- **grant-control:** 1
+- **intake-register:** 1
+- **accounting-intake-snapshot:** 1
+- **accounting-intake-verification:** 1
+- **test-report:** 1
+- **commander-review-request:** 1
+- **receipt-decision-packet:** 1
+- **grants-triage:** 1
+- **grant-scorecard:** 1
+- **grant-source-verification:** 1
+- **grant-request-packet:** 1
+- **grant-attachment-tracker:** 1
+- **operating-standard:** 1
+- **governance-request-packet:** 1
+- **print-review-packet:** 1
+- **programs-pipeline:** 1
+- **closeout-status:** 1
+- **action-ledger:** 1
+- **governance-authority:** 1
+- **commander-decisions:** 1
+- **audit-boundary-assessment:** 1
+- **closeout-certification:** 1
+- **operations-standard:** 1
+- **audit-standard:** 1
+- **certification-packet:** 1
+- **certification-harness:** 1
+- **shop-certification:** 1
+- **qa:** 1
+
+## Most-Linked Pages (Hubs)
+- **55** incoming → `raw/doctrine/PARENT_INVOCATION.md` (Parent Invocation Contract — how officers call their parents)
+- **6** incoming → `raw/doctrine/officers/S2_Intel/CHARTER.md` (CHARTER)
+- **4** incoming → `raw/doctrine/SIX_STEP_LOOP.md` (The Six-Step Learning Loop — Canonical Definition)
+- **4** incoming → `wiki/concepts/UAC-Canonical-Voice.md` (UAC Canonical Voice and Tone)
+- **3** incoming → `raw/doctrine/PROVIDER_POLICY.md` (Provider & Model Policy — verified state and fallback order)
+- **3** incoming → `wiki/entities/Terra-Nova-Roots.md` (Terra Nova Roots LLC)
+- **3** incoming → `wiki/entities/Urban-Ark-Conservation.md` (Urban Ark Conservation)
+- **3** incoming → `wiki/operations/S1/Governance/Commander-Correction-No-Real-Board-2026-07-03.md` (Commander Correction - No Real Board)
+- **3** incoming → `wiki/operations/S1/Governance/UAC-Bylaws-Evidence.md` (UAC Bylaws Evidence)
+- **3** incoming → `wiki/operations/S1/Governance/UAC-Board-Charter-Evidence.md` (UAC Board Charter Evidence)
+- **3** incoming → `wiki/operations/S1/Governance/Donation-Accounting-Controls/02-Donation-Receipt-Template.md` (UAC Donation Receipt Template)
+- **3** incoming → `wiki/operations/S1/Governance/Donation-Accounting-Controls/08-Digital-Receipt-Email-Intake-Protocol.md` (Digital Receipt Email Intake Protocol)
+- **3** incoming → `wiki/operations/S1/Governance/2025-Form-990N-Accepted.md` (2025 Form 990-N Accepted)
+- **3** incoming → `wiki/operations/S1/Governance/Drive-pa-filing-pdf.md` (PA Filing.pdf)
+- **2** incoming → `wiki/summaries/Arapawa-Goat-Breed-Standard.md` (Arapawa Goat Breed Standard)
+
+## Orphan Pages (Zero Incoming Links)
+- `CLAUDE.md` (EDEN Wiki — Operating Constitution)
+- `_quarry/QUARRY_MAP_2026-07-01.md` (Quarry Map — /mnt/kb Recon 2026-07-01)
+- `graphify-out/GRAPH_REPORT.md` (GRAPH_REPORT)
+- `raw/animals/2026-06-07-arapawa-goat-breed-standard.md` (2026-06-07-arapawa-goat-breed-standard)
+- `raw/doctrine/C2_STRUCTURE.md` (C2 Structure — Officers Standing, Parents On Demand)
+- `raw/doctrine/GO_NO_GO_BOARD.md` (GO/NO-GO Board — real-world outcome readiness per shop)
+- `raw/doctrine/NODE_ARCHITECTURE.md` (Node Architecture — EDEN Hardware Layer)
+- `raw/doctrine/OFFICER_AUDIT_2026-07-06.md` (Officer Stand-up Audit — all six officers)
+- `raw/doctrine/OFFICER_LEDGER.md` (Officer Ledger — shared inter-officer event ledger)
+- `raw/doctrine/POPULATION_MANIFEST.md` (Agent Population Manifest — verified inventory & migration readiness)
+- `raw/doctrine/Rulings-Execution-Report-2026-07-06.md` (Rulings-Execution-Report-2026-07-06)
+- `raw/doctrine/TELEMETRY_POLICY.md` (Telemetry Policy — ledger for heartbeats, wiki for synthesis)
+- `raw/doctrine/officers/Officer-Skill-Manifest-2026-07-06.md` (Officer Skill Manifest — domain trim keep-lists)
+- `raw/doctrine/officers/S1_Personnel/CHARTER.md` (CHARTER)
+- `raw/doctrine/officers/S1_Personnel/PLAYBOOK.md` (PLAYBOOK)
+- `raw/doctrine/officers/S1_Personnel/SOUL.md` (SOUL)
+- `raw/doctrine/officers/S2_Intel/PLAYBOOK.md` (PLAYBOOK)
+- `raw/doctrine/officers/S2_Intel/SOUL.md` (SOUL)
+- `raw/doctrine/officers/S3_Operations/CHARTER.md` (CHARTER)
+- `raw/doctrine/officers/S3_Operations/PLAYBOOK.md` (PLAYBOOK)
+- `raw/doctrine/officers/S3_Operations/SOUL.md` (SOUL)
+- `raw/doctrine/officers/S4_Logistics/CHARTER.md` (CHARTER)
+- `raw/doctrine/officers/S4_Logistics/PLAYBOOK.md` (PLAYBOOK)
+- `raw/doctrine/officers/S4_Logistics/SOUL.md` (SOUL)
+- `raw/doctrine/officers/S5_Plans/CHARTER.md` (CHARTER)
+- `raw/doctrine/officers/S5_Plans/PLAYBOOK.md` (PLAYBOOK)
+- `raw/doctrine/officers/S5_Plans/SOUL.md` (SOUL)
+- `raw/doctrine/officers/S6_Comms/CHARTER.md` (CHARTER)
+- `raw/doctrine/officers/S6_Comms/PLAYBOOK.md` (PLAYBOOK)
+- `raw/doctrine/officers/S6_Comms/SOUL.md` (SOUL)
+- `raw/doctrine/parents/EDEN_TIER.md` (EDEN_TIER)
+- `raw/doctrine/parents/S2_Intel/CodexAI.md` (CodexAI)
+- `raw/doctrine/parents/S2_Intel/ForgeAI.md` (ForgeAI)
+- `raw/doctrine/parents/S2_Intel/MapAI.md` (MapAI)
+- `raw/doctrine/parents/S2_Intel/PredictiveAI.md` (PredictiveAI)
+- `raw/doctrine/parents/S2_Intel/TelemetryAI.md` (TelemetryAI)
+- `raw/doctrine/parents/S2_Intel/VisionAI.md` (VisionAI)
+- `raw/doctrine/parents/S2_Intel/WeatherAI.md` (WeatherAI)
+- `raw/doctrine/parents/S3_Operations/AquaponicsAI.md` (AquaponicsAI)
+- `raw/doctrine/parents/S3_Operations/BotanyAI.md` (BotanyAI)
+- `raw/doctrine/parents/S3_Operations/GreenhouseAI.md` (GreenhouseAI)
+- `raw/doctrine/parents/S3_Operations/LivestockAI.md` (LivestockAI)
+- `raw/doctrine/parents/S3_Operations/RoboticsAI.md` (RoboticsAI)
+- `raw/doctrine/parents/S3_Operations/SecurityAI.md` (SecurityAI)
+- `raw/doctrine/parents/S3_Operations/VetAI.md` (VetAI)
+- `raw/doctrine/parents/S4_Logistics/FinanceAI.md` (FinanceAI)
+- `raw/doctrine/parents/S4_Logistics/FundraisingAI.md` (FundraisingAI)
+- `raw/doctrine/parents/S4_Logistics/GrantsAI.md` (GrantsAI)
+- `raw/doctrine/parents/S4_Logistics/InfrastructureAI.md` (InfrastructureAI)
+- `raw/doctrine/parents/S4_Logistics/LogisticsAI.md` (LogisticsAI)
+- ... and 123 more
+
+## Broken Wikilinks
+- `CLAUDE.md` → [[concepts/FAMACHA-Scoring]]
+- `graphify-out/GRAPH_REPORT.md` → [[concepts/FAMACHA-Scoring]]
+- `wiki/syntheses/S1-Full-Standup-Intel-Analysis.md` → [[entities/S1-Personnel]]
+- `wiki/syntheses/S1-Full-Standup-Intel-Analysis.md` → [[../eden/_MANIFEST/autonomy/charters/S1_Officer]]

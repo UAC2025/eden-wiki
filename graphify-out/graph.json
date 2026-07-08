@@ -1,0 +1,3300 @@
+{
+  "vault": "/persist/eden/hermes/workspace/eden-wiki",
+  "total_nodes": 249,
+  "total_edges": 179,
+  "wikilink_edges": 179,
+  "shared_tag_edges": 0,
+  "nodes": {
+    "CLAUDE.md": {
+      "id": "CLAUDE.md",
+      "title": "EDEN Wiki — Operating Constitution",
+      "type": "schema",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "_quarry/QUARRY_MAP_2026-07-01.md": {
+      "id": "_quarry/QUARRY_MAP_2026-07-01.md",
+      "title": "Quarry Map — /mnt/kb Recon 2026-07-01",
+      "type": "quarry-recon",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "graphify-out/GRAPH_REPORT.md": {
+      "id": "graphify-out/GRAPH_REPORT.md",
+      "title": "GRAPH_REPORT",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 30
+    },
+    "raw/animals/2026-06-07-arapawa-goat-breed-standard.md": {
+      "id": "raw/animals/2026-06-07-arapawa-goat-breed-standard.md",
+      "title": "2026-06-07-arapawa-goat-breed-standard",
+      "type": "breed_standard",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/C2_STRUCTURE.md": {
+      "id": "raw/doctrine/C2_STRUCTURE.md",
+      "title": "C2 Structure — Officers Standing, Parents On Demand",
+      "type": "doctrine",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 1
+    },
+    "raw/doctrine/GO_NO_GO_BOARD.md": {
+      "id": "raw/doctrine/GO_NO_GO_BOARD.md",
+      "title": "GO/NO-GO Board — real-world outcome readiness per shop",
+      "type": "doctrine",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 0
+    },
+    "raw/doctrine/NODE_ARCHITECTURE.md": {
+      "id": "raw/doctrine/NODE_ARCHITECTURE.md",
+      "title": "Node Architecture — EDEN Hardware Layer",
+      "type": "doctrine",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 0
+    },
+    "raw/doctrine/OFFICER_AUDIT_2026-07-06.md": {
+      "id": "raw/doctrine/OFFICER_AUDIT_2026-07-06.md",
+      "title": "Officer Stand-up Audit — all six officers",
+      "type": "doctrine",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 0
+    },
+    "raw/doctrine/OFFICER_LEDGER.md": {
+      "id": "raw/doctrine/OFFICER_LEDGER.md",
+      "title": "Officer Ledger — shared inter-officer event ledger",
+      "type": "doctrine",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 0
+    },
+    "raw/doctrine/PARENT_INVOCATION.md": {
+      "id": "raw/doctrine/PARENT_INVOCATION.md",
+      "title": "Parent Invocation Contract — how officers call their parents",
+      "type": "doctrine",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 1
+    },
+    "raw/doctrine/POPULATION_MANIFEST.md": {
+      "id": "raw/doctrine/POPULATION_MANIFEST.md",
+      "title": "Agent Population Manifest — verified inventory & migration readiness",
+      "type": "doctrine",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 1
+    },
+    "raw/doctrine/PROVIDER_POLICY.md": {
+      "id": "raw/doctrine/PROVIDER_POLICY.md",
+      "title": "Provider & Model Policy — verified state and fallback order",
+      "type": "doctrine",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 0
+    },
+    "raw/doctrine/Rulings-Execution-Report-2026-07-06.md": {
+      "id": "raw/doctrine/Rulings-Execution-Report-2026-07-06.md",
+      "title": "Rulings-Execution-Report-2026-07-06",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/SIX_STEP_LOOP.md": {
+      "id": "raw/doctrine/SIX_STEP_LOOP.md",
+      "title": "The Six-Step Learning Loop — Canonical Definition",
+      "type": "doctrine",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 0
+    },
+    "raw/doctrine/TELEMETRY_POLICY.md": {
+      "id": "raw/doctrine/TELEMETRY_POLICY.md",
+      "title": "Telemetry Policy — ledger for heartbeats, wiki for synthesis",
+      "type": "doctrine",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/Officer-Profile-Update-2026-07-06.md": {
+      "id": "raw/doctrine/officers/Officer-Profile-Update-2026-07-06.md",
+      "title": "Officer Profile Update 2026-07-06",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/Officer-Skill-Manifest-2026-07-06.md": {
+      "id": "raw/doctrine/officers/Officer-Skill-Manifest-2026-07-06.md",
+      "title": "Officer Skill Manifest — domain trim keep-lists",
+      "type": "doctrine",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/Officer-Standup-Report-2026-07-06.md": {
+      "id": "raw/doctrine/officers/Officer-Standup-Report-2026-07-06.md",
+      "title": "Officer Stand-up Report 2026-07-06",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S1_Personnel/CHARTER.md": {
+      "id": "raw/doctrine/officers/S1_Personnel/CHARTER.md",
+      "title": "CHARTER",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S1_Personnel/PLAYBOOK.md": {
+      "id": "raw/doctrine/officers/S1_Personnel/PLAYBOOK.md",
+      "title": "PLAYBOOK",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S1_Personnel/SOUL.md": {
+      "id": "raw/doctrine/officers/S1_Personnel/SOUL.md",
+      "title": "SOUL",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S2_Intel/CHARTER.md": {
+      "id": "raw/doctrine/officers/S2_Intel/CHARTER.md",
+      "title": "CHARTER",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S2_Intel/PLAYBOOK.md": {
+      "id": "raw/doctrine/officers/S2_Intel/PLAYBOOK.md",
+      "title": "PLAYBOOK",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S2_Intel/SOUL.md": {
+      "id": "raw/doctrine/officers/S2_Intel/SOUL.md",
+      "title": "SOUL",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S3_Operations/CHARTER.md": {
+      "id": "raw/doctrine/officers/S3_Operations/CHARTER.md",
+      "title": "CHARTER",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S3_Operations/PLAYBOOK.md": {
+      "id": "raw/doctrine/officers/S3_Operations/PLAYBOOK.md",
+      "title": "PLAYBOOK",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S3_Operations/SOUL.md": {
+      "id": "raw/doctrine/officers/S3_Operations/SOUL.md",
+      "title": "SOUL",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S4_Logistics/CHARTER.md": {
+      "id": "raw/doctrine/officers/S4_Logistics/CHARTER.md",
+      "title": "CHARTER",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S4_Logistics/PLAYBOOK.md": {
+      "id": "raw/doctrine/officers/S4_Logistics/PLAYBOOK.md",
+      "title": "PLAYBOOK",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S4_Logistics/SOUL.md": {
+      "id": "raw/doctrine/officers/S4_Logistics/SOUL.md",
+      "title": "SOUL",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S5_Plans/CHARTER.md": {
+      "id": "raw/doctrine/officers/S5_Plans/CHARTER.md",
+      "title": "CHARTER",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S5_Plans/PLAYBOOK.md": {
+      "id": "raw/doctrine/officers/S5_Plans/PLAYBOOK.md",
+      "title": "PLAYBOOK",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S5_Plans/SOUL.md": {
+      "id": "raw/doctrine/officers/S5_Plans/SOUL.md",
+      "title": "SOUL",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S5_Plans/parents/EngineeringAI.PROPOSED.md": {
+      "id": "raw/doctrine/officers/S5_Plans/parents/EngineeringAI.PROPOSED.md",
+      "title": "EngineeringAI.PROPOSED",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S6_Comms/CHARTER.md": {
+      "id": "raw/doctrine/officers/S6_Comms/CHARTER.md",
+      "title": "CHARTER",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S6_Comms/PLAYBOOK.md": {
+      "id": "raw/doctrine/officers/S6_Comms/PLAYBOOK.md",
+      "title": "PLAYBOOK",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/officers/S6_Comms/SOUL.md": {
+      "id": "raw/doctrine/officers/S6_Comms/SOUL.md",
+      "title": "SOUL",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/parents/EDEN_TIER.md": {
+      "id": "raw/doctrine/parents/EDEN_TIER.md",
+      "title": "EDEN_TIER",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "raw/doctrine/parents/S1_Personnel/GovernanceAI.md": {
+      "id": "raw/doctrine/parents/S1_Personnel/GovernanceAI.md",
+      "title": "GovernanceAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S1_Personnel/ProgramsAI.md": {
+      "id": "raw/doctrine/parents/S1_Personnel/ProgramsAI.md",
+      "title": "ProgramsAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S1_Personnel/SecretarialAI.md": {
+      "id": "raw/doctrine/parents/S1_Personnel/SecretarialAI.md",
+      "title": "SecretarialAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S1_Personnel/TaskAI.md": {
+      "id": "raw/doctrine/parents/S1_Personnel/TaskAI.md",
+      "title": "TaskAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S2_Intel/CodexAI.md": {
+      "id": "raw/doctrine/parents/S2_Intel/CodexAI.md",
+      "title": "CodexAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S2_Intel/ForgeAI.md": {
+      "id": "raw/doctrine/parents/S2_Intel/ForgeAI.md",
+      "title": "ForgeAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S2_Intel/MapAI.md": {
+      "id": "raw/doctrine/parents/S2_Intel/MapAI.md",
+      "title": "MapAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S2_Intel/PredictiveAI.md": {
+      "id": "raw/doctrine/parents/S2_Intel/PredictiveAI.md",
+      "title": "PredictiveAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S2_Intel/TelemetryAI.md": {
+      "id": "raw/doctrine/parents/S2_Intel/TelemetryAI.md",
+      "title": "TelemetryAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S2_Intel/VisionAI.md": {
+      "id": "raw/doctrine/parents/S2_Intel/VisionAI.md",
+      "title": "VisionAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S2_Intel/WeatherAI.md": {
+      "id": "raw/doctrine/parents/S2_Intel/WeatherAI.md",
+      "title": "WeatherAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S3_Operations/AquaponicsAI.md": {
+      "id": "raw/doctrine/parents/S3_Operations/AquaponicsAI.md",
+      "title": "AquaponicsAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S3_Operations/BotanyAI.md": {
+      "id": "raw/doctrine/parents/S3_Operations/BotanyAI.md",
+      "title": "BotanyAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S3_Operations/GreenhouseAI.md": {
+      "id": "raw/doctrine/parents/S3_Operations/GreenhouseAI.md",
+      "title": "GreenhouseAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S3_Operations/LivestockAI.md": {
+      "id": "raw/doctrine/parents/S3_Operations/LivestockAI.md",
+      "title": "LivestockAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S3_Operations/RoboticsAI.md": {
+      "id": "raw/doctrine/parents/S3_Operations/RoboticsAI.md",
+      "title": "RoboticsAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S3_Operations/SecurityAI.md": {
+      "id": "raw/doctrine/parents/S3_Operations/SecurityAI.md",
+      "title": "SecurityAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S3_Operations/VetAI.md": {
+      "id": "raw/doctrine/parents/S3_Operations/VetAI.md",
+      "title": "VetAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S4_Logistics/FinanceAI.md": {
+      "id": "raw/doctrine/parents/S4_Logistics/FinanceAI.md",
+      "title": "FinanceAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S4_Logistics/FundraisingAI.md": {
+      "id": "raw/doctrine/parents/S4_Logistics/FundraisingAI.md",
+      "title": "FundraisingAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S4_Logistics/GrantsAI.md": {
+      "id": "raw/doctrine/parents/S4_Logistics/GrantsAI.md",
+      "title": "GrantsAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S4_Logistics/InfrastructureAI.md": {
+      "id": "raw/doctrine/parents/S4_Logistics/InfrastructureAI.md",
+      "title": "InfrastructureAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S4_Logistics/LogisticsAI.md": {
+      "id": "raw/doctrine/parents/S4_Logistics/LogisticsAI.md",
+      "title": "LogisticsAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S4_Logistics/MarketingAI.md": {
+      "id": "raw/doctrine/parents/S4_Logistics/MarketingAI.md",
+      "title": "MarketingAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S5_Plans/DevelopmentAI.md": {
+      "id": "raw/doctrine/parents/S5_Plans/DevelopmentAI.md",
+      "title": "DevelopmentAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S5_Plans/EngineeringAI.md": {
+      "id": "raw/doctrine/parents/S5_Plans/EngineeringAI.md",
+      "title": "EngineeringAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 2
+    },
+    "raw/doctrine/parents/S5_Plans/PlansAI.md": {
+      "id": "raw/doctrine/parents/S5_Plans/PlansAI.md",
+      "title": "PlansAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/S6_Comms/UXAI.md": {
+      "id": "raw/doctrine/parents/S6_Comms/UXAI.md",
+      "title": "UXAI",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "raw/doctrine/parents/_TEMPLATE.md": {
+      "id": "raw/doctrine/parents/_TEMPLATE.md",
+      "title": "Parent Card Template",
+      "type": "doctrine",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 2
+    },
+    "raw/operator-notes/UAC_BRAND_BIBLE.md": {
+      "id": "raw/operator-notes/UAC_BRAND_BIBLE.md",
+      "title": "UAC_BRAND_BIBLE",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "tools/officer-fallback/OFFICER_FALLBACK_PROMPT.md": {
+      "id": "tools/officer-fallback/OFFICER_FALLBACK_PROMPT.md",
+      "title": "OFFICER_FALLBACK_PROMPT",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "tools/officer-fallback/README.md": {
+      "id": "tools/officer-fallback/README.md",
+      "title": "README",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "tools/officer-fallback/RUNBOOK.md": {
+      "id": "tools/officer-fallback/RUNBOOK.md",
+      "title": "RUNBOOK",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/Connection-Test.md": {
+      "id": "wiki/Connection-Test.md",
+      "title": "Connection Test",
+      "type": "entity",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 0
+    },
+    "wiki/INDEX.md": {
+      "id": "wiki/INDEX.md",
+      "title": "INDEX",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 22
+    },
+    "wiki/concepts/UAC-Canonical-Voice.md": {
+      "id": "wiki/concepts/UAC-Canonical-Voice.md",
+      "title": "UAC Canonical Voice and Tone",
+      "type": "concept",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/entities/Arapawa-Goat.md": {
+      "id": "wiki/entities/Arapawa-Goat.md",
+      "title": "Arapawa Goat",
+      "type": "entity",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "wiki/entities/Terra-Nova-Roots.md": {
+      "id": "wiki/entities/Terra-Nova-Roots.md",
+      "title": "Terra Nova Roots LLC",
+      "type": "entity",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "wiki/entities/Urban-Ark-Conservation.md": {
+      "id": "wiki/entities/Urban-Ark-Conservation.md",
+      "title": "Urban Ark Conservation",
+      "type": "entity",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 1
+    },
+    "wiki/log.md": {
+      "id": "wiki/log.md",
+      "title": "log",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/Briefings/2026-07-07.md": {
+      "id": "wiki/operations/Briefings/2026-07-07.md",
+      "title": "2026-07-07",
+      "type": "operation",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/Doctrine/EDEN-Skill-Authoring-Standard-v1-DRAFT.md": {
+      "id": "wiki/operations/Doctrine/EDEN-Skill-Authoring-Standard-v1-DRAFT.md",
+      "title": "EDEN Skill Authoring Standard",
+      "type": "operation",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 0
+    },
+    "wiki/operations/Doctrine/NixOS-Ecosystem-Commit-Push-Plan-2026-07-06.md": {
+      "id": "wiki/operations/Doctrine/NixOS-Ecosystem-Commit-Push-Plan-2026-07-06.md",
+      "title": "NixOS Ecosystem Commit/Push Plan",
+      "type": "operation",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 0
+    },
+    "wiki/operations/Mycelium/Mycelium-S1-Gmail-Adapter-2026-07-04.md": {
+      "id": "wiki/operations/Mycelium/Mycelium-S1-Gmail-Adapter-2026-07-04.md",
+      "title": "Mycelium S-1 Gmail Adapter 2026-07-04",
+      "type": "mycelium-adapter-proof",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/Mycelium/Mycelium-S1-Test-Email-Result-2026-07-04.md": {
+      "id": "wiki/operations/Mycelium/Mycelium-S1-Test-Email-Result-2026-07-04.md",
+      "title": "Mycelium S-1 Test Email Result 2026-07-04",
+      "type": "live-event-test",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/Mycelium/Mycelium-S1-Wix-Adapter-2026-07-04.md": {
+      "id": "wiki/operations/Mycelium/Mycelium-S1-Wix-Adapter-2026-07-04.md",
+      "title": "Mycelium S-1 Wix Bookings Adapter 2026-07-04",
+      "type": "mycelium-adapter-proof",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/Officer-Standups/2026-07-06.md": {
+      "id": "wiki/operations/Officer-Standups/2026-07-06.md",
+      "title": "Officer Standup — 2026-07-06",
+      "type": "operations",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 0
+    },
+    "wiki/operations/Officer-Standups/2026-07-07.md": {
+      "id": "wiki/operations/Officer-Standups/2026-07-07.md",
+      "title": "Officer Standup — 2026-07-07",
+      "type": "operations",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Email-Ingest/2026-07-03.md": {
+      "id": "wiki/operations/S1/Email-Ingest/2026-07-03.md",
+      "title": "2026-07-03",
+      "type": "operation",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Email-Ingest/2026-07-04.md": {
+      "id": "wiki/operations/S1/Email-Ingest/2026-07-04.md",
+      "title": "2026-07-04",
+      "type": "operation",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Email-Ingest/2026-07-06.md": {
+      "id": "wiki/operations/S1/Email-Ingest/2026-07-06.md",
+      "title": "2026-07-06",
+      "type": "operation",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Email-Ingest/2026-07-07.md": {
+      "id": "wiki/operations/S1/Email-Ingest/2026-07-07.md",
+      "title": "2026-07-07",
+      "type": "operation",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/2025-Form-990N-Accepted.md": {
+      "id": "wiki/operations/S1/Governance/2025-Form-990N-Accepted.md",
+      "title": "2025 Form 990-N Accepted",
+      "type": "governance-evidence",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Board-Formation-Templates/00-Board-Formation-Checklist.md": {
+      "id": "wiki/operations/S1/Governance/Board-Formation-Templates/00-Board-Formation-Checklist.md",
+      "title": "UAC Board Formation Checklist",
+      "type": "governance-template",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Board-Formation-Templates/01-Initial-Board-Officer-Roster-Template.md": {
+      "id": "wiki/operations/S1/Governance/Board-Formation-Templates/01-Initial-Board-Officer-Roster-Template.md",
+      "title": "Initial Board Officer Roster Template",
+      "type": "governance-template",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Board-Formation-Templates/02-Bylaws-Adoption-Resolution-Template.md": {
+      "id": "wiki/operations/S1/Governance/Board-Formation-Templates/02-Bylaws-Adoption-Resolution-Template.md",
+      "title": "Bylaws Adoption Resolution Template",
+      "type": "governance-template",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Board-Formation-Templates/03-Board-Charter-Adoption-Resolution-Template.md": {
+      "id": "wiki/operations/S1/Governance/Board-Formation-Templates/03-Board-Charter-Adoption-Resolution-Template.md",
+      "title": "Board Charter Adoption Resolution Template",
+      "type": "governance-template",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Board-Formation-Templates/04-Banking-Authority-Resolution-Template.md": {
+      "id": "wiki/operations/S1/Governance/Board-Formation-Templates/04-Banking-Authority-Resolution-Template.md",
+      "title": "Banking Authority Resolution Template",
+      "type": "governance-template",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Board-Formation-Templates/05-Filing-Compliance-Authority-Resolution-Template.md": {
+      "id": "wiki/operations/S1/Governance/Board-Formation-Templates/05-Filing-Compliance-Authority-Resolution-Template.md",
+      "title": "Filing Compliance Authority Resolution Template",
+      "type": "governance-template",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Board-Formation-Templates/06-Conflict-of-Interest-Policy-Acknowledgment-Template.md": {
+      "id": "wiki/operations/S1/Governance/Board-Formation-Templates/06-Conflict-of-Interest-Policy-Acknowledgment-Template.md",
+      "title": "Conflict of Interest Policy Acknowledgment Template",
+      "type": "governance-template",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Board-Formation-Templates/07-Document-Retention-Policy-Template.md": {
+      "id": "wiki/operations/S1/Governance/Board-Formation-Templates/07-Document-Retention-Policy-Template.md",
+      "title": "Document Retention Policy Template",
+      "type": "governance-template",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Board-Formation-Templates/08-Initial-Meeting-Minutes-Template.md": {
+      "id": "wiki/operations/S1/Governance/Board-Formation-Templates/08-Initial-Meeting-Minutes-Template.md",
+      "title": "Initial Board Meeting Minutes Template",
+      "type": "governance-template",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Board-Governance-Packet-Index.md": {
+      "id": "wiki/operations/S1/Governance/Board-Governance-Packet-Index.md",
+      "title": "Board Governance Packet Index",
+      "type": "governance-index",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 5
+    },
+    "wiki/operations/S1/Governance/Commander-Correction-No-Real-Board-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Commander-Correction-No-Real-Board-2026-07-03.md",
+      "title": "Commander Correction - No Real Board",
+      "type": "governance-correction",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/00-UAC-Donation-Accounting-Controls-Packet.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/00-UAC-Donation-Accounting-Controls-Packet.md",
+      "title": "UAC Donation and Accounting Controls Packet",
+      "type": "governance-packet",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 8
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/01-Donation-Acknowledgment-Policy.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/01-Donation-Acknowledgment-Policy.md",
+      "title": "UAC Donation Acknowledgment Policy",
+      "type": "governance-policy",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/02-Donation-Receipt-Template.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/02-Donation-Receipt-Template.md",
+      "title": "UAC Donation Receipt Template",
+      "type": "receipt-template",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/03-In-Kind-Donation-Intake-Template.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/03-In-Kind-Donation-Intake-Template.md",
+      "title": "In-Kind Donation Intake Template",
+      "type": "intake-template",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/04-Financial-Totals-Source-Trail-Standard.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/04-Financial-Totals-Source-Trail-Standard.md",
+      "title": "Financial Totals Source Trail Standard",
+      "type": "accounting-control",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/05-Grant-Submission-Approval-Verification-Checklist.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/05-Grant-Submission-Approval-Verification-Checklist.md",
+      "title": "Grant Submission Approval Verification Checklist",
+      "type": "grant-control",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/06-UAC-TNR-Entity-Separation-Rule.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/06-UAC-TNR-Entity-Separation-Rule.md",
+      "title": "UAC TNR Entity Separation Rule",
+      "type": "accounting-control",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/07-Donation-Record-Intake-Register.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/07-Donation-Record-Intake-Register.md",
+      "title": "Donation Record Intake Register",
+      "type": "intake-register",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/08-Digital-Receipt-Email-Intake-Protocol.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/08-Digital-Receipt-Email-Intake-Protocol.md",
+      "title": "Digital Receipt Email Intake Protocol",
+      "type": "accounting-control",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/09-Digital-Receipt-Email-Search-Snapshot-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/09-Digital-Receipt-Email-Search-Snapshot-2026-07-03.md",
+      "title": "Digital Receipt Email Search Snapshot 2026-07-03",
+      "type": "accounting-intake-snapshot",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/10-Digital-Receipt-Mark-Read-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/10-Digital-Receipt-Mark-Read-2026-07-03.md",
+      "title": "Digital Receipt Mark-Read Verification 2026-07-03",
+      "type": "accounting-intake-verification",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/11-Gmail-Receipt-Attachment-Ingestion-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/11-Gmail-Receipt-Attachment-Ingestion-2026-07-03.md",
+      "title": "Gmail Receipt Attachment Ingestion 2026-07-03",
+      "type": "accounting-intake-register",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/12-Receipt-Ingestor-Test-Run-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/12-Receipt-Ingestor-Test-Run-2026-07-03.md",
+      "title": "S-1 Receipt Ingestor Test Run 2026-07-03",
+      "type": "test-report",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/13-Receipt-Review-Totals-Candidate-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/13-Receipt-Review-Totals-Candidate-2026-07-03.md",
+      "title": "Receipt Review and Totals Candidate 2026-07-03",
+      "type": "accounting-review-packet",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/14-Receipt-Review-Decision-Packet-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/14-Receipt-Review-Decision-Packet-2026-07-03.md",
+      "title": "Receipt Review Decision Packet 2026-07-03",
+      "type": "accounting-review-packet",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/15-Receipt-Totals-After-Review-Decisions-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/15-Receipt-Totals-After-Review-Decisions-2026-07-03.md",
+      "title": "Receipt Totals After Review Decisions 2026-07-03",
+      "type": "accounting-totals-candidate",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/16-Commander-Receipt-Review-Request-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/16-Commander-Receipt-Review-Request-2026-07-03.md",
+      "title": "Commander Receipt Review Request 2026-07-03",
+      "type": "commander-review-request",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/17-Receipt-Commander-Decisions-Applied-2026-07-04.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/17-Receipt-Commander-Decisions-Applied-2026-07-04.md",
+      "title": "Receipt Commander Decisions Applied 2026-07-04",
+      "type": "receipt-decision-packet",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/18-Receipt-Totals-Commander-Decisions-2026-07-04.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/18-Receipt-Totals-Commander-Decisions-2026-07-04.md",
+      "title": "Receipt Totals Commander Decisions 2026-07-04",
+      "type": "accounting-totals-candidate",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/Evidence/Gmail-Attachments/Fri-5-Jun-2026--19e9aad60e9bc3ea-LCM-Grant-Arapawa-Ark-Narrative-Submission-Ready-2K-ask/Livestock-Conservancy-Microgrant-Draft-v2-FINAL.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/Evidence/Gmail-Attachments/Fri-5-Jun-2026--19e9aad60e9bc3ea-LCM-Grant-Arapawa-Ark-Narrative-Submission-Ready-2K-ask/Livestock-Conservancy-Microgrant-Draft-v2-FINAL.md",
+      "title": "Livestock-Conservancy-Microgrant-Draft-v2-FINAL",
+      "type": "operation",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-Accounting-Controls/Test-Runs/smoke-20260703/Gmail-Receipt-Attachment-Ingestion-smoke-20260703.md": {
+      "id": "wiki/operations/S1/Governance/Donation-Accounting-Controls/Test-Runs/smoke-20260703/Gmail-Receipt-Attachment-Ingestion-smoke-20260703.md",
+      "title": "Gmail Receipt Attachment Ingestion 2026-07-03",
+      "type": "accounting-intake-register",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md": {
+      "id": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "title": "Donation and Accounting Controls Index",
+      "type": "governance-index",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 19
+    },
+    "wiki/operations/S1/Governance/Drive-articles-of-incorporation-pdf.md": {
+      "id": "wiki/operations/S1/Governance/Drive-articles-of-incorporation-pdf.md",
+      "title": "Articles of Incorporation.pdf",
+      "type": "governance-evidence",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Drive-ein-docs-pdf.md": {
+      "id": "wiki/operations/S1/Governance/Drive-ein-docs-pdf.md",
+      "title": "EIN Docs.pdf",
+      "type": "governance-evidence",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Drive-irs-determination-pdf.md": {
+      "id": "wiki/operations/S1/Governance/Drive-irs-determination-pdf.md",
+      "title": "IRS determination .pdf",
+      "type": "governance-evidence",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Drive-irs-docs-2-pdf.md": {
+      "id": "wiki/operations/S1/Governance/Drive-irs-docs-2-pdf.md",
+      "title": "IRS Docs 2.pdf",
+      "type": "governance-evidence",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Drive-irs-form-1023-pdf.md": {
+      "id": "wiki/operations/S1/Governance/Drive-irs-form-1023-pdf.md",
+      "title": "IRS Form 1023.pdf",
+      "type": "governance-evidence",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Drive-pa-filing-pdf.md": {
+      "id": "wiki/operations/S1/Governance/Drive-pa-filing-pdf.md",
+      "title": "PA Filing.pdf",
+      "type": "governance-evidence",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Google-Drive-Governance-Document-Index-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Google-Drive-Governance-Document-Index-2026-07-03.md",
+      "title": "Google Drive Governance Document Index 2026-07-03",
+      "type": "governance-index",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Governance-Recommendations-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Governance-Recommendations-2026-07-03.md",
+      "title": "S-1 Governance Recommendations 2026-07-03",
+      "type": "governance",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Governance-Recommendations-2026-07-04.md": {
+      "id": "wiki/operations/S1/Governance/Governance-Recommendations-2026-07-04.md",
+      "title": "S-1 Governance Recommendations 2026-07-04",
+      "type": "governance",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Governance-Recommendations-2026-07-06.md": {
+      "id": "wiki/operations/S1/Governance/Governance-Recommendations-2026-07-06.md",
+      "title": "S-1 Governance Recommendations 2026-07-06",
+      "type": "governance",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Governance-Recommendations-2026-07-07.md": {
+      "id": "wiki/operations/S1/Governance/Governance-Recommendations-2026-07-07.md",
+      "title": "S-1 Governance Recommendations 2026-07-07",
+      "type": "governance",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Grant-Triage-Packet-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Grant-Triage-Packet-2026-07-03.md",
+      "title": "S-1 Grants Triage Packet 2026-07-03",
+      "type": "grants-triage",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Grants/Grant-Opportunity-Scorecard-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Grants/Grant-Opportunity-Scorecard-2026-07-03.md",
+      "title": "Grant Opportunity Scorecard 2026-07-03",
+      "type": "grant-scorecard",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Grants/LCM-Grant-Live-Herd-Source-Check-2026-07-04.md": {
+      "id": "wiki/operations/S1/Governance/Grants/LCM-Grant-Live-Herd-Source-Check-2026-07-04.md",
+      "title": "LCM Grant Live Herd Source Check 2026-07-04",
+      "type": "grant-source-verification",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Grants/LCM-Microgrant-Draft-v3-EDEN-QC-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Grants/LCM-Microgrant-Draft-v3-EDEN-QC-2026-07-03.md",
+      "title": "LCM-Microgrant-Draft-v3-EDEN-QC-2026-07-03",
+      "type": "operation",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Grants/LCM-Microgrant-Draft-v3-QC-Report-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Grants/LCM-Microgrant-Draft-v3-QC-Report-2026-07-03.md",
+      "title": "LCM Microgrant QC Report 2026-07-03",
+      "type": "grant-qc-report",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Grants/LCM-Microgrant-Draft-v4-Live-Herd-Source-2026-07-04.md": {
+      "id": "wiki/operations/S1/Governance/Grants/LCM-Microgrant-Draft-v4-Live-Herd-Source-2026-07-04.md",
+      "title": "LCM-Microgrant-Draft-v4-Live-Herd-Source-2026-07-04",
+      "type": "operation",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Grants/LCM-Microgrant-Draft-v4-QC-Report-2026-07-04.md": {
+      "id": "wiki/operations/S1/Governance/Grants/LCM-Microgrant-Draft-v4-QC-Report-2026-07-04.md",
+      "title": "LCM Microgrant QC Report 2026-07-03",
+      "type": "grant-qc-report",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Grants/LCM-Microgrant-QC-Report-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Grants/LCM-Microgrant-QC-Report-2026-07-03.md",
+      "title": "LCM Microgrant QC Report 2026-07-03",
+      "type": "grant-qc-report",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Grants/LCM-Recommender-Request-Packet-2026-07-04.md": {
+      "id": "wiki/operations/S1/Governance/Grants/LCM-Recommender-Request-Packet-2026-07-04.md",
+      "title": "LCM Recommender Request Packet 2026-07-04",
+      "type": "grant-request-packet",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Grants/LCM-Supporting-Letters-Tracker-2026-07-04.md": {
+      "id": "wiki/operations/S1/Governance/Grants/LCM-Supporting-Letters-Tracker-2026-07-04.md",
+      "title": "LCM Supporting Letters Tracker 2026-07-04",
+      "type": "grant-attachment-tracker",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/Grants/S1-Grants-Loop-Standard-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/Grants/S1-Grants-Loop-Standard-2026-07-03.md",
+      "title": "S-1 Grants Loop Standard",
+      "type": "operating-standard",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/IRS-Annual-Filing-Matrix.md": {
+      "id": "wiki/operations/S1/Governance/IRS-Annual-Filing-Matrix.md",
+      "title": "IRS Annual Filing Matrix",
+      "type": "governance-matrix",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 5
+    },
+    "wiki/operations/S1/Governance/PA-Compliance-Matrix.md": {
+      "id": "wiki/operations/S1/Governance/PA-Compliance-Matrix.md",
+      "title": "PA Compliance Matrix",
+      "type": "governance-matrix",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 2
+    },
+    "wiki/operations/S1/Governance/S1-Governance-Evidence-Matrix.md": {
+      "id": "wiki/operations/S1/Governance/S1-Governance-Evidence-Matrix.md",
+      "title": "S-1 Governance Evidence Matrix",
+      "type": "governance-matrix",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 6
+    },
+    "wiki/operations/S1/Governance/S1-Governance-Packet-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/S1-Governance-Packet-2026-07-03.md",
+      "title": "S-1 Governance Packet 2026-07-03",
+      "type": "governance-packet",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 12
+    },
+    "wiki/operations/S1/Governance/UAC-Accountant-Request-Packet-2026-07-03.md": {
+      "id": "wiki/operations/S1/Governance/UAC-Accountant-Request-Packet-2026-07-03.md",
+      "title": "UAC Accountant Request Packet",
+      "type": "governance-request-packet",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/UAC-Board-Charter-Evidence.md": {
+      "id": "wiki/operations/S1/Governance/UAC-Board-Charter-Evidence.md",
+      "title": "UAC Board Charter Evidence",
+      "type": "governance-evidence",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/UAC-Board-Formation-Physical-Review-Packet-2026-07-04.md": {
+      "id": "wiki/operations/S1/Governance/UAC-Board-Formation-Physical-Review-Packet-2026-07-04.md",
+      "title": "UAC Board Formation Physical Review Packet 2026-07-04",
+      "type": "print-review-packet",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Governance/UAC-Board-Formation-and-Governance-Adoption-Packet.md": {
+      "id": "wiki/operations/S1/Governance/UAC-Board-Formation-and-Governance-Adoption-Packet.md",
+      "title": "UAC Board Formation and Governance Adoption Packet",
+      "type": "governance-packet",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 12
+    },
+    "wiki/operations/S1/Governance/UAC-Bylaws-Evidence.md": {
+      "id": "wiki/operations/S1/Governance/UAC-Bylaws-Evidence.md",
+      "title": "UAC Bylaws Evidence",
+      "type": "governance-evidence",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_134226.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_134226.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_134309.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_134309.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_134317.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_134317.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_140219.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_140219.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_140601.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_140601.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_143701.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_143701.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_150801.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_150801.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_153903.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_153903.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_161002.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_161002.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_164103.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_164103.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_171204.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_171204.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_174304.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_174304.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_181404.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_181404.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_184512.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_184512.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_191605.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_191605.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_194706.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_194706.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_201806.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_201806.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_204907.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_204907.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_212007.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_212007.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_215107.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_215107.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_222216.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_222216.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_225317.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_225317.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_232409.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_232409.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_235410.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_235410.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_002511.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_002511.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_005611.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_005611.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_012711.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_012711.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_015812.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_015812.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_022913.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_022913.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_030014.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_030014.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_033113.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_033113.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_040214.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_040214.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_043314.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_043314.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_050415.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_050415.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_053515.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_053515.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_060616.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_060616.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_063716.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_063716.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_070816.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_070816.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_073918.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_073918.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_081018.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_081018.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_084119.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_084119.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_091219.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_091219.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_094320.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_094320.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_120722.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_120722.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_140725.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260704_140725.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_000623.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_000623.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_020723.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_020723.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_040725.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_040725.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_060728.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_060728.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_080730.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_080730.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_100732.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_100732.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_120814.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_120814.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_140816.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_140816.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_160855.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_160855.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_180858.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_180858.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_200900.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_200900.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_220904.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260706_220904.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260707_000905.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260707_000905.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260707_020907.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260707_020907.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260707_040910.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260707_040910.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260707_060912.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260707_060912.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260707_080915.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260707_080915.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260707_100917.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260707_100917.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260707_120922.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260707_120922.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260707_140936.md": {
+      "id": "wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260707_140936.md",
+      "title": "S-1 Alive Loop Packet",
+      "type": "operations",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/Programs/ProgramsAI-Pipeline-Packet-2026-07-04.md": {
+      "id": "wiki/operations/S1/Programs/ProgramsAI-Pipeline-Packet-2026-07-04.md",
+      "title": "ProgramsAI Pipeline Packet 2026-07-04",
+      "type": "programs-pipeline",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/S1-10-of-10-Push-Status-2026-07-04.md": {
+      "id": "wiki/operations/S1/S1-10-of-10-Push-Status-2026-07-04.md",
+      "title": "S-1 10-of-10 Push Status 2026-07-04",
+      "type": "closeout-status",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/S1-Action-Ledger-2026-07-03.md": {
+      "id": "wiki/operations/S1/S1-Action-Ledger-2026-07-03.md",
+      "title": "S-1 Action Ledger",
+      "type": "action-ledger",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 7
+    },
+    "wiki/operations/S1/S1-Approved-Action-Authority-Correction-2026-07-03.md": {
+      "id": "wiki/operations/S1/S1-Approved-Action-Authority-Correction-2026-07-03.md",
+      "title": "S-1 Approved Action Authority Correction",
+      "type": "governance-authority",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/S1-Commander-Decisions-2026-07-04.md": {
+      "id": "wiki/operations/S1/S1-Commander-Decisions-2026-07-04.md",
+      "title": "Commander Receipt and S-1 Gate Decisions 2026-07-04",
+      "type": "commander-decisions",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/S1-External-Auditor-Boundary-Check-2026-07-04.md": {
+      "id": "wiki/operations/S1/S1-External-Auditor-Boundary-Check-2026-07-04.md",
+      "title": "S-1 External Auditor Boundary Check 2026-07-04",
+      "type": "audit-boundary-assessment",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/S1-Final-10-of-10-Local-Certification-2026-07-04.md": {
+      "id": "wiki/operations/S1/S1-Final-10-of-10-Local-Certification-2026-07-04.md",
+      "title": "S-1 Final 10-of-10 Local Certification 2026-07-04",
+      "type": "closeout-certification",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/S1-Final-Closeout-Standard-2026-07-03.md": {
+      "id": "wiki/operations/S1/S1-Final-Closeout-Standard-2026-07-03.md",
+      "title": "S-1 Final Closeout Standard",
+      "type": "operations-standard",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/S1-Live-Event-Audit-Hooks-2026-07-04.md": {
+      "id": "wiki/operations/S1/S1-Live-Event-Audit-Hooks-2026-07-04.md",
+      "title": "S-1 Live-Event Audit Hooks 2026-07-04",
+      "type": "audit-standard",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/S1-Loop-Integrity-Certification-Packet-2026-07-03.md": {
+      "id": "wiki/operations/S1/S1-Loop-Integrity-Certification-Packet-2026-07-03.md",
+      "title": "S-1 Loop Integrity Certification Packet 2026-07-03",
+      "type": "certification-packet",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/S1-Outside-Loop-Audit-Report-2026-07-03.md": {
+      "id": "wiki/operations/S1/S1-Outside-Loop-Audit-Report-2026-07-03.md",
+      "title": "S1-Outside-Loop-Audit-Report-2026-07-03",
+      "type": "operation",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/S1-Outside-Loop-Audit-Report-2026-07-04.md": {
+      "id": "wiki/operations/S1/S1-Outside-Loop-Audit-Report-2026-07-04.md",
+      "title": "S1-Outside-Loop-Audit-Report-2026-07-04",
+      "type": "operation",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S1/S1-Parent-Agent-Certification-Harness-2026-07-04.md": {
+      "id": "wiki/operations/S1/S1-Parent-Agent-Certification-Harness-2026-07-04.md",
+      "title": "S-1 Parent-Agent Certification Harness 2026-07-04",
+      "type": "certification-harness",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S2/S2-Intel-Brief-2026-07-04.md": {
+      "id": "wiki/operations/S2/S2-Intel-Brief-2026-07-04.md",
+      "title": "S2-Intel-Brief-2026-07-04",
+      "type": "operation",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S2/S2-Intel-Brief-2026-07-06.md": {
+      "id": "wiki/operations/S2/S2-Intel-Brief-2026-07-06.md",
+      "title": "S2-Intel-Brief-2026-07-06",
+      "type": "operation",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/operations/S2/S2-Intel-Shop-Status-2026-07-04.md": {
+      "id": "wiki/operations/S2/S2-Intel-Shop-Status-2026-07-04.md",
+      "title": "S-2 Intel Shop Status 2026-07-04",
+      "type": "shop-certification",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/qa/Hermes-Loop-Audit-Fix-Plan.md": {
+      "id": "wiki/qa/Hermes-Loop-Audit-Fix-Plan.md",
+      "title": "Hermes Loop Audit — Interim Findings & Fix Plan",
+      "type": "qa",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 0
+    },
+    "wiki/reach_ledger.md": {
+      "id": "wiki/reach_ledger.md",
+      "title": "reach_ledger",
+      "type": "unknown",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/summaries/Arapawa-Goat-Breed-Standard.md": {
+      "id": "wiki/summaries/Arapawa-Goat-Breed-Standard.md",
+      "title": "Arapawa Goat Breed Standard",
+      "type": "summary",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/summaries/UAC-Brand-Bible.md": {
+      "id": "wiki/summaries/UAC-Brand-Bible.md",
+      "title": "UAC Brand Bible",
+      "type": "summary",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/syntheses/ARCOS-Hardware-Audit-2026-07-02.md": {
+      "id": "wiki/syntheses/ARCOS-Hardware-Audit-2026-07-02.md",
+      "title": "ARCOS Hardware Audit — 2026-07-02",
+      "type": "synthesis",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/syntheses/Farmbrite-Endpoint-Source-Truth-Alignment-2026-07-02.md": {
+      "id": "wiki/syntheses/Farmbrite-Endpoint-Source-Truth-Alignment-2026-07-02.md",
+      "title": "Farmbrite Endpoint and EDEN Source-of-Truth Alignment — 2026-07-02",
+      "type": "synthesis",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/syntheses/Night-Ops-Report-July2.md": {
+      "id": "wiki/syntheses/Night-Ops-Report-July2.md",
+      "title": "Night Ops Report July 2",
+      "type": "synthesis",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/syntheses/Node-Audit-2026-07-06.md": {
+      "id": "wiki/syntheses/Node-Audit-2026-07-06.md",
+      "title": "Node Audit — EDEN Hardware Control Plane",
+      "type": "synthesis",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/syntheses/Officer-Roll-Call-2026-07-06.md": {
+      "id": "wiki/syntheses/Officer-Roll-Call-2026-07-06.md",
+      "title": "Officer Roll Call — Full Staff Audit",
+      "type": "synthesis",
+      "tags": [],
+      "source_files": "[]",
+      "wikilink_count": 0
+    },
+    "wiki/syntheses/S1-Closeout-Audit-2026-07-03.md": {
+      "id": "wiki/syntheses/S1-Closeout-Audit-2026-07-03.md",
+      "title": "S1 Closeout Audit 2026-07-03",
+      "type": "synthesis",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/syntheses/S1-Final-Operational-Package-2026-07-02.md": {
+      "id": "wiki/syntheses/S1-Final-Operational-Package-2026-07-02.md",
+      "title": "S-1 Final Operational Package — 2026-07-02",
+      "type": "synthesis",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    },
+    "wiki/syntheses/S1-Full-Standup-Intel-Analysis.md": {
+      "id": "wiki/syntheses/S1-Full-Standup-Intel-Analysis.md",
+      "title": "S-1 Full Stand-Up — Intelligence & Gap Analysis",
+      "type": "synthesis",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 13
+    },
+    "wiki/syntheses/S1-Operational-Activation-Report-2026-07-02.md": {
+      "id": "wiki/syntheses/S1-Operational-Activation-Report-2026-07-02.md",
+      "title": "S-1 Operational Activation Report — 2026-07-02",
+      "type": "synthesis",
+      "tags": [],
+      "source_files": null,
+      "wikilink_count": 0
+    }
+  },
+  "edges": [
+    {
+      "source": "CLAUDE.md",
+      "target": "concepts/FAMACHA-Scoring",
+      "type": "wikilink",
+      "resolved": false
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "concepts/FAMACHA-Scoring",
+      "type": "wikilink",
+      "resolved": false
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/SIX_STEP_LOOP.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "SIX_STEP_LOOP"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PROVIDER_POLICY.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "PROVIDER_POLICY"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/SIX_STEP_LOOP.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "SIX_STEP_LOOP"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "graphify-out/GRAPH_REPORT.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/C2_STRUCTURE.md",
+      "target": "raw/doctrine/SIX_STEP_LOOP.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "SIX_STEP_LOOP"
+    },
+    {
+      "source": "raw/doctrine/PARENT_INVOCATION.md",
+      "target": "raw/doctrine/PROVIDER_POLICY.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "PROVIDER_POLICY"
+    },
+    {
+      "source": "raw/doctrine/POPULATION_MANIFEST.md",
+      "target": "raw/doctrine/SIX_STEP_LOOP.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "SIX_STEP_LOOP"
+    },
+    {
+      "source": "raw/doctrine/parents/S1_Personnel/GovernanceAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S1_Personnel/ProgramsAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S1_Personnel/SecretarialAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S1_Personnel/TaskAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S2_Intel/CodexAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S2_Intel/ForgeAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S2_Intel/MapAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S2_Intel/PredictiveAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S2_Intel/TelemetryAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S2_Intel/VisionAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S2_Intel/WeatherAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S3_Operations/AquaponicsAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S3_Operations/BotanyAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S3_Operations/GreenhouseAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S3_Operations/LivestockAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S3_Operations/RoboticsAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S3_Operations/SecurityAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S3_Operations/VetAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S4_Logistics/FinanceAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S4_Logistics/FundraisingAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S4_Logistics/GrantsAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S4_Logistics/InfrastructureAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S4_Logistics/LogisticsAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S4_Logistics/MarketingAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S5_Plans/DevelopmentAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S5_Plans/EngineeringAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S5_Plans/EngineeringAI.md",
+      "target": "raw/doctrine/officers/S5_Plans/parents/EngineeringAI.PROPOSED.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../../officers/S5_Plans/parents/EngineeringAI.PROPOSED"
+    },
+    {
+      "source": "raw/doctrine/parents/S5_Plans/PlansAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/S6_Comms/UXAI.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/_TEMPLATE.md",
+      "target": "raw/doctrine/PARENT_INVOCATION.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PARENT_INVOCATION"
+    },
+    {
+      "source": "raw/doctrine/parents/_TEMPLATE.md",
+      "target": "raw/doctrine/PROVIDER_POLICY.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../PROVIDER_POLICY"
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "wiki/summaries/Arapawa-Goat-Breed-Standard.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "summaries/Arapawa-Goat-Breed-Standard"
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "wiki/summaries/UAC-Brand-Bible.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "summaries/UAC-Brand-Bible"
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "wiki/entities/Arapawa-Goat.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "entities/Arapawa-Goat"
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "wiki/entities/Terra-Nova-Roots.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "entities/Terra-Nova-Roots"
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "wiki/entities/Urban-Ark-Conservation.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "entities/Urban-Ark-Conservation"
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "wiki/concepts/UAC-Canonical-Voice.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "concepts/UAC-Canonical-Voice"
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "wiki/operations/Doctrine/EDEN-Skill-Authoring-Standard-v1-DRAFT.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "operations/Doctrine/EDEN-Skill-Authoring-Standard-v1-DRAFT"
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "wiki/operations/Doctrine/NixOS-Ecosystem-Commit-Push-Plan-2026-07-06.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "operations/Doctrine/NixOS-Ecosystem-Commit-Push-Plan-2026-07-06"
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "raw/doctrine/officers/Officer-Standup-Report-2026-07-06.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../raw/doctrine/officers/Officer-Standup-Report-2026-07-06"
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "raw/doctrine/officers/S2_Intel/CHARTER.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../raw/doctrine/officers/S1_Personnel/CHARTER",
+      "ambiguous_matches": [
+        "raw/doctrine/officers/S1_Personnel/CHARTER.md",
+        "raw/doctrine/officers/S2_Intel/CHARTER.md",
+        "raw/doctrine/officers/S3_Operations/CHARTER.md",
+        "raw/doctrine/officers/S4_Logistics/CHARTER.md",
+        "raw/doctrine/officers/S5_Plans/CHARTER.md",
+        "raw/doctrine/officers/S6_Comms/CHARTER.md"
+      ]
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "raw/doctrine/officers/S2_Intel/CHARTER.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../raw/doctrine/officers/S2_Intel/CHARTER",
+      "ambiguous_matches": [
+        "raw/doctrine/officers/S1_Personnel/CHARTER.md",
+        "raw/doctrine/officers/S2_Intel/CHARTER.md",
+        "raw/doctrine/officers/S3_Operations/CHARTER.md",
+        "raw/doctrine/officers/S4_Logistics/CHARTER.md",
+        "raw/doctrine/officers/S5_Plans/CHARTER.md",
+        "raw/doctrine/officers/S6_Comms/CHARTER.md"
+      ]
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "raw/doctrine/officers/S2_Intel/CHARTER.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../raw/doctrine/officers/S3_Operations/CHARTER",
+      "ambiguous_matches": [
+        "raw/doctrine/officers/S1_Personnel/CHARTER.md",
+        "raw/doctrine/officers/S2_Intel/CHARTER.md",
+        "raw/doctrine/officers/S3_Operations/CHARTER.md",
+        "raw/doctrine/officers/S4_Logistics/CHARTER.md",
+        "raw/doctrine/officers/S5_Plans/CHARTER.md",
+        "raw/doctrine/officers/S6_Comms/CHARTER.md"
+      ]
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "raw/doctrine/officers/S2_Intel/CHARTER.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../raw/doctrine/officers/S4_Logistics/CHARTER",
+      "ambiguous_matches": [
+        "raw/doctrine/officers/S1_Personnel/CHARTER.md",
+        "raw/doctrine/officers/S2_Intel/CHARTER.md",
+        "raw/doctrine/officers/S3_Operations/CHARTER.md",
+        "raw/doctrine/officers/S4_Logistics/CHARTER.md",
+        "raw/doctrine/officers/S5_Plans/CHARTER.md",
+        "raw/doctrine/officers/S6_Comms/CHARTER.md"
+      ]
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "raw/doctrine/officers/S2_Intel/CHARTER.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../raw/doctrine/officers/S5_Plans/CHARTER",
+      "ambiguous_matches": [
+        "raw/doctrine/officers/S1_Personnel/CHARTER.md",
+        "raw/doctrine/officers/S2_Intel/CHARTER.md",
+        "raw/doctrine/officers/S3_Operations/CHARTER.md",
+        "raw/doctrine/officers/S4_Logistics/CHARTER.md",
+        "raw/doctrine/officers/S5_Plans/CHARTER.md",
+        "raw/doctrine/officers/S6_Comms/CHARTER.md"
+      ]
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "raw/doctrine/officers/S2_Intel/CHARTER.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../raw/doctrine/officers/S6_Comms/CHARTER",
+      "ambiguous_matches": [
+        "raw/doctrine/officers/S1_Personnel/CHARTER.md",
+        "raw/doctrine/officers/S2_Intel/CHARTER.md",
+        "raw/doctrine/officers/S3_Operations/CHARTER.md",
+        "raw/doctrine/officers/S4_Logistics/CHARTER.md",
+        "raw/doctrine/officers/S5_Plans/CHARTER.md",
+        "raw/doctrine/officers/S6_Comms/CHARTER.md"
+      ]
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "raw/doctrine/officers/Officer-Profile-Update-2026-07-06.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../raw/doctrine/officers/Officer-Profile-Update-2026-07-06"
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "wiki/syntheses/Night-Ops-Report-July2.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "syntheses/Night-Ops-Report-July2"
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "wiki/syntheses/S1-Full-Standup-Intel-Analysis.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "syntheses/S1-Full-Standup-Intel-Analysis"
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "wiki/syntheses/S1-Operational-Activation-Report-2026-07-02.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "syntheses/S1-Operational-Activation-Report-2026-07-02"
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "wiki/syntheses/Farmbrite-Endpoint-Source-Truth-Alignment-2026-07-02.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "syntheses/Farmbrite-Endpoint-Source-Truth-Alignment-2026-07-02"
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "wiki/syntheses/S1-Final-Operational-Package-2026-07-02.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "syntheses/S1-Final-Operational-Package-2026-07-02"
+    },
+    {
+      "source": "wiki/INDEX.md",
+      "target": "wiki/syntheses/ARCOS-Hardware-Audit-2026-07-02.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "syntheses/ARCOS-Hardware-Audit-2026-07-02"
+    },
+    {
+      "source": "wiki/entities/Arapawa-Goat.md",
+      "target": "wiki/summaries/Arapawa-Goat-Breed-Standard.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "summaries/Arapawa-Goat-Breed-Standard"
+    },
+    {
+      "source": "wiki/entities/Terra-Nova-Roots.md",
+      "target": "wiki/entities/Urban-Ark-Conservation.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "entities/Urban-Ark-Conservation"
+    },
+    {
+      "source": "wiki/entities/Urban-Ark-Conservation.md",
+      "target": "wiki/entities/Terra-Nova-Roots.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "entities/Terra-Nova-Roots"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Board-Governance-Packet-Index.md",
+      "target": "wiki/operations/S1/Governance/Commander-Correction-No-Real-Board-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Commander-Correction-No-Real-Board-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Board-Governance-Packet-Index.md",
+      "target": "wiki/operations/S1/Governance/Drive-articles-of-incorporation-pdf.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Drive-articles-of-incorporation-pdf"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Board-Governance-Packet-Index.md",
+      "target": "wiki/operations/S1/Governance/UAC-Bylaws-Evidence.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "UAC-Bylaws-Evidence"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Board-Governance-Packet-Index.md",
+      "target": "wiki/operations/S1/Governance/UAC-Board-Charter-Evidence.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "UAC-Board-Charter-Evidence"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Board-Governance-Packet-Index.md",
+      "target": "wiki/operations/S1/Governance/UAC-Board-Formation-Physical-Review-Packet-2026-07-04.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "UAC-Board-Formation-Physical-Review-Packet-2026-07-04"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-Accounting-Controls/00-UAC-Donation-Accounting-Controls-Packet.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/01-Donation-Acknowledgment-Policy.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "01-Donation-Acknowledgment-Policy"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-Accounting-Controls/00-UAC-Donation-Accounting-Controls-Packet.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/02-Donation-Receipt-Template.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "02-Donation-Receipt-Template"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-Accounting-Controls/00-UAC-Donation-Accounting-Controls-Packet.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/03-In-Kind-Donation-Intake-Template.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "03-In-Kind-Donation-Intake-Template"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-Accounting-Controls/00-UAC-Donation-Accounting-Controls-Packet.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/04-Financial-Totals-Source-Trail-Standard.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "04-Financial-Totals-Source-Trail-Standard"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-Accounting-Controls/00-UAC-Donation-Accounting-Controls-Packet.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/05-Grant-Submission-Approval-Verification-Checklist.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "05-Grant-Submission-Approval-Verification-Checklist"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-Accounting-Controls/00-UAC-Donation-Accounting-Controls-Packet.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/06-UAC-TNR-Entity-Separation-Rule.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "06-UAC-TNR-Entity-Separation-Rule"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-Accounting-Controls/00-UAC-Donation-Accounting-Controls-Packet.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/07-Donation-Record-Intake-Register.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "07-Donation-Record-Intake-Register"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-Accounting-Controls/00-UAC-Donation-Accounting-Controls-Packet.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/08-Digital-Receipt-Email-Intake-Protocol.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "08-Digital-Receipt-Email-Intake-Protocol"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/00-UAC-Donation-Accounting-Controls-Packet.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/00-UAC-Donation-Accounting-Controls-Packet"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/01-Donation-Acknowledgment-Policy.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/01-Donation-Acknowledgment-Policy"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/02-Donation-Receipt-Template.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/02-Donation-Receipt-Template"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/03-In-Kind-Donation-Intake-Template.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/03-In-Kind-Donation-Intake-Template"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/04-Financial-Totals-Source-Trail-Standard.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/04-Financial-Totals-Source-Trail-Standard"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/05-Grant-Submission-Approval-Verification-Checklist.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/05-Grant-Submission-Approval-Verification-Checklist"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/06-UAC-TNR-Entity-Separation-Rule.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/06-UAC-TNR-Entity-Separation-Rule"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/07-Donation-Record-Intake-Register.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/07-Donation-Record-Intake-Register"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/08-Digital-Receipt-Email-Intake-Protocol.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/08-Digital-Receipt-Email-Intake-Protocol"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/09-Digital-Receipt-Email-Search-Snapshot-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/09-Digital-Receipt-Email-Search-Snapshot-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/10-Digital-Receipt-Mark-Read-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/10-Digital-Receipt-Mark-Read-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/11-Gmail-Receipt-Attachment-Ingestion-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/11-Gmail-Receipt-Attachment-Ingestion-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/12-Receipt-Ingestor-Test-Run-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/12-Receipt-Ingestor-Test-Run-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/13-Receipt-Review-Totals-Candidate-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/13-Receipt-Review-Totals-Candidate-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/14-Receipt-Review-Decision-Packet-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/14-Receipt-Review-Decision-Packet-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/15-Receipt-Totals-After-Review-Decisions-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/15-Receipt-Totals-After-Review-Decisions-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/16-Commander-Receipt-Review-Request-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/16-Commander-Receipt-Review-Request-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/17-Receipt-Commander-Decisions-Applied-2026-07-04.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/17-Receipt-Commander-Decisions-Applied-2026-07-04"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/18-Receipt-Totals-Commander-Decisions-2026-07-04.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-Accounting-Controls/18-Receipt-Totals-Commander-Decisions-2026-07-04"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/IRS-Annual-Filing-Matrix.md",
+      "target": "wiki/operations/S1/Governance/2025-Form-990N-Accepted.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "2025-Form-990N-Accepted"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/IRS-Annual-Filing-Matrix.md",
+      "target": "wiki/operations/S1/Governance/2025-Form-990N-Accepted.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "2025-Form-990N-Accepted"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/IRS-Annual-Filing-Matrix.md",
+      "target": "wiki/operations/S1/Governance/S1-Governance-Evidence-Matrix.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "S1-Governance-Evidence-Matrix"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/IRS-Annual-Filing-Matrix.md",
+      "target": "wiki/operations/S1/Governance/Drive-irs-determination-pdf.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Drive-irs-determination-pdf"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/IRS-Annual-Filing-Matrix.md",
+      "target": "wiki/operations/S1/Governance/Drive-irs-docs-2-pdf.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Drive-irs-docs-2-pdf"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/PA-Compliance-Matrix.md",
+      "target": "wiki/operations/S1/Governance/Drive-pa-filing-pdf.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Drive-pa-filing-pdf"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/PA-Compliance-Matrix.md",
+      "target": "wiki/operations/S1/Governance/Drive-pa-filing-pdf.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Drive-pa-filing-pdf"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Evidence-Matrix.md",
+      "target": "wiki/operations/S1/Governance/Drive-irs-docs-2-pdf.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Drive-irs-docs-2-pdf"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Evidence-Matrix.md",
+      "target": "wiki/operations/S1/Governance/Drive-irs-form-1023-pdf.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Drive-irs-form-1023-pdf"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Evidence-Matrix.md",
+      "target": "wiki/operations/S1/Governance/Drive-irs-determination-pdf.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Drive-irs-determination-pdf"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Evidence-Matrix.md",
+      "target": "wiki/operations/S1/Governance/Drive-articles-of-incorporation-pdf.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Drive-articles-of-incorporation-pdf"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Evidence-Matrix.md",
+      "target": "wiki/operations/S1/Governance/Drive-ein-docs-pdf.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Drive-ein-docs-pdf"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Evidence-Matrix.md",
+      "target": "wiki/operations/S1/Governance/Drive-pa-filing-pdf.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Drive-pa-filing-pdf"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Packet-2026-07-03.md",
+      "target": "wiki/operations/S1/Governance/Commander-Correction-No-Real-Board-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Commander-Correction-No-Real-Board-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Packet-2026-07-03.md",
+      "target": "wiki/operations/S1/Governance/UAC-Bylaws-Evidence.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "UAC-Bylaws-Evidence"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Packet-2026-07-03.md",
+      "target": "wiki/operations/S1/Governance/UAC-Board-Charter-Evidence.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "UAC-Board-Charter-Evidence"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Packet-2026-07-03.md",
+      "target": "wiki/operations/S1/Governance/IRS-Annual-Filing-Matrix.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "IRS-Annual-Filing-Matrix"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Packet-2026-07-03.md",
+      "target": "wiki/operations/S1/Governance/PA-Compliance-Matrix.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "PA-Compliance-Matrix"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Packet-2026-07-03.md",
+      "target": "wiki/operations/S1/Governance/Board-Governance-Packet-Index.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Board-Governance-Packet-Index"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Packet-2026-07-03.md",
+      "target": "wiki/operations/S1/Governance/Donation-and-Accounting-Controls-Index.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Donation-and-Accounting-Controls-Index"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Packet-2026-07-03.md",
+      "target": "wiki/operations/S1/S1-Action-Ledger-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../S1-Action-Ledger-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Packet-2026-07-03.md",
+      "target": "wiki/operations/S1/Governance/UAC-Accountant-Request-Packet-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "UAC-Accountant-Request-Packet-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Packet-2026-07-03.md",
+      "target": "wiki/operations/S1/Governance/S1-Governance-Evidence-Matrix.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "S1-Governance-Evidence-Matrix"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Packet-2026-07-03.md",
+      "target": "wiki/operations/S1/Governance/Google-Drive-Governance-Document-Index-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Google-Drive-Governance-Document-Index-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/S1-Governance-Packet-2026-07-03.md",
+      "target": "wiki/operations/S1/Governance/2025-Form-990N-Accepted.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "2025-Form-990N-Accepted"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/UAC-Board-Formation-and-Governance-Adoption-Packet.md",
+      "target": "wiki/operations/S1/Governance/Commander-Correction-No-Real-Board-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Commander-Correction-No-Real-Board-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/UAC-Board-Formation-and-Governance-Adoption-Packet.md",
+      "target": "wiki/operations/S1/Governance/UAC-Bylaws-Evidence.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "UAC-Bylaws-Evidence"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/UAC-Board-Formation-and-Governance-Adoption-Packet.md",
+      "target": "wiki/operations/S1/Governance/UAC-Board-Charter-Evidence.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "UAC-Board-Charter-Evidence"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/UAC-Board-Formation-and-Governance-Adoption-Packet.md",
+      "target": "wiki/operations/S1/Governance/Board-Formation-Templates/00-Board-Formation-Checklist.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Board-Formation-Templates/00-Board-Formation-Checklist"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/UAC-Board-Formation-and-Governance-Adoption-Packet.md",
+      "target": "wiki/operations/S1/Governance/Board-Formation-Templates/01-Initial-Board-Officer-Roster-Template.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Board-Formation-Templates/01-Initial-Board-Officer-Roster-Template"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/UAC-Board-Formation-and-Governance-Adoption-Packet.md",
+      "target": "wiki/operations/S1/Governance/Board-Formation-Templates/02-Bylaws-Adoption-Resolution-Template.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Board-Formation-Templates/02-Bylaws-Adoption-Resolution-Template"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/UAC-Board-Formation-and-Governance-Adoption-Packet.md",
+      "target": "wiki/operations/S1/Governance/Board-Formation-Templates/03-Board-Charter-Adoption-Resolution-Template.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Board-Formation-Templates/03-Board-Charter-Adoption-Resolution-Template"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/UAC-Board-Formation-and-Governance-Adoption-Packet.md",
+      "target": "wiki/operations/S1/Governance/Board-Formation-Templates/04-Banking-Authority-Resolution-Template.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Board-Formation-Templates/04-Banking-Authority-Resolution-Template"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/UAC-Board-Formation-and-Governance-Adoption-Packet.md",
+      "target": "wiki/operations/S1/Governance/Board-Formation-Templates/05-Filing-Compliance-Authority-Resolution-Template.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Board-Formation-Templates/05-Filing-Compliance-Authority-Resolution-Template"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/UAC-Board-Formation-and-Governance-Adoption-Packet.md",
+      "target": "wiki/operations/S1/Governance/Board-Formation-Templates/06-Conflict-of-Interest-Policy-Acknowledgment-Template.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Board-Formation-Templates/06-Conflict-of-Interest-Policy-Acknowledgment-Template"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/UAC-Board-Formation-and-Governance-Adoption-Packet.md",
+      "target": "wiki/operations/S1/Governance/Board-Formation-Templates/07-Document-Retention-Policy-Template.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Board-Formation-Templates/07-Document-Retention-Policy-Template"
+    },
+    {
+      "source": "wiki/operations/S1/Governance/UAC-Board-Formation-and-Governance-Adoption-Packet.md",
+      "target": "wiki/operations/S1/Governance/Board-Formation-Templates/08-Initial-Meeting-Minutes-Template.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Board-Formation-Templates/08-Initial-Meeting-Minutes-Template"
+    },
+    {
+      "source": "wiki/operations/S1/S1-Action-Ledger-2026-07-03.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/15-Receipt-Totals-After-Review-Decisions-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Governance/Donation-Accounting-Controls/15-Receipt-Totals-After-Review-Decisions-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/S1-Action-Ledger-2026-07-03.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/02-Donation-Receipt-Template.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Governance/Donation-Accounting-Controls/02-Donation-Receipt-Template"
+    },
+    {
+      "source": "wiki/operations/S1/S1-Action-Ledger-2026-07-03.md",
+      "target": "wiki/operations/S1/Governance/Donation-Accounting-Controls/08-Digital-Receipt-Email-Intake-Protocol.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Governance/Donation-Accounting-Controls/08-Digital-Receipt-Email-Intake-Protocol"
+    },
+    {
+      "source": "wiki/operations/S1/S1-Action-Ledger-2026-07-03.md",
+      "target": "wiki/operations/S1/S1-Parent-Agent-Certification-Harness-2026-07-04.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "S1-Parent-Agent-Certification-Harness-2026-07-04"
+    },
+    {
+      "source": "wiki/operations/S1/S1-Action-Ledger-2026-07-03.md",
+      "target": "wiki/operations/S1/Governance/Grants/S1-Grants-Loop-Standard-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Governance/Grants/S1-Grants-Loop-Standard-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/S1-Action-Ledger-2026-07-03.md",
+      "target": "wiki/operations/S1/Governance/Grants/Grant-Opportunity-Scorecard-2026-07-03.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Governance/Grants/Grant-Opportunity-Scorecard-2026-07-03"
+    },
+    {
+      "source": "wiki/operations/S1/S1-Action-Ledger-2026-07-03.md",
+      "target": "wiki/operations/S1/Programs/ProgramsAI-Pipeline-Packet-2026-07-04.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Programs/ProgramsAI-Pipeline-Packet-2026-07-04"
+    },
+    {
+      "source": "wiki/syntheses/S1-Full-Standup-Intel-Analysis.md",
+      "target": "entities/S1-Personnel",
+      "type": "wikilink",
+      "resolved": false
+    },
+    {
+      "source": "wiki/syntheses/S1-Full-Standup-Intel-Analysis.md",
+      "target": "wiki/concepts/UAC-Canonical-Voice.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "concepts/UAC-Canonical-Voice"
+    },
+    {
+      "source": "wiki/syntheses/S1-Full-Standup-Intel-Analysis.md",
+      "target": "raw/doctrine/parents/S1_Personnel/TaskAI.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../eden/_MANIFEST/autonomy/charters/TaskAI"
+    },
+    {
+      "source": "wiki/syntheses/S1-Full-Standup-Intel-Analysis.md",
+      "target": "raw/doctrine/parents/S1_Personnel/ProgramsAI.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../eden/_MANIFEST/autonomy/charters/ProgramsAI"
+    },
+    {
+      "source": "wiki/syntheses/S1-Full-Standup-Intel-Analysis.md",
+      "target": "raw/doctrine/parents/S1_Personnel/GovernanceAI.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../eden/_MANIFEST/autonomy/charters/GovernanceAI"
+    },
+    {
+      "source": "wiki/syntheses/S1-Full-Standup-Intel-Analysis.md",
+      "target": "raw/doctrine/parents/S1_Personnel/SecretarialAI.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../eden/_MANIFEST/autonomy/charters/SecretarialAI"
+    },
+    {
+      "source": "wiki/syntheses/S1-Full-Standup-Intel-Analysis.md",
+      "target": "../eden/_MANIFEST/autonomy/charters/S1_Officer",
+      "type": "wikilink",
+      "resolved": false
+    },
+    {
+      "source": "wiki/syntheses/S1-Full-Standup-Intel-Analysis.md",
+      "target": "raw/doctrine/parents/S1_Personnel/ProgramsAI.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "../eden/_MANIFEST/autonomy/charters/ProgramsAI"
+    },
+    {
+      "source": "wiki/syntheses/S1-Full-Standup-Intel-Analysis.md",
+      "target": "wiki/concepts/UAC-Canonical-Voice.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "concepts/UAC-Canonical-Voice"
+    },
+    {
+      "source": "wiki/syntheses/S1-Full-Standup-Intel-Analysis.md",
+      "target": "wiki/syntheses/Night-Ops-Report-July2.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "Night-Ops-Report-July2"
+    },
+    {
+      "source": "wiki/syntheses/S1-Full-Standup-Intel-Analysis.md",
+      "target": "wiki/concepts/UAC-Canonical-Voice.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "concepts/UAC-Canonical-Voice"
+    },
+    {
+      "source": "wiki/syntheses/S1-Full-Standup-Intel-Analysis.md",
+      "target": "wiki/entities/Urban-Ark-Conservation.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "entities/Urban-Ark-Conservation"
+    },
+    {
+      "source": "wiki/syntheses/S1-Full-Standup-Intel-Analysis.md",
+      "target": "wiki/entities/Terra-Nova-Roots.md",
+      "type": "wikilink",
+      "resolved": true,
+      "original_target": "entities/Terra-Nova-Roots"
+    }
+  ]
+}

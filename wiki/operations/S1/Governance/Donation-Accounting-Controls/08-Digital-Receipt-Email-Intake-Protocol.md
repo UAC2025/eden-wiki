@@ -57,7 +57,7 @@ Recommended labels:
 
 | Clue | Likely entity | Caveat |
 |---|---|---|
-| 501(c)(3), donation, grant, filing, nonprofit, animal sanctuary/conservation admin | UAC | Verify if paid by UAC account/card. |
+| 501(c)(3), donation, grant, filing, nonprofit, animal conservation admin | UAC | Verify if paid by UAC account/card. |
 | farm product, sales, Terra Nova Roots, Schedule F, commercial farm expenses | TNR | Verify if paid by TNR/personal account. |
 | shared utilities/tools/software | unknown_review_required | May need split or accountant review. |
 

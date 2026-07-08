@@ -9,7 +9,7 @@ source_files:
 
 **Entity Type:** Organization (501c3 Nonprofit)
 
-Urban Ark Conservation (UAC) is a veteran-founded nonprofit sanctuary farm dedicated to the conservation of critically endangered heritage livestock breeds, regenerative agriculture, and veteran purpose.
+Urban Ark Conservation (UAC) is a veteran-founded nonprofit conservation farm dedicated to the conservation of critically endangered heritage livestock breeds, regenerative agriculture, and veteran purpose.
 
 ## Mission and Operations
 UAC preserves genetic heritage abandoned by modern agricultural systems and restores land health through sustainable, managed systems. Simultaneously, UAC provides veterans and first responders with a renewed sense of purpose by giving them real responsibility in animal stewardship and farm operations. It strictly operates as a conservation and education entity, not an animal rescue or commercial vendor. (source: raw/operator-notes/UAC_BRAND_BIBLE.md)

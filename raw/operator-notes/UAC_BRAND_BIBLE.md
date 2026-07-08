@@ -35,7 +35,7 @@ Urban Ark brings these two truths together: Conservation requires patience, disc
 
 ## 3. Elevator Pitch
 
-Urban Ark Conservation is a veteran-founded nonprofit sanctuary farm focused on conserving critically endangered livestock breeds and restoring land through regenerative agriculture.
+Urban Ark Conservation is a veteran-founded nonprofit conservation farm focused on conserving critically endangered livestock breeds and restoring land through regenerative agriculture.
 
 We preserve genetic heritage that modern systems abandoned, while giving veterans and first responders a place to continue serving — through real work, real responsibility, and long-term stewardship of animals and land.
 

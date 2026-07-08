@@ -66,7 +66,7 @@ Money movement, purchase/order, grant submission, tax filing, donor receipt, pub
 | Marketing support becomes public dispatch | C2 boundary violation | Route to S6/EDEN gate. |
 
 ## Data boundaries and anti-fabrication
-Never invent balances, revenue, expenses, grants, awards, inventory, store orders, donor records, gift restrictions, infrastructure costs, or financial projections. UAC owns animals; TNR is commercial and does not own sanctuary animals.
+Never invent balances, revenue, expenses, grants, awards, inventory, store orders, donor records, gift restrictions, infrastructure costs, or financial projections. UAC owns animals; TNR is commercial and does not own conservation animals.
 
 ## Activation status
 Activation: **STANDING-READY**. No cron until a live S4 loop is proven end-to-end under this profile.

@@ -1,10 +1,10 @@
 ---
-title: S-1 Governance Recommendations 2026-07-06
+title: S-1 Governance Recommendations 2026-07-07
 type: governance
-created: 2026-07-07T02:09:04.561327+00:00
+created: 2026-07-08T02:13:53.608423+00:00
 ---
 
-# S-1 Governance Recommendations — 2026-07-06
+# S-1 Governance Recommendations — 2026-07-07
 
 ## Recommendations
 
@@ -16,7 +16,7 @@ created: 2026-07-07T02:09:04.561327+00:00
 [
   {
     "day": 15,
-    "days_until_due": 311,
+    "days_until_due": 310,
     "due_date": "2027-05-15",
     "entity": "UAC",
     "gate": "signature_required_never_autofile",
@@ -25,7 +25,7 @@ created: 2026-07-07T02:09:04.561327+00:00
   },
   {
     "day": 31,
-    "days_until_due": 176,
+    "days_until_due": 175,
     "due_date": "2026-12-31",
     "entity": "UAC",
     "gate": "operator_review",
@@ -34,7 +34,7 @@ created: 2026-07-07T02:09:04.561327+00:00
   },
   {
     "day": 1,
-    "days_until_due": 177,
+    "days_until_due": 176,
     "due_date": "2027-01-01",
     "entity": "UAC/TNR",
     "gate": "operator_review",

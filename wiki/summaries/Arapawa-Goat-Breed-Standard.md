@@ -15,7 +15,7 @@ This document provides a comprehensive profile of the Arapawa goat, a critically
 ## History and Origin
 The Arapawa goat is descended from domestic goats brought to New Zealand by European explorers as early as the 1600s, with historical links to Captain James Cook's 1777 expeditions. While once thought to be descended from "Old English" goats, DNA evidence reveals a unique identity and distant relation to South African breeds (source: raw/animals/2026-06-07-arapawa-goat-breed-standard.md). 
 
-In the 1970s, the New Zealand Forest Service attempted to remove the goats to protect native forests. Betty and Walt Rowe, along with volunteers, created a sanctuary in 1987 with 40 domesticated goats to preserve the breed. As of 2011, the global population was extremely small, with roughly 150 to 200 in the United States (source: raw/animals/2026-06-07-arapawa-goat-breed-standard.md).
+In the 1970s, the New Zealand Forest Service attempted to remove the goats to protect native forests. Betty and Walt Rowe, along with volunteers, established a conservation program in 1987 with 40 goats returned to domestication to preserve the breed. As of 2011, the global population was extremely small, with roughly 150 to 200 in the United States (source: raw/animals/2026-06-07-arapawa-goat-breed-standard.md).
 
 ## Characteristics
 - **Size and Weight:** Medium-sized; Does weigh 60–80 lbs, Bucks up to 125 lbs.

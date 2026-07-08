@@ -34,7 +34,7 @@ The goats were once thought to be descended from "Old English," a common goat br
 
 The Arapawa goat population thrived on the island without major threat for hundreds of years, until the 1970s. At that time, the New Zealand Forest Service concluded that the goats were too damaging to the native forest and had to be removed.
 
-In reaction to the news, in 1987 Arapawa Island residents Betty and Walt Rowe stepped in with friends and volunteers to create a sanctuary for the breed. They began conservation work with 40 goats returned to domestication. It is largely through their efforts that the breed gained international attention and survives today.
+In reaction to the news, in 1987 Arapawa Island residents Betty and Walt Rowe stepped in with friends and volunteers to establish a conservation breeding program for the breed. They began conservation work with 40 goats returned to domestication. It is largely through their efforts that the breed gained international attention and survives today.
 
 The Arapawa remains one of the rarest goat breeds. As of 2011, there were approximately 150 to 200 domesticated goats in the United States, representing about half of the global population. Dedicated breeders are also working with the breed in New Zealand and the United Kingdom.
 
