@@ -53,3 +53,4 @@
 ## [2026-07-02] query | Hermes change-set: operator-executed via ! confirmed; escape hatch + discovery commands issued, awaiting live jobs.json | 0 pages affected
 ## [2026-07-02] query | Protocol switch: EDEN self-edits via Telegram relay, operator verifies via file-drop redirects; failed wrapped commands confirmed harmless | 0 pages affected
 ## [2026-07-06] officer-update | Six officer profiles refreshed from vault doctrine and re-verified | 2 pages affected
+## [2026-07-10] maintenance | Windows-safe normalization of two Dependable Disposal evidence directories; audit references updated and hashes preserved | 8 files moved, 4 registers updated
