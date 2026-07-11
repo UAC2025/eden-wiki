@@ -54,3 +54,4 @@
 ## [2026-07-02] query | Protocol switch: EDEN self-edits via Telegram relay, operator verifies via file-drop redirects; failed wrapped commands confirmed harmless | 0 pages affected
 ## [2026-07-06] officer-update | Six officer profiles refreshed from vault doctrine and re-verified | 2 pages affected
 ## [2026-07-10] maintenance | Windows-safe normalization of two Dependable Disposal evidence directories; audit references updated and hashes preserved | 8 files moved, 4 registers updated
+## [2026-07-10] governance-packet | LCM two-veteran Plan B support-letter draft packet created for Commander review only | 1 page affected
