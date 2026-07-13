@@ -55,3 +55,4 @@
 ## [2026-07-06] officer-update | Six officer profiles refreshed from vault doctrine and re-verified | 2 pages affected
 ## [2026-07-10] maintenance | Windows-safe normalization of two Dependable Disposal evidence directories; audit references updated and hashes preserved | 8 files moved, 4 registers updated
 ## [2026-07-10] governance-packet | LCM two-veteran Plan B support-letter draft packet created for Commander review only | 1 page affected
+## [2026-07-12] graphify-sweep | Vault crawl: 276 nodes, 138 edges, 9 broken (cron script not found — ran manually) | 2 pages affected (graph.json, GRAPH_REPORT.md)
