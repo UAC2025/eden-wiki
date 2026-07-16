@@ -56,3 +56,12 @@
 ## [2026-07-10] maintenance | Windows-safe normalization of two Dependable Disposal evidence directories; audit references updated and hashes preserved | 8 files moved, 4 registers updated
 ## [2026-07-10] governance-packet | LCM two-veteran Plan B support-letter draft packet created for Commander review only | 1 page affected
 ## [2026-07-12] graphify-sweep | Vault crawl: 276 nodes, 138 edges, 9 broken (cron script not found — ran manually) | 2 pages affected (graph.json, GRAPH_REPORT.md)
+## [2026-07-15 12:00] compile | Ecosystem State from Honcho
+- source: 46 Honcho conclusions from 6 agents
+- pages_created: [wiki/syntheses/ecosystem-state-2026-07-15.md]
+- pages_updated: [wiki/log.md]
+- Honcho peers: 23 agents, 4 active conclusions seeded
+## [2026-07-15 18:30] verify | EINs from Google Drive
+- source: Google Drive PA_Ag_EDEN_Network_sec8910_impl_budget_team.md
+- Urban Ark Conservation (501c3): 81-1189061
+- Terra Nova Roots LLC: 99-1484133
