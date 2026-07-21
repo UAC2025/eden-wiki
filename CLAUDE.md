@@ -86,7 +86,7 @@ and the knowledge evaporates into chat history — the failure mode this system 
 
 ## Citation Format
 
-Wiki page: [[concepts/FAMACHA-Scoring]]   Raw file: (source: raw/health/2026-03-12_zoey-famacha.md)
+Wiki page: `concepts/FAMACHA-Scoring`   Raw file: (source: raw/health/2026-03-12_zoey-famacha.md)
 Database: (source: farm.sqlite). Citation is a hard requirement, not a courtesy.
 
 ## log.md Format (append-only)

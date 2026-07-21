@@ -20,7 +20,7 @@ source_files:
 
 # S-1 Full Stand-Up — Intelligence & Gap Analysis
 
-> **BLUF:** The legacy EDEN registry exposed **36 distinct REAL S-1 topics** across four parent agents plus the [[entities/S1-Personnel|S1_Personnel]] coordinator. On Hermes, roughly a third of that surface is ported (governance/compliance/document doctrine via the `s1-governance-ops` skill), a third is blueprint-only (inbound email, calendar sync), and a third is **not ported at all** (task lifecycle, programs/participants, Wix intake, printing). The single Commander is the sole operator; the highest-leverage remaining stand-up is **inbound-comms + task lifecycle**, activated one loop at a time per THE RULE.
+> **BLUF:** The legacy EDEN registry exposed **36 distinct REAL S-1 topics** across four parent agents plus the [[wiki/entities/S1-Personnel|S1_Personnel]] coordinator. On Hermes, roughly a third of that surface is ported (governance/compliance/document doctrine via the `s1-governance-ops` skill), a third is blueprint-only (inbound email, calendar sync), and a third is **not ported at all** (task lifecycle, programs/participants, Wix intake, printing). The single Commander is the sole operator; the highest-leverage remaining stand-up is **inbound-comms + task lifecycle**, activated one loop at a time per THE RULE.
 
 Sources for every claim in this page: the generated capability registry (`_MANIFEST/EDEN_CAPABILITIES_MASTER.md`, regen 2026-06-13), the locked S-1 capability audit (`_MANIFEST/autonomy/sessions/S1_CAPABILITY_AUDIT_2026-05-06.md`), and the four S-1 charters. Per [[concepts/UAC-Canonical-Voice]], no herd counts or observational animal data appear here — this is a systems analysis, not an operational report.
 
@@ -35,7 +35,7 @@ Legend for Hermes status:
 
 Legacy classification is from the registry legend: REAL = reads/writes a real store or emits a real artifact.
 
-### TaskAI — task lifecycle authority (charter: [[../eden/_MANIFEST/autonomy/charters/TaskAI|TaskAI]])
+### TaskAI — task lifecycle authority (charter: `eden/_MANIFEST/autonomy/charters/TaskAI.md`)
 
 | REAL topic | Function | Hermes status |
 |---|---|---|
@@ -45,7 +45,7 @@ Legacy classification is from the registry legend: REAL = reads/writes a real st
 | `task_update_status` | Status transitions (pending→completed etc.) | **NOT PORTED** |
 | *(charter, not registry)* recurring templates, weather/animal/equipment task triggers | Event-driven task generation | **NOT PORTED** — legacy stubs only, per the 2026-05-06 audit these were extraction stubs even in EDEN |
 
-### ProgramsAI — veteran/first-responder programming (charter: [[../eden/_MANIFEST/autonomy/charters/ProgramsAI|ProgramsAI]])
+### ProgramsAI — veteran/first-responder programming (charter: `eden/_MANIFEST/autonomy/charters/ProgramsAI.md`)
 
 | REAL topic | Function | Hermes status |
 |---|---|---|
@@ -54,7 +54,7 @@ Legacy classification is from the registry legend: REAL = reads/writes a real st
 | `program_query` | Program schedule + roster read | **NOT PORTED** |
 | *(charter)* curriculum generation | AGBA / veteran-program curriculum drafts | **PARTIAL** — content authoring covered generically by `uac-content-system` skill; the legacy `curriculum_generator.py` was import-broken (python-pptx) even in EDEN |
 
-### GovernanceAI — 501c3 + LLC compliance (charter: [[../eden/_MANIFEST/autonomy/charters/GovernanceAI|GovernanceAI]])
+### GovernanceAI — 501c3 + LLC compliance (charter: `eden/_MANIFEST/autonomy/charters/GovernanceAI.md`)
 
 | REAL topic | Function | Hermes status |
 |---|---|---|
@@ -66,7 +66,7 @@ Legacy classification is from the registry legend: REAL = reads/writes a real st
 | `mailing_dispatch` | Governance mailings | **NOT PORTED** — no outbound postal/print path (see printers gap, §2) |
 | `registration_status_query` [STATUS] | SAM.gov / CAGE / UEI snapshot | **PARTIAL** — tracked in skill scope; no live tracker |
 
-### SecretarialAI — administrative operations (charter: [[../eden/_MANIFEST/autonomy/charters/SecretarialAI|SecretarialAI]])
+### SecretarialAI — administrative operations (charter: `eden/_MANIFEST/autonomy/charters/SecretarialAI.md`)
 
 | REAL topic | Function | Hermes status |
 |---|---|---|
@@ -82,7 +82,7 @@ Legacy classification is from the registry legend: REAL = reads/writes a real st
 | *(charter)* Wix bookings/contacts/intake ownership | Booking webhook receiver, Contacts CRM | **NOT PORTED** — Wix webhooks gap (§2); note the legacy `wix_integration.py` was already DEAD/pruned in EDEN itself |
 | *(charter)* calendar management | Event creation, conflict detection | **PARTIAL** — doctrine in `s1-governance-ops` §4; Google Calendar path available via `gws`, Farmbrite leg missing |
 
-### S1_Personnel coordinator (charter: [[../eden/_MANIFEST/autonomy/charters/S1_Officer|S1_Officer]])
+### S1_Personnel coordinator (charter: `eden/_MANIFEST/autonomy/charters/S1_Officer.md`)
 
 | REAL topic | Function | Hermes status |
 |---|---|---|
@@ -103,7 +103,7 @@ Four integration seams block full S-1 function. Each was a live (or charter-plan
 ### 2.1 Wix webhooks (bookings, form submissions, contacts)
 - **Legacy state:** SecretarialAI charter names Wix Bookings, Contacts CRM, and intake as canonical S-1 territory on the sole in-scope site (`urbanarkconservation.org`, site ace92575); ProgramsAI reflexes fire on `wix.form_submitted` / `wix.booking_received`. Note: `wix_integration.py` was already pruned/DEAD in EDEN — this was a planned revive, not a working port candidate.
 - **Hermes gap:** No webhook receiver, no polling loop. Program registrations, tour bookings, and store-driven contacts arrive only as email notifications — which are also unprocessed (see 2.4).
-- **Impact:** [[../eden/_MANIFEST/autonomy/charters/ProgramsAI|ProgramsAI]] capabilities are entirely gated behind this seam. Every booking is a manual Commander touch.
+- **Impact:** `eden/_MANIFEST/autonomy/charters/ProgramsAI.md` capabilities are entirely gated behind this seam. Every booking is a manual Commander touch.
 - **Port shape:** a cron-scheduled Wix REST API poll (bookings + form submissions since last cursor) is simpler and more robust than standing up a public webhook endpoint; write results to a local store + vault log.
 
 ### 2.2 Farmbrite API

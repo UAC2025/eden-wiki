@@ -1,6 +1,6 @@
 # EDEN Wiki — Graphify Sweep Report
 
-**Generated:** 1783839711.5645776
+**Generated:** 1784594862.939186
 **Vault:** /persist/eden/hermes/workspace/eden-wiki
 
 ---
@@ -9,10 +9,10 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total Nodes** | 276 |
-| **Total Edges** | 138 |
-| **Broken Links** | 9 |
-| **Orphan Pages** | 198 |
+| **Total Nodes** | 285 |
+| **Total Edges** | 150 |
+| **Broken Links** | 0 |
+| **Orphan Pages** | 203 |
 
 ---
 
@@ -20,64 +20,65 @@
 
 | Type | Count |
 |------|-------|
-| unknown | 92 |
-| operations | 72 |
+| operations | 94 |
+| unknown | 75 |
 | doctrine | 12 |
 | governance-evidence | 9 |
 | governance-template | 9 |
-| synthesis | 8 |
-| entity | 4 |
+| synthesis | 9 |
+| entity | 5 |
 | governance | 4 |
-| governance-packet | 3 |
 | governance-index | 3 |
-| governance-matrix | 3 |
+| governance-packet | 3 |
 | accounting-control | 3 |
+| accounting-intake-register | 3 |
 | grant-qc-report | 3 |
-| summary | 2 |
-| mycelium-adapter-proof | 2 |
+| governance-matrix | 3 |
 | morning-briefing | 2 |
-| accounting-totals-candidate | 2 |
+| mycelium-adapter-proof | 2 |
 | accounting-review-packet | 2 |
-| accounting-intake-register | 2 |
+| accounting-totals-candidate | 2 |
+| summary | 2 |
 | schema | 1 |
 | quarry-recon | 1 |
 | breed_standard | 1 |
 | concept | 1 |
 | operating-map | 1 |
-| qa | 1 |
 | live-event-test | 1 |
-| closeout-certification | 1 |
-| closeout-status | 1 |
-| commander-decisions | 1 |
-| certification-harness | 1 |
-| certification-packet | 1 |
-| audit-boundary-assessment | 1 |
-| action-ledger | 1 |
-| audit-standard | 1 |
-| operations-standard | 1 |
-| governance-authority | 1 |
-| shop-certification | 1 |
-| governance-request-packet | 1 |
-| grants-triage | 1 |
-| print-review-packet | 1 |
 | governance-correction | 1 |
-| programs-pipeline | 1 |
-| accounting-intake-verification | 1 |
-| grant-control | 1 |
 | governance-policy | 1 |
-| accounting-intake-snapshot | 1 |
-| intake-register | 1 |
-| receipt-decision-packet | 1 |
 | receipt-template | 1 |
 | intake-template | 1 |
-| commander-review-request | 1 |
+| grant-control | 1 |
+| intake-register | 1 |
+| accounting-intake-snapshot | 1 |
+| accounting-intake-verification | 1 |
 | test-report | 1 |
+| commander-review-request | 1 |
+| receipt-decision-packet | 1 |
+| grants-triage | 1 |
 | grant-scorecard | 1 |
+| grant-source-verification | 1 |
+| grant-request-packet | 1 |
 | grant-attachment-tracker | 1 |
 | grant-support-letter-draft-packet | 1 |
-| grant-request-packet | 1 |
-| grant-source-verification | 1 |
+| grant-opportunity-brief | 1 |
 | operating-standard | 1 |
+| governance-request-packet | 1 |
+| print-review-packet | 1 |
+| programs-pipeline | 1 |
+| closeout-status | 1 |
+| action-ledger | 1 |
+| governance-authority | 1 |
+| commander-decisions | 1 |
+| audit-boundary-assessment | 1 |
+| closeout-certification | 1 |
+| operations-standard | 1 |
+| audit-standard | 1 |
+| certification-packet | 1 |
+| certification-harness | 1 |
+| shop-certification | 1 |
+| qa | 1 |
 
 ---
 
@@ -85,16 +86,16 @@
 
 | Page | Incoming Links |
 |------|---------------|
-| [[raw/doctrine/PARENT_INVOCATION.md]] | 29 |
-| [[wiki/entities/Terra-Nova-Roots.md]] | 3 |
-| [[wiki/entities/Urban-Ark-Conservation.md]] | 3 |
-| [[wiki/operations/S1/Governance/Donation-Accounting-Controls/02-Donation-Receipt-Template.md]] | 3 |
-| [[wiki/operations/S1/Governance/Donation-Accounting-Controls/08-Digital-Receipt-Email-Intake-Protocol.md]] | 3 |
-| [[wiki/operations/S1/Governance/Commander-Correction-No-Real-Board-2026-07-03.md]] | 3 |
-| [[wiki/operations/S1/Governance/UAC-Bylaws-Evidence.md]] | 3 |
-| [[wiki/operations/S1/Governance/UAC-Board-Charter-Evidence.md]] | 3 |
-| [[wiki/summaries/Arapawa-Goat-Breed-Standard.md]] | 2 |
-| [[wiki/concepts/UAC-Canonical-Voice.md]] | 2 |
+| [[raw/doctrine/PARENT_INVOCATION]] | 29 |
+| [[wiki/concepts/UAC-Canonical-Voice]] | 4 |
+| [[wiki/entities/Terra-Nova-Roots]] | 3 |
+| [[wiki/entities/Urban-Ark-Conservation]] | 3 |
+| [[wiki/operations/S1/Governance/Commander-Correction-No-Real-Board-2026-07-03]] | 3 |
+| [[wiki/operations/S1/Governance/UAC-Bylaws-Evidence]] | 3 |
+| [[wiki/operations/S1/Governance/UAC-Board-Charter-Evidence]] | 3 |
+| [[wiki/operations/S1/Governance/Donation-Accounting-Controls/02-Donation-Receipt-Template]] | 3 |
+| [[wiki/operations/S1/Governance/Donation-Accounting-Controls/08-Digital-Receipt-Email-Intake-Protocol]] | 3 |
+| [[wiki/operations/S1/Governance/2025-Form-990N-Accepted]] | 3 |
 
 ---
 
@@ -102,30 +103,24 @@
 
 | Tag | Count |
 |-----|-------|
-| PF157768988 | 6 |
-| s1-personnel | 5 |
+| s1-personnel | 6 |
 | synthesis | 4 |
-| legacy-migration | 2 |
 | arcos | 2 |
-| AgTherapy | 1 |
-| ArapawaGoats | 1 |
-| BradfordCounty | 1 |
-| ConservationBreeding | 1 |
-| CottonpatchGeese | 1 |
-| GeneticPreservation | 1 |
-| GloucesterOldSpot | 1 |
-| HeritageLivestock | 1 |
-| HighlandCattle | 1 |
-| LivestockConservation | 1 |
-| LivestockGenetics | 1 |
-| Mangalitsa | 1 |
-| MiniatureHighland | 1 |
-| NarragansettTurkey | 1 |
-| NonprofitFarm | 1 |
+| legacy-migration | 2 |
+| eden-shop | 1 |
+| hardware | 1 |
+| printers | 1 |
+| farmbrite | 1 |
+| database-alignment | 1 |
+| operational-package | 1 |
+| six-step-loop | 1 |
+| final-deliverable | 1 |
+| gap-analysis | 1 |
+| operational-verification | 1 |
 
 ---
 
-## Orphan Pages (198)
+## Orphan Pages (203)
 
 Pages with no incoming wikilinks:
 - [[CLAUDE.md]]
@@ -143,25 +138,22 @@ Pages with no incoming wikilinks:
 - [[raw/doctrine/Rulings-Execution-Report-2026-07-06.md]]
 - [[raw/doctrine/TELEMETRY_POLICY.md]]
 - [[raw/doctrine/officers/Officer-Skill-Manifest-2026-07-06.md]]
-- [[raw/doctrine/officers/S1_Personnel/CHARTER.md]]
-- [[raw/doctrine/officers/S1_Personnel/PLAYBOOK.md]]
 - [[raw/doctrine/officers/S1_Personnel/SOUL.md]]
-- [[raw/doctrine/officers/S2_Intel/CHARTER.md]]
 - [[raw/doctrine/officers/S2_Intel/PLAYBOOK.md]]
 - [[raw/doctrine/officers/S2_Intel/SOUL.md]]
-- [[raw/doctrine/officers/S3_Operations/CHARTER.md]]
 - [[raw/doctrine/officers/S3_Operations/PLAYBOOK.md]]
 - [[raw/doctrine/officers/S3_Operations/SOUL.md]]
-- [[raw/doctrine/officers/S4_Logistics/CHARTER.md]]
 - [[raw/doctrine/officers/S4_Logistics/PLAYBOOK.md]]
 - [[raw/doctrine/officers/S4_Logistics/SOUL.md]]
-- [[raw/doctrine/officers/S5_Plans/CHARTER.md]]
 - [[raw/doctrine/officers/S5_Plans/PLAYBOOK.md]]
 - [[raw/doctrine/officers/S5_Plans/SOUL.md]]
-- [[raw/doctrine/officers/S6_Comms/CHARTER.md]]
 - [[raw/doctrine/officers/S6_Comms/PLAYBOOK.md]]
 - [[raw/doctrine/officers/S6_Comms/SOUL.md]]
 - [[raw/doctrine/parents/EDEN_TIER.md]]
+- [[raw/doctrine/parents/S1_Personnel/GovernanceAI.md]]
+- [[raw/doctrine/parents/S1_Personnel/ProgramsAI.md]]
+- [[raw/doctrine/parents/S1_Personnel/SecretarialAI.md]]
+- [[raw/doctrine/parents/S1_Personnel/TaskAI.md]]
 - [[raw/doctrine/parents/S2_Intel/CodexAI.md]]
 - [[raw/doctrine/parents/S2_Intel/ForgeAI.md]]
 - [[raw/doctrine/parents/S2_Intel/MapAI.md]]
@@ -212,17 +204,23 @@ Pages with no incoming wikilinks:
 - [[wiki/operations/Briefings/2026-07-09.md]]
 - [[wiki/operations/Briefings/2026-07-10.md]]
 - [[wiki/operations/Briefings/2026-07-11.md]]
+- [[wiki/operations/Briefings/2026-07-12.md]]
+- [[wiki/operations/Briefings/2026-07-13.md]]
 - [[wiki/operations/GitHub-Obsidian-Operating-Map.md]]
 - [[wiki/operations/Mycelium/Mycelium-S1-Gmail-Adapter-2026-07-04.md]]
 - [[wiki/operations/Mycelium/Mycelium-S1-Test-Email-Result-2026-07-04.md]]
 - [[wiki/operations/Mycelium/Mycelium-S1-Wix-Adapter-2026-07-04.md]]
 - [[wiki/operations/Officer-Standups/2026-07-06.md]]
 - [[wiki/operations/Officer-Standups/2026-07-07.md]]
+- [[wiki/operations/Reach/Weekly-2026-07-13.md]]
 - [[wiki/operations/S1/Email-Ingest/2026-07-03.md]]
 - [[wiki/operations/S1/Email-Ingest/2026-07-04.md]]
 - [[wiki/operations/S1/Email-Ingest/2026-07-06.md]]
 - [[wiki/operations/S1/Email-Ingest/2026-07-07.md]]
 - [[wiki/operations/S1/Governance/Donation-Accounting-Controls/Evidence/Gmail-Attachments/Fri-5-Jun-2026--19e9aad60e9bc3ea-LCM-Grant-Arapawa-Ark-Narrative-Submission-Ready-2K-ask/Livestock-Conservancy-Microgrant-Draft-v2-FINAL.md]]
+- [[wiki/operations/S1/Governance/Donation-Accounting-Controls/Test-Runs/receipt-intake-20260713/Evidence/Fri-5-Jun-2026--19e9aad60e9bc3ea-LCM-Grant-Arapawa-Ark-Narrative-Submission-Ready-2K-ask/Livestock-Conservancy-Microgrant-Draft-v2-FINAL.md]]
+- [[wiki/operations/S1/Governance/Donation-Accounting-Controls/Test-Runs/receipt-intake-20260713/Gmail-Receipt-Attachment-Ingestion-receipt-intake-20260713.md]]
+- [[wiki/operations/S1/Governance/Donation-Accounting-Controls/Test-Runs/receipt-intake-20260713/Receipt-Intake-Batch-01-Decision-Packet.md]]
 - [[wiki/operations/S1/Governance/Donation-Accounting-Controls/Test-Runs/smoke-20260703/Gmail-Receipt-Attachment-Ingestion-smoke-20260703.md]]
 - [[wiki/operations/S1/Governance/Governance-Recommendations-2026-07-03.md]]
 - [[wiki/operations/S1/Governance/Governance-Recommendations-2026-07-04.md]]
@@ -236,6 +234,7 @@ Pages with no incoming wikilinks:
 - [[wiki/operations/S1/Governance/Grants/LCM-Microgrant-Draft-v4-QC-Report-2026-07-04.md]]
 - [[wiki/operations/S1/Governance/Grants/LCM-Microgrant-QC-Report-2026-07-03.md]]
 - [[wiki/operations/S1/Governance/Grants/LCM-Two-Veteran-Support-Letter-Draft-Packet-2026-07-10.md]]
+- [[wiki/operations/S1/Governance/Grants/OPPORTUNITY-SustainableAg-2026.md]]
 - [[wiki/operations/S1/Governance/S1-Governance-Packet-2026-07-03.md]]
 - [[wiki/operations/S1/Governance/UAC-Board-Formation-and-Governance-Adoption-Packet.md]]
 - [[wiki/operations/S1/Officer-Packets/S1-Alive-Loop-20260703_134226.md]]
@@ -326,21 +325,13 @@ Pages with no incoming wikilinks:
 - [[wiki/syntheses/Node-Audit-2026-07-06.md]]
 - [[wiki/syntheses/Officer-Roll-Call-2026-07-06.md]]
 - [[wiki/syntheses/S1-Closeout-Audit-2026-07-03.md]]
+- [[wiki/syntheses/ecosystem-state-2026-07-15.md]]
 
 ---
 
-## Broken Wikilinks (9)
+## Broken Wikilinks (0)
 
 Links that could not be resolved to any existing page:
-- `CLAUDE.md` → `[[concepts/FAMACHA-Scoring]]`
-- `wiki/INDEX.md` → `[[../raw/doctrine/officers/S1_Personnel/CHARTER]]`
-- `wiki/INDEX.md` → `[[../raw/doctrine/officers/S2_Intel/CHARTER]]`
-- `wiki/INDEX.md` → `[[../raw/doctrine/officers/S3_Operations/CHARTER]]`
-- `wiki/INDEX.md` → `[[../raw/doctrine/officers/S4_Logistics/CHARTER]]`
-- `wiki/INDEX.md` → `[[../raw/doctrine/officers/S5_Plans/CHARTER]]`
-- `wiki/INDEX.md` → `[[../raw/doctrine/officers/S6_Comms/CHARTER]]`
-- `wiki/syntheses/S1-Full-Standup-Intel-Analysis.md` → `[[entities/S1-Personnel]]`
-- `wiki/syntheses/S1-Full-Standup-Intel-Analysis.md` → `[[../eden/_MANIFEST/autonomy/charters/S1_Officer]]`
 
 ---
 
