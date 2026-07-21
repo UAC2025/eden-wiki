@@ -2,7 +2,7 @@
 title: LCM Supporting Letters Tracker 2026-07-04
 type: grant-attachment-tracker
 created: 2026-07-04
-status: waiting-on-recommenders
+status: letters-in-progress (Commander obtaining per EDEN 2026-07-15T18:20Z)
 owner: S-1 GovernanceAI
 ---
 
@@ -22,8 +22,8 @@ The LCM Microgrant packet is QC-passed, but not submission-complete until two si
 
 | Slot | Preferred signer | Purpose | Status |
 |---|---|---|---|
-| Letter 1 | Arapawa registry rep, Arapawa breeder, or conservation peer | Validate breed-conservation need, second-bloodline value, and UAC credibility | Pending Commander outreach |
-| Letter 2 | Attending veterinarian OR veteran/program/education partner | Validate either animal-health/quarantine protocol or community/program impact | Pending Commander outreach |
+| Letter 1 | Arapawa registry rep, Arapawa breeder, or conservation peer | Validate breed-conservation need, second-bloodline value, and UAC credibility | In progress — Commander obtaining (EDEN update 2026-07-15T18:20Z) |
+| Letter 2 | Attending veterinarian OR veteran/program/education partner | Validate either animal-health/quarantine protocol or community/program impact | In progress — Commander obtaining (EDEN update 2026-07-15T18:20Z) |
 
 ## Template source
 Repository template located at:
